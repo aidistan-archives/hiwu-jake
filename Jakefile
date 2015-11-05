@@ -127,9 +127,11 @@ namespace('seeds', function() {
   desc('Upload all seeds to the server');
   task('upload', function() {
     api.config(function(_api) {
-      fs.readdirSync('seeds').forEach(function(username) {
-        var api = new HiwuApi(_api.host, _api.port);
-        api.debugger.api = true;
+      var api = new HiwuApi(_api.host, _api.port);
+      api.debugger.api = true;
+
+      async.eachSeries(fs.readdirSync('seeds'), function(username, cb) {
+        api.accessToken = null;
 
         api.HiwuUser.login({
           email: username + '@simple.hiwu.ren',
@@ -143,29 +145,37 @@ namespace('seeds', function() {
           );
 
           api.HiwuUser.simpleLogin(username, '', function(err, accessToken) {
-            var galleries = seed.galleries;
-            delete seed.galleries;
-            galleries.forEach(function(gallery) {
-              var items = gallery.items;
-              delete gallery.items;
-              api.HiwuUser.createGallery(accessToken.userId, gallery, function(err, gallery) {
-                items.forEach(function(item) {
-                  var photos = item.photos;
-                  delete item.photos;
-                  api.Gallery.createItem(gallery.id, item, function(err, item) {
-                    photos.forEach(function(photo) {
-                      api.Item.createPhoto(item.id, photo);
-                    });
-                  });
-                });
-              });
-            });
+            async.series([
+              function(cb) {
+                var galleries = seed.galleries;
+                delete seed.galleries;
 
-            api.HiwuUser.updateAvatar(accessToken.userId, {
-              avatar: seed.avatar
-            });
-            delete seed.avatar;
-            api.HiwuUser.updateAttributes(accessToken.userId, seed);
+                async.eachSeries(galleries, function(gallery, cb) {
+                  var items = gallery.items;
+                  delete gallery.items;
+                  api.HiwuUser.createGallery(accessToken.userId, gallery, function(err, gallery) {
+                    async.eachSeries(items, function(item, cb) {
+                      var photos = item.photos;
+                      delete item.photos;
+                      api.Gallery.createItem(gallery.id, item, function(err, item) {
+                        async.eachSeries(photos, function(photo, cb) {
+                          api.Item.createPhoto(item.id, photo, cb);
+                        }, cb);
+                      });
+                    }, cb);
+                  });
+                }, cb);
+              },
+              function(cb) {
+                api.HiwuUser.updateAvatar(accessToken.userId, {
+                  avatar: seed.avatar
+                }, cb);
+                delete seed.avatar;
+              },
+              function(cb) {
+                api.HiwuUser.updateAttributes(accessToken.userId, seed, cb);
+              }
+            ], cb)
           });
         });
       });
