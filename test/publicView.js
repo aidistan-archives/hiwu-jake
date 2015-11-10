@@ -148,20 +148,20 @@ describe('Integration Test: Public Views', function () {
 
   describe('Today', function () {
     describe('#publicView', function () {
-      var galleries;
+      var entries;
 
       before(function(done) {
         api.Today.publicView(function(err, res) {
-          galleries = res;
+          entries = res;
           done();
         });
       });
 
       it('should return public galleries with related models', function(done) {
-        assert(galleries.length > 0);
-        async.each(galleries, function(gallery, cb) {
-          testPublicGallery(gallery);
-          assert(gallery.hiwuUser);
+        assert(entries.length > 0);
+        async.each(entries, function(entry, cb) {
+          testPublicGallery(entry.gallery);
+          assert(entry.gallery.hiwuUser);
           cb();
         }, done);
       });
