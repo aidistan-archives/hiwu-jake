@@ -47,8 +47,16 @@ describe('Integration Test: Public Views', function () {
                   privateItem = item;
 
                   api.Today.create({
+                    date_y: 2015,
                     galleryId: gallery.id
-                  }, cb);
+                  }, function(err) {
+
+                    // Create a newer one
+                    api.Today.create({
+                      date_y: 2016,
+                      galleryId: gallery.id
+                    }, cb);
+                  });
                 });
               });
             });
@@ -164,6 +172,10 @@ describe('Integration Test: Public Views', function () {
           assert(entry.gallery.hiwuUser);
           cb();
         }, done);
+      });
+
+      it('should return newest galleries first', function() {
+        assert(entries[0].date_y > entries[1].date_y);
       });
     });
   });
