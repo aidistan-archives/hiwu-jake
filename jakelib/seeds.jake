@@ -63,7 +63,7 @@ namespace('seeds', function() {
                     delete gallery.items;
 
                     api.HiwuUser.createGallery(accessToken.userId, gallery, function(err, gallery) {
-                      apI.Today.create({
+                      apI.SelectedGallery.create({
                         date_y: match[1],
                         date_m: match[2],
                         date_d: match[3],

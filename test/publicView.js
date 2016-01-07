@@ -46,13 +46,13 @@ describe('Integration Test: Public Views', function () {
                 }, function(err, item) {
                   privateItem = item;
 
-                  api.Today.create({
+                  api.SelectedGallery.create({
                     date_y: 2015,
                     galleryId: gallery.id
                   }, function(err) {
 
                     // Create a newer one
-                    api.Today.create({
+                    api.SelectedGallery.create({
                       date_y: 2016,
                       galleryId: gallery.id
                     }, cb);
@@ -68,7 +68,7 @@ describe('Integration Test: Public Views', function () {
             }, function(err, gallery) {
               privateGallery = gallery;
 
-              api.Today.create({
+              api.SelectedGallery.create({
                 galleryId: gallery.id
               }, cb);
             });
@@ -154,12 +154,12 @@ describe('Integration Test: Public Views', function () {
     });
   });
 
-  describe('Today', function () {
+  describe('SelectedGallery', function () {
     describe('#publicView', function () {
       var entries;
 
       before(function(done) {
-        api.Today.publicView(function(err, res) {
+        api.SelectedGallery.publicView(function(err, res) {
           entries = res;
           done();
         });
