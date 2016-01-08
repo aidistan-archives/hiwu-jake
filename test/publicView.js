@@ -175,7 +175,7 @@ describe('Integration Test: Public Views', function () {
       });
 
       it('should return newest galleries first', function() {
-        assert(entries[0].date_y > entries[1].date_y);
+        assert(entries[0].date_y >= entries[1].date_y);
       });
     });
   });
