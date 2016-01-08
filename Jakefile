@@ -18,8 +18,7 @@ task('avatar', function(done) {
     },
     function(cb) {
       api.HiwuUser.updateAvatar(api.lastResult.id, {
-        nickname: 'Aidi Stan',
-        avatar: {
+        data: {
           file: 'seeds/chunranbeijing/chunranicon.jpg',
           content_type: 'image/jpeg'
         }

@@ -11,7 +11,7 @@ namespace('seeds', function() {
       var seed = yml.load(
         fs.readFileSync('seeds/' + username + '/' + username + '.yml').toString()
       );
-      fs.accessSync(seed.avatar.file);
+      fs.accessSync(seed.avatar.data.file);
 
       console.log('[U] ' + username);
       seed.galleries.forEach(function(gallery) {
@@ -83,9 +83,7 @@ namespace('seeds', function() {
                   }, cb);
                 },
                 function(cb) {
-                  api.HiwuUser.updateAvatar(accessToken.userId, {
-                    avatar: seed.avatar
-                  }, cb);
+                  api.HiwuUser.updateAvatar(accessToken.userId, seed.avatar, cb);
                   delete seed.avatar;
                 },
                 function(cb) {
@@ -94,7 +92,7 @@ namespace('seeds', function() {
               ], cb);
             });
           });
-        })
+        });
       });
     });
   });

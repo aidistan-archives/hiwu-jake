@@ -31,16 +31,14 @@ describe('Unit Test: HiwuUser', function() {
     describe('#updateAvatar', function() {
       before(function(done) {
         api.HiwuUser.updateAvatar(user.id, {
-          nickname: 'Aidi',
-          avatar: {
+          data: {
             file: 'seeds/chunranbeijing/chunranicon.jpg',
             content_type: 'image/jpeg'
           }
         }, done);
       });
 
-      it('should update fields and avatar', function() {
-        assert.equal('Aidi', api.lastResult.nickname);
+      it('should update avatar', function() {
         assert(api.lastResult.avatar);
       });
     });
