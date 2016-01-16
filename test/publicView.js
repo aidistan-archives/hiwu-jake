@@ -168,8 +168,10 @@ describe('Integration Test: Public Views', function () {
       it('should return public galleries with related models', function(done) {
         assert(entries.length > 0);
         async.each(entries, function(entry, cb) {
-          testPublicGallery(entry.gallery);
-          assert(entry.gallery.hiwuUser);
+          if (entry.gallery) {
+            testPublicGallery(entry.gallery);
+            assert(entry.gallery.hiwuUser);
+          }
           cb();
         }, done);
       });
