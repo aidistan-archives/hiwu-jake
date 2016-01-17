@@ -77,7 +77,7 @@ task('comment', function(done) {
 });
 
 task('like', function(done) {
-  var user;
+  var user, item;
 
   async.series([
     function(cb) {
@@ -95,7 +95,11 @@ task('like', function(done) {
       }, cb);
     },
     function(cb) {
+      item = api.lastResult;
       api.HiwuUser.linkLike(user.id, api.lastResult.id, cb);
+    },
+    function(cb) {
+      api.Item.getLikers(item.id, cb);
     }
   ], done);
 });
