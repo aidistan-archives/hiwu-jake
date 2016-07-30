@@ -1,0 +1,88 @@
+nickname: 石榴
+description: 老考拉的老石榴
+avatar:
+  data:
+    file: seeds/shiliubeijing/shiliuicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 旗袍博物馆
+    description: 记忆里的故乡，在皇城根脚下。我骑着自行车，一手一只糖葫芦，一手一个学校食堂的肉饼，路边的秃子树，天特别蓝，特别干爽，没有雾霾。骑的快了，还会闻到空气里特殊的味道，不同于现在的味道，是记忆里的故乡… 旗袍对于我而言，起初只是一件有些隆重的衣服，而当我走出家门，散迹在故乡之外时，旗袍成为了我找寻故乡的路，也让我走向了一条复兴传统的路。
+    items:
+      - name: 第一件手工旗袍
+        description: 高中毕业的那年暑假，我一时兴起拜师学艺，做了一件旗袍。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/1.jpg
+              content_type: image/jpeg
+      - name: 墨迹
+        description: 两年前，我参加了一个全世界20位艺术家在泰国的冥想活动。那时正是曼谷暴动，我做了一件行为艺术作品：在地上铺了一张2米长的画布，我用冥想的姿势躺在上面，每人发一瓶墨汁，让他们随意泼在我身上，结束后我起身，白布上留下一个人形的空白。这件行为艺术作品我想表达，在现实生活中，我们自身没有办法抵抗外界不和睦的、不公平的、或者不理解的元素，就像这些暴动，我们没办法改变这些事实的发生，但你可以在心中选择自己的立场，你可以在这个不和平的年代选择和平的方式，也可以做一些更和平的努力。你可以在这种混乱的现状中依然活出很纯粹的感觉。然而这件我做的第一个行为艺术作品，在表达含义的同时也感染了我自己：坚持。后来我一拍脑袋，开始了第二件行为艺术：穿365天旗袍。这便是最初买的几件旗袍之一。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/2-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/2-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/2-3.jpg
+              content_type: image/jpeg
+      - name: 骷髅旗袍
+        description: 在我初期穿旗袍的某天，我和好朋友在某个周五晚上抱着薯片看着电影《花样年华》，朋友问我旗袍的来历，我却一时语塞。这时我才发现，原来我以为自己熟悉的旗袍竟是那样陌生，我不知道人们为何突然在20年代末穿上了旗袍，更不知道它背后更多的文化意义。我开始研究旗袍，翻遍了可以找到的所有中英文相关书籍资料。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/3-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/3-2.jpg
+              content_type: image/jpeg
+      - name: 我的名字叫红
+        description: 一年半前，一位旗袍设计师在我的公众账号下留言，说很喜欢我的故事，想为我设计一件旗袍。我们俩一见如故，▼ 这位设计师送给了我这件旗袍，说设计这件红色的旗袍是为了让我在毕业舞会时穿。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/4-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/4-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/4-3.jpg
+              content_type: image/jpeg
+      - name: 山水燕
+        description: 这件旗袍是一位嫁到美国的中国阿姨送我的。阿姨从中国走时带走了两件旗袍，都送给我了。阿姨说她没有机会穿，让我替她把旗袍一直穿下去。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/5-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/5-2.jpg
+              content_type: image/jpeg
+      - name: 手工紫旗袍
+        description: 除了研究旗袍的相关资料，我也去采访一些生活中热爱旗袍的人，去倾听她们和旗袍的故事。这是其中的一位采访对象坛坛姐送给我的，是 ▼ 她自己手工制作的旗袍。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/6-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/6-2.jpg
+              content_type: image/jpeg
+      - name: 京都的秋天
+        description: 新加坡有3/4的华人，也很好的保留了中国的旗袍文化。2014年8月，我去新加坡考察旗袍。这是我在一家 ▼ Peter Kor的独立设计店买的旗袍。当时Peter也在店里，给我讲每一件旗袍的设计故事，我买的这件灵感来自京都的秋天。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/7-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/7-2.jpg
+              content_type: image/jpeg
+      - name: 藏红花
+        description: 这是五道营胡同一家独立设计店Magic Q by Lou的老板送我的原创旗袍。我和这位老板因旗袍认识，后来经常一起吃饭喝酒，成了很好的朋友。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/8.jpg
+              content_type: image/jpeg
+      - name: 小黑裙
+        description: 现在，我已经设计出了自己的第一款旗袍，把小黑裙和旗袍结合，优雅的同时也可以修饰身材比例。
+        photos:
+          - data:
+              file: seeds/shiliubeijing/2016-02-01-cheongsam/9.jpg
+              content_type: image/jpeg

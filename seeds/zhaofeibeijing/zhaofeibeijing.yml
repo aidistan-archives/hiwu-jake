@@ -1,0 +1,82 @@
+nickname: 赵飞
+description: 
+avatar:
+  data:
+    file: seeds/zhaofeibeijing/zhaofeiicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 漆器博物馆
+    description: 几年前一个偶然的机会，我有幸来到清华美院成为了漆艺专业老师的助手，而这位老师正是乔十光的学生，也是我的恩师。那时我并不知道漆艺，从一无所知到慢慢熟悉，四年多的时间里，默默的学习，老师的悉心点拨，我也逐渐成为了一名漆艺创作者。两年前，我在798创意园区附近有了一间自己的工作室，和心情一起每日做器。
+    items:
+      - name: 小茶杯
+        description: 人生的第一次太多了，这对小茶杯也是第一次尝试用漆做茶杯。杯子里面的墨绿色是无意中保留下来的：有一次调制好绿色后没有用完，觉得颜色很漂亮就直接加了瓦灰调制成了漆灰，刮在了这对小杯子里，漆干后直接髹涂了生漆三道。后来打磨的时候隐隐约约出现了墨绿色，就立刻停手没再陆续打磨，直到现在里面的绿色。外面的红色越来越透也很是欢喜，里外的颜色我都非常喜欢。这对杯子也就默默的准备自己留下了，心中暗喜！
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/1.jpg
+              content_type: image/jpeg
+      - name: 茶则
+        description: 这把茶则 是我很早就想做的一件器具。那段时间，一直有一件器物在脑子里打转转，我想将它表达出来，只是一直没找到合适的材料和表达方式。我开始看各种不同材料的茶具，觉得葫芦天然生成的椭圆和弧线或许可以成为很好的材料，于是经过反复切开再用大漆拼接，终于发现这样的方式不仅完成了我心里的一件器，并且实用好玩，还可以传承，简直堪称完美。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/2.jpg
+              content_type: image/jpeg
+      - name: 勺子
+        description: 我喜欢荷花，它和葫芦都有富贵、福寿的美好寓意。这把勺子，我将天然的葫芦切出荷花花瓣的美丽造型，再用大漆这种最简单朴素的制作技法使花瓣的形状永久的附着在葫芦上，简单实用，又有些随意浪漫。这把勺子已被一位在日本学习茶道的朋友收藏。记得她本是想找把水勺呢，但是一眼就喜欢上了这把勺子，后来觉得一把水勺太孤单，就把我的水勺和茶勺带都一起走了。每次有新的主人带走都有点不舍！
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/3.jpg
+              content_type: image/jpeg
+      - name: 勺子
+        description: 这把勺子是我第一次将脱胎和半成品底胎结合。因为没有脱胎的经验，做的艰难和痛苦，这也是难免的。记着当时先用石膏做了个圆柱，修整成和葫芦口一样大小的直径，再在外面贴麻布刮灰打磨，足足花了两个月时间才把底胎做好，外面保留了布纹的机理贴金，里面保持了素髹的原态。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/4.jpg
+              content_type: image/jpeg
+      - name: 茶托
+        description: 这是套茶托，在做的时候并没有想做成茶托。有一次无聊拿着锯锯葫芦玩，发现每次都锯不直，就开始探索锯直的方法。开始凭感觉，锯了好几个也没锯直，就开始用各种尺子开始量，最后被我锯的很直很平，竟然发现葫芦抛开后的弧线很美，可以一层一层的做成茶托。开始只想做葫芦中间的部分，做几个为一组，但发现这样仅仅实用，看起来却不太完美。于是做了几个比较完整的，觉得还是挺好的。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/5.jpg
+              content_type: image/jpeg
+      - name: 勺子
+        description: 素雅的风格是我喜欢的。但是素不是单一，简单也不是真的简单，器具的完整性是不可缺少的。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/6.jpg
+              content_type: image/jpeg
+      - name: 茶拨
+        description: 漆艺的制作有很多工艺：皱漆，波斯漆，研磨，雕填，莳绘，等等。最简单的漆艺作品也需要20多道工序，每天1道工序，最快也要半个月时间制作完成。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/7.jpg
+              content_type: image/jpeg
+      - name: 勺子
+        description: 我目前的创作漆器，主要是以天然的葫芦、布料、木头，竹子作为材料。我常常买来一堆葫芦切好不同的形状放在一边，有时间的时候就去看它们、把玩它们，觉得很有意思的就会立马挑出来准备创作，总有一刻，灵感会迸发出来，无需着急，交给时间，交给心情。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/8.jpg
+              content_type: image/jpeg
+      - name: 勺子
+        description: 漆器创作，这种实用美观的制作方法经过了上千年时间的考验，既有科学的实用性，又有美好的人文关怀。吃饭、喝茶、整理、收纳… 这些原本是生活中最细碎平常的事情，我们的先辈比我们有着更高的追求，对器皿的使用价值和艺术追求也是先辈所留给我们的美好传统文化，这些是值得我们去研究学习的。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhaofeibeijing/2016-02-19-lacquer/9.jpg
+              content_type: image/jpeg

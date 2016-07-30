@@ -1,0 +1,99 @@
+nickname: 小R
+description: 设计科学生/阅读世界这本书 插画旅行者/记录生活这段路
+avatar:
+  data:
+    file: seeds/xiaorbeijing/xiaoricon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 展信佳博物馆
+    description: 我是小R，今年24岁了，一个普通的中国女孩。我有一位笔友，和我同岁，是一个普通的日本女孩，我们保持通信已经有6年时间。在这6年里，我们没有打过电话，没有视频，更没有在网络上彼此关注，我们都很满足在这种书信的空间里，展开彼此的故事。
+    items:
+      - name: 最初的画
+        description: 让我们相识的是一幅画。2010年，在一个插画师分享自己作品的网站上，我发了一张画，是一张黑白的线稿：一个小邮差拿着一封信，要送信这样的感觉。几天后，我惊奇的发现有人图画回复。因为我只是在日本插画网站上的一个默默无名的中国小画师，回复的人本来就不多，更何况图片回复。点开一看，原来这个人把我的线稿用水彩上色了，而且还是没有关注的陌生人，还上色的特别好看。一来二去的和她聊天，慢慢的，因为画的内容是送信，就聊到要不要寄个信，于是交换了地址，来寄信吧~ 后来，她把这幅上了色的画寄给了我。
+        date_y: 2010
+        country: 日本
+        city:
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/1.jpg
+              content_type: image/jpeg
+      - name: 第一封信
+        description: 这是我们的第一封信。我知道了她和我一样大，学习医学，也爱画画。这些画是她画的。
+        date_y: 2010
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/2.jpg
+              content_type: image/jpeg
+      - name: 祝福卡片
+        description: 这是一张樱花季前夕收到的祝福卡片。我当时看不懂她用毛笔写的祝词，但是却觉得非常好看。后来我知道，这是一句樱花季到了日本人会用来互相问候的一句话，大概是说：夏天到了。觉得连这种并不特别的节日，都有专用的问候语句，特别有爱。我自己也是一个喜欢做小卡片、小礼物的人，逢年过节总要手工做点小物件送给经常照顾我的人。
+        date_y: 2012
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/3.jpg
+              content_type: image/jpeg
+      - name: 日本小团扇
+        description: 一直以来，我们的交流形式仅限于信封。但是时常，我们也会抱着忐忑的心情，把像这样有点厚度的东西塞进信封，看能不能寄到。最厚的一次是寄了一张A2的大海报，折成信封那么大小已经变成厚厚一叠。所幸还是没有被邮局扣下，寄到了（笑）。
+        date_y: 2012
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/4.jpg
+              content_type: image/jpeg
+      - name: 我特别想去的地方
+        description: 这个地方我以前特别想去，就是京都的伏见稻荷神社，在动画里经常出现的一个地方。这个红色的门状建筑就叫鸟居嘛，一直从山脚到山顶那一条路，全部是密密麻麻的鸟居。我看了后很激动。我觉得日本人在细节上面非常用心。我是从她的信上第一次见到手账神器MT的纸胶带的，她每次寄信都会用纸胶带细心的把信封贴的美美的。
+        date_y: 2012
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/5.jpg
+              content_type: image/jpeg
+      - name: 她家附近的岛
+        description: 我们都是喜欢画画的人，信的交流形式也比较自由。我们有时候做小册子，有时候寄照片，有时候因为语言难以描述，也会画各种示意图。这是她做的关于她家附近的一个小岛的册子，还画示意图告诉我她家和这个小岛的位置关系。
+        date_y: 2012
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/6.jpg
+              content_type: image/jpeg
+      - name: 介绍这个小岛的小书
+        description: 这是介绍这个小岛的小书。
+        date_y: 2012
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/7.jpg
+              content_type: image/jpeg
+      - name: 她的自画像
+        description: 这是她画的自己。我感觉她是小小的，脸圆圆的女孩。虽然一直没见过，我也不知道。但这张她没有把自己画胖，说不定是个很瘦的妹子？（笑）这一封之后，我也给她发了自画像。
+        date_y: 2013
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/8.jpg
+              content_type: image/jpeg
+      - name: 遥远的距离
+        description: 这是她在谷歌上找了我住的地方，她说long distance。她说这封信会travel这么长的距离，有一种很神秘的感觉。
+        date_y: 2013
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/9.jpg
+              content_type: image/jpeg
+      - name: 讲述水彩的画法
+        description: 我记得上一封信是我写了自己用水彩的方式，于是这封信她很详细的图文并茂的告诉我她是怎么画的。因为她水彩画的很好，所以我问她怎么画画。她用图表现出来，先画完线稿再上色，或者先草稿，把稿子腾上去，再上色。沾湿的方式也是，在画小的地方先用水涂满，画大的地方时，是之后再用水。
+        date_y: 2014
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/10.jpg
+              content_type: image/jpeg
+      - name: 她画的书签
+        description: 这是她原创的人物，最右边是那段时间非常热门的一个动画里面的人物，我们在信里也会交流最近看的动画和剧... 她还挺惊讶我远在中国还能时时紧跟新番动向的（笑）。
+        date_y: 2015
+        country: 日本
+        photos:
+          - data:
+              file: seeds/xiaorbeijing/2015-09-26-letter/11.jpg
+              content_type: image/jpeg

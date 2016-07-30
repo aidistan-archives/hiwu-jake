@@ -1,0 +1,220 @@
+nickname: 剑犁
+description: 铸剑为犁。
+avatar:
+  data:
+    file: seeds/jianlibeijing/jianliicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 古典配饰博物馆
+    description: 如果问我如何保持一双发现美的眼睛，我会说：手作和救助。2010年，我开始在工作之余手作古典配饰。到现在已累计制作几百支。佩戴予她人，这些小而美的物件，起初源于我对古典文化的尊重与仰慕，其后融入了对流浪动物的关怀和责任。在这个过程中，我认识了一群志同道合的朋友们，做这件事情，大家都感到有意义，有乐趣…
+    items:
+      - name: 玉兰花簪
+        description: 我本科就读于北京师范大学。北师大信息楼南边，有很多株广玉兰。每年开春，我走到玉兰树下就挪不开脚。那时北京还没有雾霾，蓝天如湛，万里无云，映衬着纯净悠扬朵朵向上的广玉兰，风一吹，树下就像下起了“花雨”，大片大片的玉兰花瓣，于是，我做了一只玉兰花簪。
+        date_y: 2014
+        date_m: 3
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/1-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/1-2.jpg
+              content_type: image/jpeg
+      - name: 茶系列贝壳簪
+        description: 那时候CCTV9正在播一套纪录片《茶：一片树叶的故事》，我一边看纪录片一边做，先后做了白茶、绿茶和红茶。个人很喜欢这套纪录片，也很喜欢这套贝壳簪，可惜手机拍的太渣了。
+        date_y: 2014
+        date_m: 4
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/2.jpg
+              content_type: image/jpeg
+      - name: 仿点翠
+        description: 仿点翠的方法，对手感和熟练度要求比较高，主要技巧在于对染色羽毛（DIY党是不可能使用翠羽的，我也拒绝伤害翠鸟）的处理和对羽毛纹理的整理拼接。即便是“仿点翠”，比“真点翠”简单很多，也是手作比较费劲的一种，做一支大的基本要花3-4个小时，不过做出来成就感很强。
+        date_y: 2014
+        date_m: 6
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/3-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/3-2.jpg
+              content_type: image/jpeg
+      - name: 『露重』迷你流苏钗
+        description: 和田青玉不是高档玉料，雕工也很普通，不过这个胖嘟嘟的小知了，肉圆一样，捧在手里，质朴可爱，当时就想：古代文人咏蝉的很多，最有名的就是虞世南：居高声自远，非是藉秋风。我虽然是女性，生活在现代，不如也以蝉为主题做一支钗来玩。由于雕工很简单，一些生物特征不明显，我就用其他材料凸显，比如在蝉的身体两侧用铜丝固定了两片料器花瓣强化翅膀，固定石榴石在顶端强化眼睛等。其他的树叶、花朵、枝蔓，都是为了显得蝉正在林间悠然自得。
+        date_y: 2014
+        date_m: 8
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/4.jpg
+              content_type: image/jpeg
+      - name: 『暮雨入画』簪（挖耳）
+        description: 这是小铺第一次上新的宝贝。准备第一期新品的时候，我想还是保守一点的好，做一些经典的配色，比如“红绿配”。中国古代配色中，有很多令人赞叹的“红绿配”，不但不俗气，而且明艳端庄。绿色取了两片青翠色老琉璃叶和翡翠色捷克琉璃。老琉璃叶是从北京一家已经倒闭的料器厂里的师傅家收的，颜色娇艳不发灰，叶片上有漂亮的暗黑色的细细浅浅的纹路，像国画一样。红色取了油染红珊瑚，包括了两颗单珠、一大一小两朵小花，还有一柄迷你小如意，用铜线左右绑住。古代簪钗中，常见到“蜂”、“蝶”等小昆虫的身影，既有装饰作用也有美好寓意，祈求多子多福、开枝散叶。做这支簪子（挖耳）的时候，我在两端添加了精雕的天然白蝶貝叶片和直径5毫米的小蜜蜂，为红花和绿色增添生气。小蜜蜂是可以左右摆动的~ 这里简单说一下“挖耳”，正如字面所示，这个顶端像个小勺子的玩意儿最初就是用来掏耳朵的，当时的人使用完毕后图方便，向头顶的发髻里一塞。。。古人爱美，挖耳越做越精致，部分挖耳后来仅仅是顶个名头，装饰功能已替代了原有的实用功能。
+        date_y: 2014
+        date_m: 9
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/5.jpg
+              content_type: image/jpeg
+      - name: 『暮雨添花』小插
+        description: 做好『暮雨入画』后，我又搭配做了一只小插，当时拍出照片后，我觉得像是暮色中，一片小花圃被雨水润湿了，比较江南的感觉，所以就取了这个名字。
+        date_y: 2014
+        date_m: 9
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/6.jpg
+              content_type: image/jpeg
+      - name: 『朱楼密』对簪
+        description: 受戏曲“头面”的启发制作的，喜欢朱砂这种纯正的红色，青金是深蓝色的，“红蓝配”也是经典配色了。黄铜花片的底纹是小梅花的纹样，成品中各种天然石遮住了，只露出周边的一圈。蝙蝠在古代有吉祥的寓意，现在我们也会说“福到”，其实也说“蝙倒”，图像表现出来就是倒挂着的蝙蝠，这种蝙蝠倒挂的形象经常出现在廊檐绘画中。再也没有买到这样的小玉石蝙蝠，桑心~
+        date_y: 2014
+        date_m: 10
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/7-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/7-2.jpg
+              content_type: image/jpeg
+      - name: 『雀踏枝』流苏对簪
+        description: 动植物是我喜欢的主题。鸟语花香~~小鸟喜欢在哪里聊天？应该是花丛间，所以我用了多种材质的花朵。有花就有叶，于是又点缀了很多绿东陵和琉璃，绿东陵叶片上又用铜丝固定了迷你小蜜蜂，这样就像花丛了。为了增加灵动的感觉，绿东陵叶片的下面，我做了一个可拆卸的单条流苏。装上流苏的时候，顾盼间显得娇美，拆下流苏的时候，显活泼，少女气浓一点。
+        date_y: 2014
+        date_m: 11
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/8-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/8-2.jpg
+              content_type: image/jpeg
+      - name: 『种玉』多子多福胸针
+        description: 自古以来，中国人对于多子多福总是十分向往，因此，葡萄、石榴之类的水果被赋予了额外的含义，古代女子们喜欢将艳丽的石榴花、缠绕的葡萄蔓等，绣在衣裙之上，含蓄地表达。我的一个老朋友终于如愿怀宝宝了，我做了这只胸针送给她。
+        date_y: 2014
+        date_m: 11
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/9-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/9-2.jpg
+              content_type: image/jpeg
+      - name: 梢露套簪
+        description: 这一套簪总会让我想到一段不太愉快的经历。有位客户选择购买了2只配簪，收到货了后却要求我把那支主簪寄给她，原因是图片拍出了3个，就得给3个…当时沟通了很久，她也不肯退货，也不肯确认收获，弄的我没辙.. 后来才知道，很多卖家都经历过相似的事，真的是很气愤..
+        date_y: 2014
+        date_m: 11
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/10-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/10-2.jpg
+              content_type: image/jpeg
+      - name: 荷花玉簪花
+        description: 这是由我和小熊“合作”完成的。当时花簪已经全部完成，就等花茎和镀金簪杆之间的胶完全凝固。就在胶凝固外层的半小时里，小熊潇洒飘逸地“掌掴”了一下荷花，然后就跳到太阳里去睡觉了... 由于外层胶那时未能完全凝固，小熊的爪毛残留了几丝在簪杆口。最后我只好特价出售这支玉簪花。想不到的是，荷花玉簪花受到抢拍，几乎是瞬间下架… 没有买到的朋友还留言抗议：我们要看小熊的爪毛！
+        date_y: 2015
+        date_m: 5
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/11.jpg
+              content_type: image/jpeg
+      - name: 『清和』通勤玉簪花
+        description: 首夏犹清和，芳草亦未歇。——南朝谢灵运《游赤石进帆海》夏天做的，记得是7月新品里的。这支玉簪花我给了“通勤”的定语，就是因为我觉得她清淡平和，耐看低调，大小合适，古今皆宜，不会太引人关注，同路人又看得明白。与这支簪子相关发生过一个故事，我和先生都唏嘘不已：那期新品上架后，一位客户联系我，问能不能定做一支，但不是寄送到他的地址，而是另一个地址，收件人也是另一个人。出于交易安全的考虑，我又和他确认了一遍，并问为什么？他说，他要把这支簪子送给一个朋友，但事先不想让她知道，而且规定了寄出时间。我一听，有故事啊，紧接着问：“女朋友吧？过生日？我可以帮你写贺卡。”那个网友沉默了一段时间，回复说：“只是好朋友，就算是男闺蜜吧。我相信她会喜欢这个。她要结婚了，请你帮我写：祝新婚快乐！勿念。”感觉自己当时石化了几秒钟... 簪子做好后，我非常认真地帮他挑选了卡片，用软笔工工整整地写了字，发货单也拍了照，传给那个网友看，他非常开心。这件事过去后，我和先生好几次聊起这个男生，先生猜测他是个害羞的人，我想，他一定是个细心的人。不管后来如何发展的，希望他和她都能过得开心吧。
+        date_y: 2015
+        date_m: 5
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/12.jpg
+              content_type: image/jpeg
+      - name: 『紫藤』插梳
+        description:  “一做紫藤深似海，从此手指是路人。”据说是因为紫藤的制作十分繁杂。我喜欢挑战，就琢磨一定要做一下紫藤。这是在看春晚的时候做的，大概看到第十几个节目的时候做好。当时先生就非常喜欢，说这个一定会受欢迎，后来确实如此。做了两款，一款是大的，适合比较正式的场合，一款是小的，适合日常戴着玩。
+        date_y: 2015
+        date_m: 2
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/13-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/13-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/13-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/13-4.jpg
+              content_type: image/jpeg
+      - name: 『翊然』小插梳
+        description: 林海有个很短的曲子，应该是影视配乐，叫《长安夜市》，曲调活泼俏丽，配器特别符合唐代音乐风格，鼓点运用丰富，节奏感强，让人听了就想起大唐流行的“胡旋舞”。做这支小插的时候，脑子里就经常响起《长安夜市》的曲调。翊是一个形声字。字从羽，从立，立亦声。“立”指“竖立”。“羽”指“双翼”。“立”与“羽”联合起来表示“鸟之双翼竖立起来”。本义就是鸟儿准备起飞的样子。鸟儿欲飞。发簪基底用的镂空铜花片厚嘟嘟的，像雏鸟的翅膀。青金是4A的，基本无白，红玛瑙肉肉的，通透，基本无杂质，透光一看就知道，和青金一起沉静了发簪颜色的基调。天河品质很好，是清透的蓝绿色，嫩嫩的，起点缀效果，一眼就能看到。服装方面，汉服适合搭配齐胸襦裙，最好是双丫髻，很萌~~通勤佩戴的话，一支插在丸子头上就足够啦。
+        date_y: 2015
+        date_m: 7
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/14.jpg
+              content_type: image/jpeg
+      - name: 『瑀步』大插梳
+        description: 初衷是想做几支跳舞也能戴的发饰。因为芭蕾舞就有自成体系的发饰，能够让人一眼认出。做到后面，就想起了赵飞燕。。。汉成帝的皇后赵飞燕擅长一种舞步，名“瑀步”，走起来“若人执花枝，颤颤然。他人莫可学也。”瑀步已失传，不过没有舞蹈基础的姑娘若佩戴轻巧有设计的步摇，翩翩而行，一样可以走出“颤颤然”的感觉。所以就做了这一套。插梳中翠绿的琉璃小叶是固定基地的，可以用手拨动，右侧旁逸斜出一枝橄榄绿茎的藤蔓，顶端是一颗白色水滴珍珠，会微微摇动，十分可爱。
+        date_y: 2015
+        date_m: 7
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/15.jpg
+              content_type: image/jpeg
+      - name: 『垂梢』中插梳
+        description: 『垂梢』与『瑀步』是配套的，『瑀步』为主簪，『垂梢』为辅簪。插梳中翠绿的琉璃小叶是固定基地的，可以用手拨动，走路时亦会微微摇动。同为步摇款，主辅两簪“摇”的方式是不同的。风格清雅，可搭配宋制褙子和日常发髻，通勤亦可。
+        date_y: 2015
+        date_m: 8
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/16.jpg
+              content_type: image/jpeg
+      - name: 『粉耳朵』长流苏对钗
+        description: 这是一位摄影要求的，她在给其他姑娘拍照时发现这样的对钗很上镜，于是提供了我几张图，说想要这样这样的，但这里要那样那样~~ 我就做了一对，在场的模特和摄影都说，就是那谁要求的样子呀。
+        date_y: 2015
+        date_m: 11
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/17.jpg
+              content_type: image/jpeg
+      - name: 花嫁套簪
+        description: 一直有客户希望开通订制。我是迟迟不敢，订制涉及面太多。我能抽出的时间和精力都是有限的。在要求订制的客户中，呼声最高的就是花嫁套簪，就是结婚敬酒时头上戴的发饰。于是我就做了这套以“红珊瑚”为主材料的套簪，由一支主钗、一对儿流苏辅簪和一对儿镂空造型簪组成，成套或单独佩戴均可，配以红唇红衣，尤其动人。
+        date_y: 2015
+        date_m: 12
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/18-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/jianlibeijing/2015-12-31-accessory/18-2.jpg
+              content_type: image/jpeg

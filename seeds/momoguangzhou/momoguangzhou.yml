@@ -1,0 +1,154 @@
+nickname: MOMO
+description: 不愛永恆但求現在 真實活著的人生
+avatar:
+  data:
+    file: seeds/momoguangzhou/momoicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 粘土异想博物馆
+    description: 大家好，我是MOMO！因为超级喜欢小朋友而在四年前选择了幼师。第一次接触粘土是在大三的美术课上，记得课上我试图做出自己的手机，可是同学们都笑了，我当时并没有很失落，因为一直以来，我的手工都是这样不好...真正爱上粘土是从为好朋友们制作圣诞礼物开始。从那以后，我好像打开了粘土这扇大门，里面的世界很奇妙，充满吸引力。脑洞大的我终于在这个世界里异想天开，自由表达。不断地失败，再不断地尝试，我一天一天的慢慢成长，慢慢得到肯定，脑洞也越来越大。粘土让我的世界变得异想天开，希望大家也能爱上粘土。
+    items:
+      - name: 妈妈的生日礼物
+        description: 那时美术课上也没有教什么技巧，唯一搓珠子可以自由发挥，不用那么讲究。我就很开心，终于能亲手做些什么送给妈妈了，起码能做出东西来了。这个搓珠子的技巧算是老师教的仅有的东西，其实她教的是搓出花~  但是没掌握好，哈哈！
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/1.jpg
+              content_type: image/jpeg
+      - name: 课下第一次乱来的东西
+        description: 小时候喜欢日本的食玩，所以一接触粘土就想到捏吃的。刚开始捏没有教程就没办法继续，跟着教程捏了它们。金针菇是我自己乱来的，当时第一次被别人赞美我手巧，我也是开心的不行，毕竟我不是一般手残。
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/2.jpg
+              content_type: image/jpeg
+      - name: 毕业时为好朋友做的纪念品
+        description: 大学拍毕业照时，想给好朋友们一件礼物，翻遍了网上关于圣诞的小东西教程，做前几个的时候还是如屡薄冰，做后几个时，觉得为什么要和教程一样，有自己的想法才是自己的东西，所以就放宽心地做。慢慢做完了它们之后，忽然有了莫名的自信心，好像和泥变得默契了。这是我第一次开始真正觉得我适合粘土的。先不说作品，我花在这六个东西的时间是差不多整整2天。一点也不觉得厌烦或者想放弃，只是觉得每做完一个我的小心脏就开一次花。特别想亲手制作东西送给别人！这一次我觉得我的愿望成真了。虽然那只鹿给同学之后断了支角，可是她还放在她卧室明显的地方。
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/3.jpg
+              content_type: image/jpeg
+      - name: 立体的塔卡沙
+        description: 夏天，我贴着我最喜欢的塔卡沙古代小人纹身贴纸，突然灵感被充电：不如把纹身贴变成3D的吧~第一次挑战了那么立体的东西，哈哈！
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/4.jpg
+              content_type: image/jpeg
+      - name: 我和好朋友的猫
+        description: 广州有很多市集，我也是从一个喜欢穷买有的没的到慢慢与那些手工摊主聊一下天，发现很多灵感。一个摊主向我介绍了石塑粘土，然后我就很想试试。买回来了我也是醉了，不是很会用啊。然后就开始在网上搜一下再自己摸索，其实别人教你100次不如直接自己在手里试。一块泥什么情况下会出现什么状况，用什么样的解决办法别人是没办法教的，只有自己不停的试，虽然现在也不是做的很好，但真的一次会比一次好。
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/5.jpg
+              content_type: image/jpeg
+      - name: 最喜欢的作品
+        description: 在广州的美术用品批发市场看见有卖心理学用的沙盘模型，穿着泳裤好有趣，就尝试拿黏土和滴胶做出这样的情境，滴胶有水的感觉，搭配在一起真是绝配！这是我目前为止最喜欢的作品！
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/6.jpg
+              content_type: image/jpeg
+      - name: 等我的寿司
+        description: 已经因为考试和实习快半年没有摸过粘土了。突然逛了一个市集看到卖粘土的，好像看见故友的感觉。干嘛要冷却自己那么热爱的东西，忽然又再一次爱上了我的土们。寿司我不是第一次做，但是第二次做已经时隔半年，发现当初的步骤还都清楚记得。就觉得：啊~原来你还在这里等我的感觉，它又再次让我找到和发现自己不想放弃的东西。
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/7.jpg
+              content_type: image/jpeg
+      - name: 最美好和最不美好的作品
+        description: 某天看到一张手机壁纸上的马卡龙特别法式好好吃的样子！因为平时捏那种原始的马卡龙比较多，就想食物应该极致比较好！刚好一张手机壁纸给我提供了灵感，没有一点确定的感觉自己一定能做出来，当时我用了非常非常的耐心就想说我不信邪就要比手机壁纸好看，然后它就诞生了，我好开心。然后就被别人拿去称为手工原创了！同时我也感谢这个人，因为他让我建立了第二次自信，好看的作品才会被抄袭。只是想说有自己想法的作品才是有灵魂的作品，不要让自己的东西流于商业价值。
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/8.jpg
+              content_type: image/jpeg
+      - name: 童年爱吃的花占饼
+        description: 与其说味道，更爱的是它别致的造型！这也是我一直放在心里想尝试的食物，看见地铁里的视频教大家怎么做蛋糕，在裱花！哈哈我就觉得同理可证的感觉，试了一下果然可以～ 自从马卡龙之后，第二份自信让我的脑洞越来越大～脑洞真的是对手作来说非常重要呢
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/9.jpg
+              content_type: image/jpeg
+      - name: 中奖的天妇罗
+        description: 一直以来做了很多西式糕点，就想说做咸的。它的诞生才真的是神乎其技！！！首先，我是一直想知道一个问题，树脂粘土是要风干的嘛，但是如果我把它放进烤箱会怎么样会爆炸吗~事实证明这脑洞开得好啊，我把半干得差不多的树脂粘土（反正也不好用了，就做实验吧）烤了4分钟左右，超怕它爆炸，拿出来它居然就是炸物的纹理了，也是像中奖的心情~
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/10.jpg
+              content_type: image/jpeg
+      - name: 爆米花
+        description: 粘土爆米花是在一个大神的微博上看到的，这让一个热爱吃爆米花的人无法忍，做法我也不可能去问人家大神怎么做嘛！所以也是摸索~爆米花是个还真的挺有技术含量的食物，它不规则，但是要不规则出美感，色泽也是能有好多变化，真的不容易做啊...
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/11.jpg
+              content_type: image/jpeg
+      - name: 没睡醒的甜甜圈
+        description: 这是一个我没睡醒时候的"壮举”。好想捏东西，然后刚起床。就拿起模具往里面塞泥，想吃抹茶味的涂了一点颜料，加一些糖屑，居然朋友们都那么爱它~谢谢厚爱，然后就衍生出图片里的这几个。
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/12.jpg
+              content_type: image/jpeg
+      - name: 各种炸藕
+        description: 我觉得食物在泥允许的范围内，做到极致才有趣，所以就各种乱试出了炸藕～ 新口味哈哈！发去朋友圈有小伙伴让我试一试糖莲藕，这是广东的特产吗哈哈，然后我就尽管一试！谁知道真的就大功告成，理想还是得在不停的积累下得以投进现实呀...
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/13.jpg
+              content_type: image/jpeg
+      - name: 没有准备下出来的产物
+        description: 我在捏另一种棉花糖，泥用剩了，心疼我钱，就觉得不要浪费再物尽其用，捏了个这种棉花糖的形状。早上喝的奶茶没有用吸管放在桌子上，刚好想说用啥抠，哈哈哈，用吸管抠一流！！！加点仿真果酱就把一块泥合理化了，说是一块棉花糖必须有馅啊是不~~
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/14.jpg
+              content_type: image/jpeg
+      - name: 健达缤纷乐
+        description: 第一次把真正喜欢的食物用完全仿真的形式表现出来。是怎么想起做它的呢~因为家楼下ok店打折，10元2个！摆在面前，怦然心动...打开包装超级仔细观察它的所有，用眼睛吃了它！懂吗！不是看！是吃！看它的质地颜色纹路光泽然后脑洞居然成真了...
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/15.jpg
+              content_type: image/jpeg
+      - name: 油乎乎的肉松包
+        description: 肉松包是第一次用粘土和羊毛毡结合做食物，当然只是实验性的！刚开始只想把戳了的羊毛毡用白乳胶粘上，发现根本不行... 毛都飞起来了，还是慢慢加了一点液体胶水~ 还反而多了油乎乎的感觉呀！
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/16.jpg
+              content_type: image/jpeg
+      - name: 有五官的饭团
+        description: 觉得食物除了多种口味，也可以有表情和五官哈哈~ 但是我捏人头确实不咋地,所以还有待提高呢
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/17.jpg
+              content_type: image/jpeg
+      - name: 抹茶红豆卷耳环
+        description: 好朋友单位里的人知道了我会做黏土，有一个相信我的小天使说：“你可以做抹茶红豆卷耳环吗？”我也是没有信心能做好呀，但觉得可以试一试，就说好啊！然后因为是做给别人的东西就特别怕做错，最后还是不能做到两个卷一样大呢，但同时也是那时候发现好像开始能把想到的食物付诸实践哈哈～
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/momoguangzhou//2015-09-30-clay/18.jpg
+              content_type: image/jpeg

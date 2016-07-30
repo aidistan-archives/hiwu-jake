@@ -1,0 +1,362 @@
+nickname: 张璋
+description: 转笔刀收藏达人
+avatar:
+  data:
+    file: seeds/zhangzhangxian/zhangzhangicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 转笔刀博物馆
+    description: 时间就像转笔刀，我们都是笔，有的人被卷啊卷啊，笔芯就断了；有的人头就尖了；有的人花边很漂亮。转笔刀出现在我3岁时的一天，之后则变成了我生活里非常重要的一部分。我收集转笔刀，研究相关历史，逛了很多商店，和世界各地的人交易和探讨，25年时间，我已收藏了4000多个转笔刀，摆满了家里的各个角落。我希望通过向大家分享我的博物馆，让大家重新认识转笔刀，了解转笔刀～
+    items:
+      - name: 第一支转笔刀
+        description: 我小时候常去爷爷的办公室玩，三岁的某一天，爷爷给了我这个台灯的转笔刀。“你再过两年就要上学了，上学要用铅笔写字，这个可以用来削铅笔”。那时的我还不知道转笔刀是什么东西。后来，我问问爷爷这个转笔刀有没有什么故事，爷爷说没什么故事，只是它可能比你年龄都大。
+        date_y: 1999
+        country: 中国
+        city: 安康
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/1-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/1-2.jpg
+              content_type: image/jpeg
+      - name: 童年的橡胶转笔刀
+        description: 这是小时候父母带我去上海旅游时买的，这是我第一次见到橡胶材质的转笔刀，它们惟妙惟肖的造型和鲜艳的色彩搭配深深的吸引了我。一直到现在我都特别喜欢橡胶材质的卷笔刀。
+        date_y: 1991
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/2-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/2-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/2-3.jpg
+              content_type: image/jpeg
+      - name: 长城牌烟盒转笔刀
+        description: 这个是很久以前买的一个组，以前，咱们国家有两个比较好的文具厂，一个叫大鹏在上海，还有一个叫长城，这两个转笔刀厂出了基本90年代中国大部分的转笔刀，这个是长城出的烟的造型的转笔刀，我这个已经看到很旧了。
+        date_y: 1991
+        country: 中国
+        city: 西安
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/3.jpg
+              content_type: image/jpeg
+      - name: 大鹏牌奖杯转笔刀
+        description: 这个是大鹏牌为了纪念当年羽毛球世界锦标赛发的奖杯。
+        date_y: 1991
+        country: 中国
+        city: 西安
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/4.jpg
+              content_type: image/jpeg
+      - name: 猴子转笔刀
+        description: 这套是竹子做的转笔刀，仔细看还可以看见竹子的纹理，表面刷了一层清漆。
+        date_y: 1992
+        country: 中国
+        city: 绍兴
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/5.jpg
+              content_type: image/jpeg
+      - name: 第一次见的金属转笔刀
+        description: 这是我第一次见到金属转笔刀，爸爸去武汉出差给我买了两个，一个是老爷车转笔刀造型的，一个双翼飞机造型的，5块钱一个。
+        date_y: 1992
+        country: 中国
+        city: 武汉
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/6-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/6-2.jpg
+              content_type: image/jpeg
+      - name: 裘皮转笔刀
+        description: 这些是裘皮转笔刀，都是在我家县城的向阳商场买的，那时候5块钱一个，已经算是当时最贵的转笔刀了。基本上每种动物都有三个不同造型，三个为一组。目前我收集的裘皮转笔刀数量超过30个。
+        date_y: 1993
+        country: 中国
+        city: 石泉县
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/7.jpg
+              content_type: image/jpeg
+      - name: 风扇转笔刀
+        description: 1993年小姨在汉中结婚时，那天是1月23日，正好是我的生日，我记得特别清楚。爸爸妈妈带我去汉中的人民商厦给我买生日蛋糕，但是当我们走过文具柜台前，我看到五个金属转笔刀：轮船，火车，地球仪，煤油灯和风扇，8块钱一个。我当时就站在柜台前不走了，央求爸爸妈妈给我全买下来（基本是等于跪求）。我说我不要生日蛋糕了，我就要这5个转笔刀。那个时候，5个转笔刀40块钱，将近他们半个月的工资了，记得当时我求了他们很久，最后直接坐在柜台那不走了，最后他们给我买了一个电风扇造型的。
+        date_y: 1993
+        country: 中国
+        city: 汉中
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/8.jpg
+              content_type: image/jpeg
+      - name: 石膏转笔刀
+        description: 这是石膏转笔刀（也叫泥塑转笔刀），属于无锡惠山泥塑的一个品类。这种转笔刀在70、80年代大多出口到国外，据不完全统计，有超过120套不同的造型，目前我收集的石膏转笔刀超过50套。
+        date_y: 1994
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/9.jpg
+              content_type: image/jpeg
+      - name: 儿童套餐的转笔刀
+        description: 现在麦当劳、肯德基儿童套餐里送的玩具，大多是挂饰和玩偶。但在我小的时候，儿童套餐里送的大多都是学习用具，比如说转笔刀、尺子、橡皮等等。这几个转笔刀就来自于麦当劳和肯德基的儿童套餐，在市面上是很难买到的。
+        date_y: 1995
+        country: 中国
+        city: 西安
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/10.jpg
+              content_type: image/jpeg
+      - name: 组合转笔刀
+        description: 转笔刀和笔筒的组合，比如左边的鼻子是转笔刀，上面的部分是用来插笔的。
+        date_y: 1995
+        country: 中国
+        city: 武汉
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/11.jpg
+              content_type: image/jpeg
+      - name: 超级组合转笔刀
+        description: 这个转笔刀就是我爸爸的朋友在美国给我买的。严格来说，这是一个文具组合，左边抱了一支铅笔，右边抱了一个滚筒刷造型的橡皮，胸前是转笔刀，肚子里装了很多书签，嘴巴里含着一卷透明胶。
+        date_y: 1996
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/12.jpg
+              content_type: image/jpeg
+      - name: 蝙蝠侠转笔刀
+        description: 这个蝙蝠侠系列的转笔刀，也是爸爸的一个同学在加拿大给我买的，当时只买了一个，近些年我通过各种渠道，零零星星的把这个系列的转笔刀都补齐了，一套共有18个。这些都是DC漫画公司正版授权的商品。
+        date_y: 1996
+        country: 加拿大
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/13.jpg
+              content_type: image/jpeg
+      - name: 拼图转笔刀
+        description: 拼图转笔刀是很少见的，1997年在安康人民商厦有幸买到了这三个，这种造型的转笔刀也是我之前没有见过的。
+        date_y: 1997
+        country: 中国
+        city: 安康
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/14.jpg
+              content_type: image/jpeg
+      - name: 小丑转笔刀
+        description: 记得1999年暑假，我跟着妈妈去安康办事，妈妈把我托付给一个大哥哥和一个姐姐，让他们带我去玩，他们问我想去哪，我说去人民商场看看吧，很幸运在人民商场里看到了这6个小丑头像造型的石膏转笔刀，当时我记得是10块钱一个，可是我没有钱，我就和他们说：“哥哥姐姐，你们能不能帮我把这个买了，一会我让我妈把钱给你”，哥哥姐姐很爽快的掏了60块给我买了这6个转笔刀，后来我妈妈给他们钱，他们也不要，说送给我，现在想想，10元钱一个的价格在当时也算是很贵了。
+        date_y: 1999
+        country: 中国
+        city: 安康
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/15.jpg
+              content_type: image/jpeg
+      - name: 匹诺曹转笔刀
+        description: 匹诺曹的故事大家都耳熟能详了吧？下面这两个都是匹诺曹转笔刀。左边是树脂材质的，右边是木头材质的。
+        date_y: 2011
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/16.jpg
+              content_type: image/jpeg
+      - name: 手工转笔刀
+        description: 这些是在淘宝上买到的手工雕刻的木头转笔刀，最大的特点是因为每一只转笔刀都是纯手工打造，所以即使造型相同，动物的个头和神态也都不完全一样。
+        date_y: 1999
+        country: 中国
+        city: 安康
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/17.jpg
+              content_type: image/jpeg
+      - name: Troika品牌转笔刀
+        description: 这三个是德国Troika品牌的转笔刀，TROIKA是以造型设计工艺闻名世界的著名德国品牌，他们的产品都由专门的设计师开发设计，产品做的非常精致，用料也非常讲究。右边是一个伐木工人，笔削完了，木头就伐完了。
+        date_y: 2011
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/18.jpg
+              content_type: image/jpeg
+      - name: 最贵的转笔刀
+        description: 这个转笔刀是我买过的最贵转笔刀。这是德国KUM公司（世界著名文具公司）专门为爱马仕定做的一款不锈钢转笔刀，个头不大，分量十足。这个转笔刀是从一个富二代卖家手上花了900元买了的，交谈中得知卖家买这个转笔刀就是用来削铅笔的（PS：有钱人就是任性啊！）。后来我在EBAY上见过有卖家销售全新的，价格为450美元。
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/19-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/19-2.jpg
+              content_type: image/jpeg
+      - name: Alessi品牌转笔刀
+        description: 两个是意大利Alessi品牌的转笔刀，Alessi是知名家用品设计制造商，以「意大利风格设计的工厂」（Factories of Italian Design）闻名全球，他们的产品是创意和科技的伟大结晶。
+        date_y: 2012
+        country: 意大利
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/20.jpg
+              content_type: image/jpeg
+      - name: PLAY ME品牌彩色转笔刀
+        description: 西班牙PLAYME品牌转笔刀。PLAYME本来是一个专门做玩具的品牌，该公司在70年代末到80年代初生产了一批金属转笔刀，有58个不同的种类。这几个是彩色的，也是相对数量较少，比较珍贵的。PLAYME的转笔刀机械性都很强，转动缝纫机把手，缝纫针会动；转动保险箱的把手，就可以把门打开；转动电风扇后面的小轮，扇叶会转动。
+        date_y: 2012
+        country: 西班牙
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/21.jpg
+              content_type: image/jpeg
+      - name: AUTOart（奥拓）转笔刀
+        description: 这是一个叫做AUTOart（奥拓）的公司出的转笔刀。我第一次在淘宝见到这个转笔刀，卖家开价600元，我当时差一点就买了，但后来转念一想我可以尝试找找厂家，看看能不能以更便宜的价格买到。通过不断的努力，我硬是把中国大陆代理这个牌子的公司找到了，我打电话到过去询问是否有货，销售查完后告诉我这个款式已经下架好久了，目前仓库里还有3个，但只有一个是好的，另外两个有瑕疵。我说你把三个都卖我吧，他说公司有规定残次品不卖，最后经过一番讨价还价，我以200元的价格和他谈妥。但他说公司有规定商品不能直接卖给个人买家，必须通过代理商销售，几经辗转，我又找到了西安本地的代理商，通过他最终买到了这个转笔刀，也算是一波三折了。
+        date_y: 2012
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/22.jpg
+              content_type: image/jpeg
+      - name: 松鼠环保转笔刀
+        description: 这是一个泰国特别有名的设计师设计的转笔刀，我是在台湾的一个电子商务网站上找到的。它有一个很大的特点，它削铅笔的地方在底部，削铅笔的时候，铅笔屑会从树根中间的缝隙里慢慢出来，这个转笔刀的寓意是告诉大家要保护森林，如果过度采伐，最后所有的树都会被砍完，都会变成木屑，小松鼠就无家可归了。
+        date_y: 2012
+        country: 泰国
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/23.jpg
+              content_type: image/jpeg
+      - name: 玩具转笔刀
+        description: 这三个转笔刀比较好玩，它不仅仅是转笔刀，也是发条玩具，是我在西班牙的电子商务网站上买到的，上紧发条，过山车，旋转飞机，摩天轮就开始启动啦。
+        date_y: 2012
+        country: 西班牙
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/24.jpg
+              content_type: image/jpeg
+      - name: 鞋子转笔刀
+        description: 本是同根生，却有大不同！左边这个台灯造型的转笔刀是我在EBAY上从一个英国卖家手里买到的，上面是台灯，底下是转笔刀。右边这个大皮鞋造型的转笔刀，我认识的大多数转笔刀收藏者都有，但这个带灯的转笔刀，目前我了解到的情况是只有我一个人收藏的有（PS：现在装上电池，这个灯还能用）。
+        date_y: 2013
+        country: 英国
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/25.jpg
+              content_type: image/jpeg
+      - name: 一箱转笔刀
+        description: 2013年，我在EBAY上发现了一个委内瑞拉人在卖几套石膏转笔刀，我很想买但又不会西班牙语，只能靠翻译软件和他交流。他告诉我这些转笔刀来自于当地的二手市场，上次去市场上溜达，看到挺好看就买了一些回来，看看能不能卖掉补贴家用。我麻烦他下次再去市场看看，如果还有其它款式，就多拍一些照片发给我。大概过了1个月，我终于等到了邮件。他从市场上买来了一个超大的木头箱子，里面有600多套石膏转笔刀（一套6个）。从他发给我的照片可以清晰的看到箱子的字：中国制造，易碎物品，切勿受潮。背面写着1970年。因为当时委内瑞拉国内局势很紧张，他不能邮寄给我。最后我通过几个同事找到了一个在委内瑞拉当地办事处工作的人，他和卖家在首都加拉加斯的地铁站见面，最终帮我买下了这些转笔刀。
+        date_y: 2013
+        country: 委内瑞拉
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/26-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/26-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/26-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/26-4.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/26-5.jpg
+              content_type: image/jpeg
+      - name: 日本陶瓷转笔刀
+        description: 左边这个狗狗造型的转笔刀可谓来之不易，我一共买了三次，前两次寄到我手中的时候都碎了。第三次才收到完美的这一只。陶瓷转笔刀大多都是日本在1970年左右生产的，由于材质的特殊性，陶瓷转笔刀的种类和数量都非常少。我最近把易贝一万多个转笔刀都翻完了，也没有再翻出来一个。
+        date_y: 2013
+        country: 日本
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/27.jpg
+              content_type: image/jpeg
+      - name: EMB品牌转笔刀
+        description: 西班牙EMB品牌转笔刀。分别是榨酒器、咖啡机、葡萄酒桶、精密天平、计算器、信函天平，所有的零部件都可以取下来，足以见得EMB精细的设计理念以及高超的制作工艺。
+        date_y: 2013
+        country: 西班牙
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/28-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/28-2.jpg
+              content_type: image/jpeg
+      - name: 西班牙世界杯转笔刀
+        description: 这4个转笔刀是PLAYME为了纪念1982年西班牙世界杯而出品的转笔刀。
+        date_y: 2013
+        country: 西班牙
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/29.jpg
+              content_type: image/jpeg
+      - name: 米莎熊转笔刀
+        description: 还记得2014年索契冬奥会闭幕式上成功抢镜的米莎熊吗？没错，下面这个转笔刀的原型就是1980年的莫斯科奥运会吉祥物米莎熊。1980年前后，世界正处于冷战时期，因为苏联入侵阿富汗，美国等国家抵制了这届奥运会，中国也未能参加，结果只有共81个国家和地区的运动员前往莫斯科。很多世界顶级运动员因此丧失了实现奥运梦想的机会。闭幕式上，体育场背景板上出现了米莎的画面，它的左眼裏流出了泪水，恋恋不舍地大家告别。由于没有看到一届团结的奥运会，米莎感到很伤心，他要用泪水告诉大家，奥运会需要团结和友谊。
+        date_y: 2013
+        country: 西班牙
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/30.jpg
+              content_type: image/jpeg
+      - name: PLAY ME没有编号的转笔刀
+        description: 这是PLAYME出品的金属转笔刀中唯一一个不带编号的。这是PLAYME当年为了打开法国市场，特别定制的法国巴黎乔治蓬皮杜中心（George Pompidou Centre）造型的转笔刀。
+        date_y: 2013
+        country: 西班牙
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/31.jpg
+              content_type: image/jpeg
+      - name: 丰收女神广场
+        description: 这个转笔刀算得上是EMB里价值最高的了，其原型是西班牙马德里著名的西贝雷斯广场，又叫丰收女神广场。（皇马的球迷们一定对这个广场不陌生）
+        date_y: 2014
+        country: 西班牙
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/32.jpg
+              content_type: image/jpeg
+      - name: 木质地球仪转笔刀
+        description: 这是一个个头很大的转笔刀，都是木头做的。
+        date_y: 2014
+        country: 加拿大
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/33.jpg
+              content_type: image/jpeg
+      - name: 地狱三头兽转笔刀
+        description: 哈利波特的纪念款组合文具，造型源自哈利波特三里面的地狱三头兽。三个怪兽的头分别是：固体胶水，订书机，转笔刀。
+        date_y: 2014
+        country: 加拿大
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/34.jpg
+              content_type: image/jpeg
+      - name: Lucy and Me Bears转笔刀
+        description: 这三只小熊造型的陶瓷转笔刀由美国上市公司Enesco Group出品，叫做Lucy and Me Bears，出自日本设计师之手，做工特别精细。
+        date_y: 2014
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/35.jpg
+              content_type: image/jpeg
+      - name: 木质西游记转笔刀
+        description: 这组是在EBAY上买到的木质西游记转笔刀，在众多木质转笔刀中，这一组可以说是最接近原型的了。
+        date_y: 2014
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/36.jpg
+              content_type: image/jpeg
+      - name: 景泰蓝转笔刀
+        description: 这个景泰蓝转笔刀要隆重介绍一下。我第一次见到这个转笔刀是2013年在宁夏银川，我去拜访一个当地收藏转笔刀的老师，他们学校专门给了他一间教室让他展览转笔刀，就在我拜访完他没过两天，有人潜入教室把展柜玻璃敲碎了，盗走了这个转笔刀。自那以后，我一直通过各种渠道找寻这种转笔刀。直到前一段时间，我在EBAY上买到，也算是圆了我一个梦想。
+        date_y: 2015
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/37.jpg
+              content_type: image/jpeg
+      - name: 美国总统转笔刀
+        description: 这个景泰蓝转笔刀要隆重介绍一下。我第一次见到这个转笔刀是2013年在宁夏银川，我去拜访一个当地收藏转笔刀的老师，他们学校专门给了他一间教室让他展览转笔刀，就在我拜访完他没过两天，有人潜入教室把展柜玻璃敲碎了，盗走了这个转笔刀。自那以后，我一直通过各种渠道找寻这种转笔刀。直到前一段时间，我在EBAY上买到，也算是圆了我一个梦想。
+        date_y: 2015
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/38.jpg
+              content_type: image/jpeg
+      - name: 硬树脂转笔刀
+        description: 这个是硬树脂转笔刀，中国生产的，买了不久，这个造型比较独特。在美国买的，中国生产了很多转笔刀都出口到国外了。应该也是摔不坏的。
+        date_y: 2015
+        photos:
+          - data:
+              file: seeds/zhangzhangxian/2015-12-18-sharpener/39.jpg
+              content_type: image/jpeg

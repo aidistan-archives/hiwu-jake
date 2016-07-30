@@ -1,0 +1,188 @@
+nickname: 泡小豆
+description: 窝着等着发芽的小豆子！浇浇水！晒晒太阳，发芽喽！
+avatar:
+  data:
+    file: seeds/paoxiaodounanjing/paoxiaodouicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 陌生世界博物馆
+    description: 我是泡小豆，一个土生土长的南京女孩。在2010年，我怀着虽然不能亲眼看见全世界的风光，遇见所有人群，但却可以把我的祝福寄往全世界的初衷，写起了一张张卡片寄给世界上的陌生人。慢慢的，我收到了很多来自世界上不同地方的陌生人寄来的明信片，我渐渐的觉得一份陌生人的来信真的是一件很美好的事情！到现在，我已经收集了来自四十多个国家，五百多个人，上千张卡片。我和很多陌生人相互问候，有一些慢慢的成了持久的朋友。世界上不同的角落，相互关心，相互温暖，经过暖暖的等待，打开信箱的喜悦瞬间，这些来自陌生世界的明信片成为了我幸福的收藏。
+    items:
+      - name: 第一张明信片
+        description: 在我童年的愿望里，我也和很多孩子一样希望可以环游世界，然而这些愿望却还没有走近现实。2010年，我正处于大学时期，因为有时间，就开始刷网络泡豆瓣。我偶然发现了一个名叫Postcrossing的网站，可以抽取地址写明信片给世界上的陌生人，也会收到来自陌生人的明信片。听起来感觉很有意思，和不同的人相识，认识不同的地方，儿时的愿望似乎可以用别的方法实现！很快我就参与了这件事情，在网站上抽了5个地址。那个时候可以买到的卡片种类不多，我记得寄出的第一张卡片是邮局印制的那种官方贺年卡片。之后伴随着三个月的好奇和期待，我终于盼来了来自陌生世界的第一张卡片。
+        date_y: 2010
+        country: 德国
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/1.jpg
+              content_type: image/jpeg
+      - name: 圣诞邮局的明信片
+        description: 2010年的圣诞节前，我在网络上认识了一位恰好在芬兰的朋友，那个时候，我刚知道可以给圣诞老人寄明信片，而芬兰的圣诞老人似乎是大家公认最正宗的，所以当时就抱着试一试的心态问她能不能给我寄一张。后来，我就收到了她从芬兰的圣诞邮局寄来的这张明信片。我是一个熊控，收到它简直让我喜悦的不行。芬兰圣诞老人的邮戳也是非常特别。后来就慢慢和寄明信片的朋友养成了一个习惯：每到圣诞节前一两个月，就会给圣诞老人写明信片。各个国家都有自己的圣诞老人，每个国家的的圣诞老人都会有自己的国家特色，因此收到的明信片也不一样。
+        date_y: 2010
+        country: 芬兰
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/2-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/2-2.jpg
+              content_type: image/jpeg
+      - name: 手工明信片
+        description: 这是一张陌生人自己手作的明信片，上面的花是他自己拍的身边的风景，RUSH是自己画上去的，我第一次收到这样手作的明信片，觉得很新奇也很有心意。邮寄之前，我告诉他我比较喜欢卡通，于是这张明信片的邮票就是一张狮子王的邮票。
+        date_y: 2011
+        country: 美国
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/3-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/3-2.jpg
+              content_type: image/jpeg
+      - name: 7岁的小朋友
+        description: 这是一位7岁小朋友写的明信片，是我收到的最小的一位陌生人的明信片。背面还画了一个很奇怪的自画像，写的字大小不一，他说希望我有一个美好的假期。我想这样的事情一定是在父母的支持下做的，觉得这家父母很有爱，这么小就支持孩子去看外面的世界。
+        date_y: 2011
+        country: 美国
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/4-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/4-2.jpg
+              content_type: image/jpeg
+      - name: 一起印的卡片
+        description: 台湾那边的计年方式和我们不一样，我也是通过明信片才知道。在台湾100年的时候，台湾几个通过寄明信片认识的设计师们，自己画了一套这样的明信片，里面的小人是他们的自画像，画中的大家在写明信片。这些设计师们通过明信片相互认识，但大家在现实生活中也会一起聚会，吃饭，画画，一起合起来印明信片，传递给更多的陌生人。
+        date_y: 2011
+        country: 中国
+        city: 台北
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/5-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/5-2.jpg
+              content_type: image/jpeg
+      - name: 芬兰国宝－姆明
+        description: 姆明是芬兰的国宝，很多人都非常爱它，它在芬兰的地位就大概像00后心目中的《喜羊羊和灰太狼》。到了2012年的时候，我已收藏了不少明信片，看到了不同国家的不同特色：有风景，也有地标建筑，而这样一只卡通的国家特色，觉得特别有趣。送给我卡片的陌生人是一位54岁的芬兰阿姨，喜欢阅读和旅行，去过了50几个国家，是一位特别享受生活的阿姨。还有一张同样主题的邮票。我也很喜欢姆明，觉得它特别可爱，圆圆的，和我一样。
+        date_y: 2012
+        country: 芬兰
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/6-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/6-2.jpg
+              content_type: image/jpeg
+      - name: 最用心的卡片
+        description: 白俄罗斯也是在网站上比较容易遇到的一个国家。卡片上看起来像熊的动物。最感动的是这个背面，做的特别用心，小熊是自己手绘的，也细心的绘制了字体。陌生人之间的联系，也可以这么用心的制作，觉得特别感动。
+        date_y: 2012
+        country: 白俄罗斯
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/7-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/7-2.jpg
+              content_type: image/jpeg
+      - name: 透过明信片的风景
+        description: 这张明信片上的风景就在陌生人的家附近，叫高美湿地。他觉得这里景色很美，就拍下来做成明信片给我看。通过陌生人的眼睛看风景，我觉得也很美。
+        date_y: 2012
+        country: 中国
+        city: 台北
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/8.jpg
+              content_type: image/jpeg
+      - name: 邮筒季节卡片
+        description: 我是有邮筒情结的，在生活中看到有意思的邮筒，我就会把它们拍下来。寄给我这张卡片的台湾女孩，她会定期去日本旅行，在旅行中，她会给我寄出各种有趣的卡片。可以说是在她的带动下，我慢慢发现明信片的很多特别之处。这是我们交换的第一张卡片，是台湾的邮筒，一年四个季节，每个季节出一张，限量发送。
+        date_y: 2012
+        country: 中国
+        city: 台北
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/9.jpg
+              content_type: image/jpeg
+      - name: 英国姐姐的熊
+        description: 这个是英国姐姐寄给我的明信片，我和英国姐姐通过明信片认识，之后三年我们一直保持着没有间断的通信，虽然我们相识于陌生人的来信，不过传统的邮寄手写还是帮助我们建立了相隔千里的联系！英国姐姐知道我喜欢熊，又想兼顾英国元素，就送了这张寄给我。我很喜欢。
+        date_y: 2013
+        country: 英国
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/10.jpg
+              content_type: image/jpeg
+      - name: 手绘卡片
+        description: 之前因为明信片认识了一个在南京的汉子，后来他去荷兰留学，从荷兰寄给了我这张明信片。觉得很感动，即使去了国外，也会惦记着因为明信片而认识的朋友们，让我们看到更多的风景。荷兰的风车，那边人的穿着和样貌。手绘的明信片我很喜欢。
+        date_y: 2013
+        country: 荷兰
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/11.jpg
+              content_type: image/jpeg
+      - name: 纪念戳明信片
+        description: 这本来是一张空白卡片，寄明信片的小伙伴给它盖上了一个特色的邮戳，这位小伙伴就是那位给我寄邮筒卡片的台湾朋友，她知道我也很想去日本看看，于是就寄给了我一张她在日本旅行时盖的旅行纪念章明信片，说让我先过过瘾。很喜欢这张白雪公主的邮票，还有两个京都的纪念戳。觉得很有意思，跟着朋友认识不一样的地方。
+        date_y: 2014
+        country: 日本
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/12-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/12-2.jpg
+              content_type: image/jpeg
+      - name: Postcrossing明信片
+        description: 这是一个荷兰的明信片爱好者给Postcrossing设计的明信片，我也是因为这个网站开始邮寄明信片，也是因为这个网站有了一定的途径联系全世界的陌生人。这个女孩知道我特别喜欢熊，还贴了熊的贴画，还有胶带和贴纸，觉得很温暖很细心。
+        date_y: 2014
+        country: 荷兰
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/13-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/13-2.jpg
+              content_type: image/jpeg
+      - name: 法国联名卡片
+        description: 去年，我和南京的朋友们组织了一个活动。我们在几个国外的明信片论坛发布了一个帖子，告诉世界上的陌生人可以把地址发给我们，我们给他们联名寄明信片。这是我们收到的一个回寄，来自法国一个城市的线下明信片聚会。背面有一个他们聚会的贴标。感觉国外的人都好热情啊，之前看过一次照片，看到有60多个人一起写明信片，就觉得好壮观啊。我们也希望大家越来越能感受到这件事情的乐趣和意义，觉得这个也很有我做这件事情的初始的意味：让更多的人因为明信片而认识。
+        date_y: 2014
+        country: 法国
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/14-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/14-2.jpg
+              content_type: image/jpeg
+      - name: 台湾轮廓卡片
+        description: 这是一张以台湾岛的形状为外形的卡片。寄给我卡片是一位在高雄读书的学生，他说卡片上的这个建筑是高雄最高的建筑，可以俯瞰整个高雄。我对高雄的美丽岛是有情节的，之前看到美丽岛的图片就觉得好浪漫啊，就开始幻想一些浪漫美好的东西，以后有机会一定要去看看，来个邂逅啊什么的，大家懂得。
+        date_y: 2015
+        country: 中国
+        city: 高雄
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/15.jpg
+              content_type: image/jpeg
+      - name: 木马邮戳
+        description: 收到各个国家寄信的时候，同时也会注意那个国家有特色的邮戳和邮票。木马邮戳和泰迪熊的邮票，特别可爱。
+        date_y: 2015
+        country: 爱尔兰
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/16-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/16-2.jpg
+              content_type: image/jpeg
+      - name: 小国变大国的明信片
+        description: 给各个国家寄信的时候，每个国家都有一个代码，大多数国家都是6位数代码，如果是5位，4位，就是一些非常小众的国家。甚至名字从来没有听过。刚开始玩明信片的时候，收到很多小国的明信片。我收到第一张拉脱维亚的明信片时，拉脱维亚的邮政代号还是5位数，现在这张已经变成6位数了。时间还是会让很多小国变成大国的。以前我不寄明信片的时候，好多国家都不知道，寄了之后，会根据国家的缩写查这个国家，发现好多国家真的就没有听说过，觉得特别开阔眼界。
+        date_y: 2015
+        country: 拉脱维亚
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/17.jpg
+              content_type: image/jpeg
+      - name: 肯尼亚的明信片
+        description: 这是我最近收到的一张卡片，肯尼亚这个国家在网站上只有四十多位用户，虽然是一个众人意义上的比较落后的国家，但也依然有让更多各国人民了解他们的愿望。
+        date_y: 2015
+        country: 肯尼亚
+        photos:
+          - data:
+              file: seeds/paoxiaodounanjing/2015-12-11-postcard/18.jpg
+              content_type: image/jpeg

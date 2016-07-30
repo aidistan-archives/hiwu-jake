@@ -1,0 +1,82 @@
+nickname: 卧伍真
+description: 修车30载
+avatar:
+  data:
+    file: seeds/wowuzhenbeijing/wowuzhenicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 修车博物馆
+    description: 在清华园里，我经营着一家修车铺－卧伍真。我曾经在北京武警当兵，维修兵种，后来复原了，听说园子里没有修车铺，因为需要，就来了。那年是1985年，整整30年。
+    items:
+      - name: 主要扒带的工具
+        description: 这是我的第一件工具，是一个主要扒带的工具，卸车带，补车带的时候用的。当时要开业的时候，买这个买不到，我就说那就想办法做一个，于是找了一个钢扳，拿砂轮机做成这样。这是我印象特别深的事情，因为用改锥去撬车带，老是憋破。
+        date_y: 1985
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/wowuzhenbeijing/2015-11-12-bike/1.jpg
+              content_type: image/jpeg
+      - name: 一个锤子
+        description: 这是我开业时仅有的三件工具的另一件：一个锤子，这个是主要工具，用来给过去的老车砸穿钉、卸中轴。我到现在还保存着，它已经砸断了。
+        date_y: 1985
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/wowuzhenbeijing/2015-11-12-bike/2.jpg
+              content_type: image/jpeg
+      - name: 冲子
+        description: 这是冲子，冲飞轮的。飞轮要是坏了就要把它冲下来。这个以前是一个车床上的车刀，白钢的，大概有这个2倍长，一点点磨，磨成现在这样，来做冲子。
+        date_y: 1985
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/wowuzhenbeijing/2015-11-12-bike/3.jpg
+              content_type: image/jpeg
+      - name: 活板子
+        description: 这是我的第四件工具，活板子，可以卸中轴，拆五件，紧螺丝。也是我初期的四件工具的最后一件。算是见证了职业的初期阶段吧。
+        date_y: 1985
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/wowuzhenbeijing/2015-11-12-bike/4.jpg
+              content_type: image/jpeg
+      - name: 砸中轴的工具
+        description: 这是砸中轴的一个工具，大概跟随我26年。是自己拿钢筋棍打出的。
+        date_y: 1989
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/wowuzhenbeijing/2015-11-12-bike/5.jpg
+              content_type: image/jpeg
+      - name: 卧伍真
+        description: 修车铺最开始的时候，其实并没有卧伍真 这个名字，大概是十几年以后，一个住在旁边楼上的博士生霍洪伟对我说，我毕业要走了，我给你起一个名字吧，肯定有人想，肯定有人猜。那“卧伍真”是什么意思呢？这就靠猜了，猜起来才有意思啊~ 第一个字代表你们，卧虎藏龙，天之骄子，第二个字代表我，我是当兵的么，第三个字代表我的这些工具，货物，也代表真诚。
+        date_y: 1991
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/wowuzhenbeijing/2015-11-12-bike/6.jpg
+              content_type: image/jpeg
+      - name: 锤子
+        description: 这件也大概是20多年前就有的，因为这个锤子 有两用，可以定中轴，也可以把中轴撑起来，砸中轴的穿钉。和之前那个锤子交替用。
+        date_y: 1992
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/wowuzhenbeijing/2015-11-12-bike/7.jpg
+              content_type: image/jpeg
+      - name: 多用扳子
+        description: 这个是多用扳子，所有车子的零件，全部可以用上它。这个扳子是最主要的一个扳子。也是陪了我几十年。
+        date_y: 1993
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/wowuzhenbeijing/2015-11-12-bike/8.jpg
+              content_type: image/jpeg

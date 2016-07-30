@@ -1,0 +1,70 @@
+nickname: 叶枫
+description: 不知名模型重度玩家。狂热爱龙珠，爱12寸影视可动，爱6寸可动…
+avatar:
+  data:
+    file: seeds/yefengshanghai/yefengicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 七龙珠博物馆
+    description: 真正意义上的收藏必定出自于对物品的热爱，收藏的不仅仅是物品，更是一个完整的物品世界，一个由物与我之间的故事、情感缔造出来的世界。收藏七龙珠模型是我的爱好。第一次看这部漫画的时候我还不识字，机缘巧合，家里放置了满满一书橱海南出版社的《七龙珠》，2毛钱一本。十多年后，当记忆里的这些英雄、场景跳出小时候的黑白纸张，变成鲜活的模型时，整个关于《七龙珠》的世界被再次打开了，真实生动，再现出童年的热血沸腾。那些让人血脉喷张的故事，那群让人心驰神往的英雄形象，凝聚在这些模型中，永恒相伴。
+    items:
+      - name: 桌面系列－悟空骑车
+        description: 刚看到这个模型的时候，内心是惊讶大于欣喜，因为这个悟空造型没有出现在漫画中过，仅仅是鸟山明为漫画单行本34画的封面画。模型的造型毫不含糊，轮胎的变形显示出速度感，各种细节精致得让漫画原著粉丝感动。自行车的造型极具现代感，时至今日看这90年代初的画作也不觉得过时。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/1.jpg
+              content_type: image/jpeg
+      - name: SHF&武道会景品-人造人16、17、18号
+        description: 这三个模型我将他们摆放成了人造人刚登场时候的卷绘造型，其中两个小的17号和18号都是万代shf系列的，本来为了还原这个造型，我入手了同系列的16号，结果发现人物比例上有很大的出入，因此我找了龙珠的其它周边，发现眼镜厂在11年出的武道会系列中景品的16号人物比例刚好适合于这个场景的还原。其实看到这一幕，内心还是相当激动的，有漫画剧情的因素，也有对于模型高还原度的因素。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/2.jpg
+              content_type: image/jpeg
+      - name: 一番赏-父子机车
+        description: 悟空骑着双足类似于摩托车的步行器，悟饭则戴着日本小学生的帽子，背包里插着雨伞，非常纯粹的日常风格。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/3.jpg
+              content_type: image/jpeg
+      - name: 武道会景品-兰琪摩托车
+        description: 有时候觉得龙珠模型之所以如此蓬勃，除了作品经典，人物鲜明之外，鸟山明的造型起到了非常大的作用。就如这款兰琪摩托车来说，整个模型抓取了漫画中的一个动态，整个模型360度无死角的可看，飘逸的长发以及从包里飘洒出的钞票，都能感到当时场景的速度感。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/4.jpg
+              content_type: image/jpeg
+      - name: SHF&一番赏-赛亚王子初次来到地球
+        description: 这一幕我还原的是贝吉塔作为赛亚王子，初次来到地球上的场景。原本的贝吉塔是彻彻底底的反派，来毁灭地球的，所以表情中带着对地球人的蔑视和不屑。贝吉塔我用的是shf系列的可动，飞船找不到合适比例的，考虑后选用了相对较大的一番赏婴儿悟空的丸型太空舱。这个太空舱也是很值得玩味的设定，因为运用了反重力技术，所以没有了繁琐的推进器等装扮，只有一个舱门，一个座位，小巧实用，富有未来科技感。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/5.jpg
+              content_type: image/jpeg
+      - name: 大蛋-特兰克斯与时光机
+        description: 在未来的世界里，所有的人都被杀掉了，布玛就做了一个时光机，特兰克斯要坐上这个时光机跑到过去救那些人，鸟山明在80年代的时候就提出了平行世界的假说。这款模型的比例是相当之小，但是它的做工则是相当精细。特兰克斯扛着的箱子，布玛在时光机底部的咖啡杯和工具箱都细致入微，并且时光机推进器中的叶片还是电镀色，时光机内部的驾驶舱也刻画得相当出色。如果你看了那个漫画，就会被这个震惊到，发现打开了一扇记忆的大门。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/6.jpg
+              content_type: image/jpeg
+      - name: SHF-父子冲击波造型
+        description: 用SHF可动系列的孙悟空和孙悟饭，摆出悟饭对抗沙鲁时的父子冲击波造型。其实当时悟空死了，悟饭觉得自己打不过了想放弃，于是悟空的精神在后面鼓励他，但是悟饭左手受伤，所以一只手发出龟派神功打败沙鲁。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/7.jpg
+              content_type: image/jpeg
+      - name: 桌面系列-布玛机车
+        description: 出自龙珠漫画中的卷绘，摩托车造型风格军事而战争，与布玛这个姑娘形成反差对比，显示出人物强势而不失温柔的性格。底座支架可以使摩托车倾斜，配合布玛风中的头发，表现出了速度感。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/8.jpg
+              content_type: image/jpeg
+      - name: 桌面系列-悟空骑龙
+        description: 出自鸟山明的插画，龙的造型极具动感，尾巴和头部也使得整个场景模型有个延伸趋势，作为桌面系列的第一款，一度被当做神物。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/9.jpg
+              content_type: image/jpeg
+      - name: 桌面系列-悟空骑龙
+        description: 出自鸟山明自己的简笔插画，他身穿孙悟空经典的道服，骤然cos了一把自己笔下的漫画人物，能感受到他随心所欲的漫画风格和人生态度。
+        photos:
+          - data:
+              file: seeds/yefengshanghai/2015-08-18-dragonball/10.jpg
+              content_type: image/jpeg

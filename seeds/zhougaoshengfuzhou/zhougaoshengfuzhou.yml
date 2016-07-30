@@ -1,0 +1,92 @@
+nickname: 周高生
+description: 生活永远是自己的！
+avatar:
+  data:
+    file: seeds/zhougaoshengfuzhou/zhougaoshengicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 雕刻博物馆
+    description: 我的父亲是一位民间乐手，我小的时侯，他曾在闽剧团工作。儿时的记忆里，音乐是父亲生活中很重要的一个部分，每天晚饭后，父亲总会摆弄起那些乐器，或二胡，或笛子…一家人在父亲的演奏声中享受饭后的时光。当时的我就在想，长大以后我也应该会从事着艺术相关的工作吧。我上小学时，堂哥就在做雕刻了，看着一块块平凡无奇的石头在他手上变成一件件精美有趣的艺术品，我羡慕不已，也开始对雕刻产生的兴趣。18岁那年，在结束了高中的学业之后，我就正式跟着堂哥开始学习雕刻。一路走来，已经16载，学习积累，一雕一琢之间，刀成了手的延伸，表达着我的艺术语言。
+    items:
+      - name: 渡
+        description: 我入门学的是传统人物，如文人雅士，仕女，仙佛等，因此传统人物也是我主要的创作种类之一。这件《渡》大约作于2008年，灵感来源于地藏菩萨.很多朋友刚看到这件作品的时侯以为是寿山石中的山秀园石,原因是这种红白灰三色的纹理分布。其实这块是高山石，这是两个石种的相似之处，但它们质地上的区别很大，灰性山秀园质地相对粗糙，润度透度都一般，而这些则是高山石所具备的。
+        country: 中国
+        city: 福州
+        date_y: 2008
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/1.jpg
+              content_type: image/jpeg
+      - name: 蝶恋
+        description: 寿山芙蓉石《蝶恋》。一花一世界，一叶一菩提！一粒米中尚有气象万千，更何况一石！所以我想说:莫以石小而不为！我心中比较理想的作品状态应该是:好的创意+适合的材质+适合的工艺手段=好作品！
+        country: 中国
+        city: 福州
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/2.jpg
+              content_type: image/jpeg
+      - name: 吉祥如意
+        description: 这件《吉祥如意》材料是寿山石中的旗降石。此石种之上品质地细腻，石性稳定，光泽度好，是我个人很喜欢的一个石种！这件作品融合了博古和透雕的雕刻技法，借鉴和田玉雕的构图方式和寿山石雕的巧色运用。以祥云寓意吉祥，配合中间的如意纹样，表达对美好生活的向往。
+        country: 中国
+        city: 福州
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/3.jpg
+              content_type: image/jpeg
+      - name: 幽荷
+        description: 这件《幽荷》材料是寿山石中的坑头晶，此石种白的部份质地晶莹剔透，十分可人！这块石头是我一位好友的，当时他本想找人随便雕一下卖掉，刚好让我看到，于是自告奋勇，接下这活。所幸效果还不错，也算不辜负好友的信任！此作以顶上晶莹剔透之白荷呼应下部黑色的太湖石，相印成趣。材料固然重要，但从雕刻师的角度来讲，最终也只是一种载体！如何运用好手上的材料，表达自己想要表达的情感才是最重要的。
+        country: 中国
+        city: 福州
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/4.jpg
+              content_type: image/jpeg
+      - name: 醉清风
+        description: 这件寿山结晶性芙蓉石作品《醉清风》在原石状态的时侯，重量大约是一斤，经过我前前后后一个多月的折腾，雕完一称只剩二两了！呵呵！荷叶上薄的地方，大概也就两毫米，雕刻的时侯要小心翼翼，就怕一不小心捅破了。这件作品在中国四大名石雕刻展上拿了个铜奖，也算是对我一个鼓励了。
+        country: 中国
+        city: 福州
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/5.jpg
+              content_type: image/jpeg
+      - name: 一叶知秋
+        description: 2012年三月份去广东江门，台山玉石协会简振军先生跟我提及五月份玉石协会将与江门市义工联组织一次义拍，所得善款全部捐助给失学儿童，刚好当时贴身带着由我创作的《一叶知秋》小玩件，我便捐了出去。之后得知，这件作品以5500元的价格成交，让我很是欣慰。不积小流，无以成江海，人人出点力，让世界充满爱。
+        country: 中国
+        city: 福州
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/6.jpg
+              content_type: image/jpeg
+      - name: 交心
+        description: 心头影事幻重重，化作佳人绝代容，恰是东山山上月，轻轻走出最高峰！用仓央嘉措的这首情诗为这颗红心铺垫，把一颗纯洁心的心送给最爱的人，让永恒的爱常驻彼此心间！后来一位女网友看到这件作品后写的一段话：最简洁的构图，需要最诚意... 执子之手，与子偕老；赠子以心，相伴今生！——《交心》。
+        country: 中国
+        city: 福州
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/7.jpg
+              content_type: image/jpeg
+      - name: 龙之韵
+        description: 这几年，陆陆续续接触了许多寿山石以外的材料，如南红，黄蜡石，琥珀等等，《龙之韵》是我第一次雕骨白蜜，刀感不错！
+        country: 中国
+        city: 福州
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/8.jpg
+              content_type: image/jpeg
+      - name: 花样年华
+        description: 《花样年华》的石种是寿山石中的瓷白芙蓉。说来也是缘分，我当时买了一块大的瓷白芙蓉，石农便把这块小的送了给我，大的没出效果，倒是小的这块效果不错。这件作品以富有动感的身体曲线和抽象化的头发表现了女性的青春美！
+        country: 中国
+        city: 福州
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/9.jpg
+              content_type: image/jpeg
+      - name: 青龙
+        description: 这块原石本来可以做把件的，但是中间有裂。为了让作品更完整，我将石头直接从中间锯开，做了个挂件。
+        country: 中国
+        city: 福州
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/zhougaoshengfuzhou/2016-02-22-carving/10.jpg
+              content_type: image/jpeg

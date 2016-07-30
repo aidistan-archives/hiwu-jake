@@ -1,0 +1,130 @@
+nickname: 栗子
+description: 一个人的厨房，就像一只鱼的海洋。
+avatar:
+  data:
+    file: seeds/lizibeijing/liziicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 果腹博物馆
+    description: 食物，是生活的必需之物，而烹饪者，则是食物的造物匠人，不仅美味健康，也为生活增添艺术和暖暖情意。我和很多热爱烹饪的人一样，喜欢美食，也爱琢磨各种食物的做法。厨房对于我来说是一个神奇的地方，不仅仅能做出美味的食物，更能给家里增添温暖和快乐。我的博物馆可以吃。“我希望能一辈子做饭给爱的人品尝。”
+    items:
+      - name: 榨菜肉丝面
+        description: 认识他是在2013年的冬天，有一次我们两个在外面走了很远，等回到了他和弟弟合租的小屋时，又累又饿。我很想做一桌丰盛的菜，但是走到厨房一看，菜刀也生锈了，锅和碗都特别少，一切都灰蒙蒙的，只有两袋方便面。于是我就给他煮了两袋方便面。令我难忘的是，他吃了第一口之后，就很好奇的问我“你每次煮方便面都是这个味道吗”  “我第一次吃这么好吃的方便面” … 一开始我以为他是捧场，但是还是很感动，后来每次他饿了都说要吃煮方便面，我才相信他是真的喜欢吃。但是因为吃多了不健康，所以后来也就有了这道特定的榨菜肉丝面。这个榨菜肉丝面是表姐教给我的，我把它升级了。原来只要榨菜和肉丝就好，我加了鸡蛋、小油菜还有花生豆子等，顿时亮起来了有木有！顿顿（我们彼此的昵称）总是想吃我做的煮方便面，所以我就让他尝尝榨菜肉丝面，这样才健康！
+        date_y: 2013
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/1.jpg
+              content_type: image/jpeg
+      - name: 什锦菠萝饭
+        description: 2013年，姐姐出差，家里的大厨房就成了我的烹饪乐园，每天我都会为顿顿准备一桌香喷喷的饭菜等他下班回来。那段日子里，我每天都要在网上看好多的菜谱学习，之后赶紧去超市。虽然只有那么几天，但是是我第一次正儿经给他下厨做饭。这款什锦菠萝饭完全是我自己配出来的，没有糯米没有糖。里面有蘑菇，胡萝卜，鲜菠萝，鸡蛋，鲜虾… 味道虽不像云南餐厅里那种甜甜糯糯的菠萝饭，但是非常滴接地气。
+        date_y: 2013
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/2.jpg
+              content_type: image/jpeg
+      - name: 西红柿鸡蛋面
+        description: 这款家常的西红柿鸡蛋面，是方便面外的备选面条。好吃之处在于最后的“泼辣”步骤，就是把干辣椒和胡椒粉放在油里炸香，然后把炸香的油泼在已经盛好的面上，犹如画龙点睛之笔，顿时不再是一碗普通的西红柿鸡蛋面。没办法，我俩都是无辣不欢的人！
+        date_y: 2013
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/3.jpg
+              content_type: image/jpeg
+      - name: 玫瑰饼干
+        description: 后来我学会了烤饼干，既可以当早餐，又可以当零食。我本以为用面粉，鸡蛋，牛奶和在一起就可以烤了，但是实际操作起来才发现没这么容易。网络上有很多种饼干的做法，我把蔓越莓饼干和牛奶饼干的做法中和了一下，把姐姐家的玫瑰花茶泡开后揉碎，洒在饼干上，就成了玫瑰饼干。那阵子几乎每天都会烤饼干，用网上买的牛皮纸盒包起来，中午坐地铁送到他的单位。我也会给他的同事用小包装包好一两块，或者给他6岁的弟弟送去一盒。这样的过程，真的让我感到幸福。
+        date_y: 2013
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/4.jpg
+              content_type: image/jpeg
+      - name: 小动物形饼干
+        description: 小动物形的是用模子印出来的，心形的是我一个一个用手捏出来的。送人的时候，我总是把手捏的心形的专门留给他。
+        date_y: 2013
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/5-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/5-2.jpg
+              content_type: image/jpeg
+      - name: 丹麦菜肴
+        description: 留学的日子是孤独的，丹麦的冬天特别漫长，感谢烹饪能让我忙起来，快乐起来。在国外住的地方有一个大大的厨房，想着趁这个时候多学一些菜品，回国就可以给他做更多的好次的了！所以我用当地的食材，变着样的做出各种菜肴，做着各种试验。每每做完一道菜都要给他发照片，由于时差的原因，经常是他在国内半夜的时候才看到。这道菜真的能在寒冷的冬夜中给我春天要来了的感觉。土豆的做法是先把它蒸熟，然后挖空，里面放上鸡蛋，火腿，香葱，然后撒上芝士放在烤箱里烤，这种升级版的烤土豆也很有意思！
+        date_y: 2014
+        country: 丹麦
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/6.jpg
+              content_type: image/jpeg
+      - name: 早餐
+        description: 这一份早餐其实是自己瞎弄出来的，不过还挺养眼.这只鸡胸肉长得很像一颗心，所以烤出来也很好看。
+        date_y: 2014
+        country: 丹麦
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/7.jpg
+              content_type: image/jpeg
+      - name: 烤动物小饼
+        description: 回国之后，我和顿顿合租了一个不大的小屋，离他单位很近，所以我没有课的时候就可以花很多时间来做早饭。这个早餐，就是我说的烤动物小饼。搅拌鸡蛋牛奶面糊的时候，我不知道牛奶盒子的塑料环掉在了里面。吃的时候他挑了最厚的那一片，咬下一口然后突然哈哈大笑... 然后就开始嘤嘤嘤，我开始还不知道怎么回事，看到饼里的塑料环才恍然大悟... 赶紧机智的把塑料环给他戴在无名指上，说嫁我吧！然后这件事就这么过去了...
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/8-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/8-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/8-3.jpg
+              content_type: image/jpeg
+      - name: 午饭便当
+        description: 午饭便当要提前去超市准备食材，然后第二天中午前做好给他送到单位去。不过每次去超市的时候都感觉像脱缰的野马… 永远要买回超出预算好多的食材。他总是嘲笑我这一点，没有计划，结完账永远拎不动自己买的东西。每次给他打包便当的时候，感觉自己就像在创作一样，颜色的搭配也好，布局也好，既不能浪费太多时间（菜会凉）也不能随便乱放在一起（看起来不美腻，没错，我就是美食外貌协会的）。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/9-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/9-2.jpg
+              content_type: image/jpeg
+      - name: 虾
+        description: 7月份的时候去超市，看到这两只虾好大，就决心回家尝试。用料酒和蒜去腥，用黄油煎熟之后撒上椒盐，大概是野兽派，用秋葵做的装饰（发现秋葵的横截面真的很好看）。端上桌之后，他问怎么吃啊，我说就直接咬着吃啊。然后我俩就一人咬着一只大虾，咬完一嘴油。。那场面现在都记着。So cool！
+        date_y: 2015
+        date_m: 7
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/10.jpg
+              content_type: image/jpeg
+      - name: 创意菜
+        description: 这个算不算是一道创意菜。先在碗里放一层白米饭，再放一层老干妈炒饭，再放一层辣酱炒饭，然后倒扣在盘子里，像布丁一样的形状，每个米粒都紧实的挤在一起，配上煎蛋饼和香肠，我觉得小孩子应该会喜欢这样的方式来吃饭吧？发到朋友圈同学们都说我暴殄天物...
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/11.jpg
+              content_type: image/jpeg
+      - name: 雪梨汤
+        description: 深秋了我煲了雪梨汤。想起宫廷剧里面皇后啊妃子总是动不动就给皇上送一碗XX羹…然后我就端着碗递到他面前，说“天凉了，给皇上熬了碗银耳雪梨薏米羹！”然后他说“下去吧，我要去召见别的妃子了（一脸坏笑）。”当时真想给他一拳。我之前听说薏米对女孩子身体好，梨煮熟了也润肺，但是他说不能分梨（离），所以我只能眼巴巴看着他喝完，然后把锅里剩下的装瓶给他同事送过去，自己要喝就得重新煮。这样暖暖的梨汤配上三明治和水果，也是一份不错的早餐。
+        date_y: 2015
+        date_m: 10
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/lizibeijing/2015-11-04-food/12.jpg
+              content_type: image/jpeg

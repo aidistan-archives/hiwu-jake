@@ -1,0 +1,162 @@
+nickname: 恩和
+description: 做个心知肚明的小哑巴！
+avatar:
+  data:
+    file: seeds/enhebeijing/enheicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 古董娃娃博物馆
+    description: 大家好，我叫恩和。我的家里有一个可爱有趣的童话世界：抽屉里的麦当劳玩具，书架上的发条玩具，桌子上的胶皮玩具，柜子里的古董娃娃…吵闹的连我自己也数不清家里有多少个小成员，不过听说可以建立博物馆，古董娃娃们最先跑来，那么就来介绍介绍他们吧～
+    items:
+      - name: 大眼睛系列 Emily
+        description: 大家好，我是大眼睛系列的Emily，如果没记错的话，我应该是上世纪80年代出生的，（不过听说最早的我们在19世纪90年代就有啦），可能比你年龄还大哦，如果是这样的话，我可是你的姐姐呢~我们家族的眼球是玻璃做的，因为眼睛又大又亮，所以大家就叫我们大眼睛系列。我的身体是瓷的，头发是马海毛（也有可能是羊毛），我们都是匠人手工制作的，所以我们每一个都长的不一样，你绝对找不出第二个我了~对了，你觉得我的衣服好看吗？我特别喜欢这套裙子，觉得特别乖巧，这是我之前的主人做的！我不会告诉你们我们本来是没有衣服的，不过好像也没什么不好意思的，你们本来不是也没有衣服吗~
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/1.jpg
+              content_type: image/jpeg
+      - name: 大眼睛系列 Ben
+        description: 大家好，我叫Ben，上面的娃娃是我的姐姐，我们是不是很像。我们是恩和妈妈家里最早来的古董娃娃了，大概有七年时间。恩和妈妈把我们放在卧室里靠窗的柜子里，我觉得每天都很幸福，有姐姐在我身边，有很多很多娃娃，还有窗外看起来并不是太美丽的风景。
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/2.jpg
+              content_type: image/jpeg
+      - name: 大眼睛系列 Joy
+        description: 大家好，我是Joy，我真的不是这里的女佣，我可是我们家族身价最高的呢。我从来都不干活的，我的裙子这么好看，我可不希望把它弄脏！
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/3.jpg
+              content_type: image/jpeg
+      - name: 大眼睛系列 Happy
+        description: 大家好，我是Happy！裙子这么短，我真是太害羞了~
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/4.jpg
+              content_type: image/jpeg
+      - name: 番茄汤娃娃
+        description: 大家好，我是番茄汤男孩～在上个世纪初期，我可在美国是家喻户晓的！据说，如果那个时候一个小朋友拥有一个娃娃，那最有可能就是我啦！其实本来是没有我们的，只有公司的番茄汤，就是把番茄打碎放在铁皮罐头里的浓汤。很多家庭都会把它买回去给小孩子喝！后来，公司为了把番茄汤推销给更多小孩子，1905年的时候请了一位非常有名的插画师创造了我们，因为太受欢迎了，后来我们就被做成了娃娃！直到现在，我们的番茄汤娃娃家族还在壮大呢！
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/5-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/5-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/5-3.jpg
+              content_type: image/jpeg
+      - name: 番茄汤娃娃前身
+        description: 我们可是番茄汤娃娃的前身啊～，出生于上世纪30年代。那时我们的脸还是泥塑的，身体还是填充的，现在的娃娃们可长的真好看啊～
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/6-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/6-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/6-2.jpg
+              content_type: image/jpeg
+      - name: 小丘比
+        description: 大家好，我是小丘比，也叫小斜眼儿（我只是觉得这样比较可爱），出生于上世纪30年代。说到我，我可得讲一下我妈妈的故事：大概在1890年到1900年间，在美国有一个很有钱的人，她还有一个大庄园，她就是我妈妈。有一天，她画了一个小娃娃，后来很多人都非常喜欢，被大范围的应用，那个小娃娃就是我啦～  不过，妈妈虽然很富有，但我好像对有钱没有什么感觉，我觉得爱是最最重要也是最最美好的东西，爱是我最大的财富！
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/7.jpg
+              content_type: image/jpeg
+      - name: 胖胖小丘比
+        description: 我是另一个小丘比，也是上世纪30年代的古董娃娃。我就是想给大家看看我的衣服，以前的娃妈做的，宽宽大大特别舒服，不过他们说这样显胖！
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/8.jpg
+              content_type: image/jpeg
+      - name: Lucy
+        description: 大家好，我叫Lucy，出生在上世纪初。来到这个家有四年时间啦，以前我住在美国的一个人家的阁楼里，是一座尖顶房子的阁楼，还有圆圆的大窗户。有一天，Even来到阁楼上找到了我，给我拍了几张照片走了。那时我已经很久很久没有见到我的主人了，她是Even的奶奶，她以前为我做了很多漂亮的衣服，可能她现在没那么喜欢我了，不过我也似乎可以理解，因为她毕竟已经不是曾经的那个把我摆在床边的小女孩了。可是后来有一天，那个现在已经变老的小女孩来到了阁楼，静静的把我的漂亮衣服都取出来，折叠好，放在了箱子里，她看起来很难过，在箱子里放了一张留言条。她和我说，我要去中国了，说Even已经和那个中国女孩聊过了，看起来是个很喜欢你的小女孩。希望我过的开心…这个时候我差点要哭了，可是就在这时，她竟然给我头上套了一个小孩的纸尿裤。我模模糊糊的听到她说：“路途很遥远，带上它会…安全…”后来我见到了中国的恩和妈妈，她看起来大大的眼睛，看起来好像很喜欢我～恩和妈妈把箱子里的纸条读给我听：“家里的东西很多，我在阁楼上找见了她，所以放在易贝上，希望喜欢的人可以把她带走，但是我没想到是这么远的一个人，而且还是中国人。所以我很高兴也很开心，也希望她在你这里可以得到更好的照顾…”后来，恩和家里又来了个和我很像的娃娃，我想她可能不想让我孤单~
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/9.jpg
+              content_type: image/jpeg
+      - name: Lily
+        description: 大家好，我叫Lily，出生在上世纪初。其实本来我是没有衣服的，但是自从来到了恩和家，她就翻箱倒柜的找出了这件衣服和帽子给我穿上。倒也是还好，透视装也是挺性感的～把我后背的伤口也遮上了。
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/10.jpg
+              content_type: image/jpeg
+      - name: 龙凤胎
+        description: 我们是一对龙凤胎的两种造型，出生于上世纪30年代。不过那个摄影师真是什么都不懂，竟然把我们的位置排成了这样！我们可是有神奇的本领哦，躺下就会自动闭上眼睛，起来就会睁开眼睛~
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/11-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/11-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/11-3.jpg
+              content_type: image/jpeg
+      - name: 迪翁五胞胎
+        description: 我们是来自加拿大的迪翁五胞胎古董娃娃，在1934年那个时候，全部存活的五胞胎可是全球首例，因为那个时候正值大萧条最艰难时期，医疗卫生条件相对落后，由于缺乏必要的护理知识，单胎婴儿都有不低的死亡率，所以迪翁五胞胎存活下来简直就是一个奇迹。后来亚历山大公司在1935年的时候生产了我们来纪念这件事情，我们每个娃娃胸前都挂着金属名牌：对应着迪翁五胞胎每个人的名字。我们也挺骄傲的～
+        date_y: 1935
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/12.jpg
+              content_type: image/jpeg
+      - name: 快乐熊 胶皮脸娃娃
+        description: 我叫快乐熊，是拉什顿公司的胶皮脸古董娃娃，出生于上世纪50年代。我们的身体是棉花填充的，脸和四肢都是用胶皮做的。恩和妈妈说我特别可爱～这个公司已经在1983年倒闭了，只留下了我们。
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/13.jpg
+              content_type: image/jpeg
+      - name: 快乐鸭 胶皮脸娃娃
+        description: 我叫快乐鸭，也是拉什顿公司的胶皮脸古董娃娃，出生于上世纪50年代。
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/14.jpg
+              content_type: image/jpeg
+      - name: 贱脸臭鼬 胶皮脸娃娃
+        description: 我叫臭鼬，也是拉什顿公司的胶皮脸古董娃娃，出生于上世纪50年代。恩和妈妈说我的脸看起来很贱！
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/15.jpg
+              content_type: image/jpeg
+      - name: 快乐猫咪 胶皮脸娃娃
+        description: 我叫快乐猫咪，也是拉什顿公司的胶皮脸古董娃娃，出生于上世纪50年代。
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/16.jpg
+              content_type: image/jpeg
+      - name: 麻子脸娃娃
+        description: 我出生于上世纪80年代。恩和妈妈说是我的笑容打动了她。虽然我只花了9.9～
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/17.jpg
+              content_type: image/jpeg
+      - name: Lee古董娃娃
+        description: 我就是大家熟知的Lee古董娃娃，出生于上世纪50年代。不过我的帽子丢了～
+        country: 美国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/18.jpg
+              content_type: image/jpeg
+      - name: 刺猬
+        description: 大家可能不太熟悉我，你们一定都知道泰迪熊把～其实泰迪熊的创始人—史黛夫妈妈在上百年前战乱的时候，就手工缝制了我们。虽然特史黛妈妈是一位患有小儿麻痹的残疾人，但是在我们心里，史黛夫妈妈真是太伟大了，当然，我们也爱恩和妈妈～
+        country: 德国
+        photos:
+          - data:
+              file: seeds/enhebeijing/2016-01-08-dolls/19.jpg
+              content_type: image/jpeg

@@ -1,0 +1,135 @@
+nickname: 李晶
+description: 红尘中误了俺武陵年少
+avatar:
+  data:
+    file: seeds/lijingsuzhou/lijingicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 团扇博物馆
+    description: 高中时喜欢戏曲，我开始了解戏曲背后的中国传统文化。点翠，老银，扇子…是戏曲里常见的物件，我很喜欢，遇到了买些回来。慢慢的，我对戏曲的喜爱和了解越来越多，对这些老物件也由随缘到用心收藏。在收藏的扇子中，有一些残缺的团扇，漂亮精致的扇框扇骨，却没有扇面。我找不到合适的师傅，便试着自己修补。一柄柄团扇修补完整，得到朋友和陌生人的喜爱。慢慢的，一些人想购买，硕士毕业后，这也顺其自然的成为了我的工作。
+    items:
+      - name: 一把老团扇
+        description: 这是一柄修复的老团扇。扇柄是清代民国的骨质异面老柄，镶嵌了手工錾刻的荷花纹样的银片，新配一面一直不舍得用的手织秋香色回纹锦，坠子搭了一枚清代民国的老翡翠，真丝的勾头回龙须流苏。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/1-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/1-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/1-3.jpg
+              content_type: image/jpeg
+      - name: 缂丝仿陈洪绶《水仙图》
+        description: 这柄团扇的扇面是缂丝仿陈洪绶《水仙图》，扇框是民国时期的大漆老扇框。由于时间比较长，扇框上的漆有些掉落。为了修补这样的损伤，我想到通过镶嵌錾刻银片来修补它。很多人觉得在扇柄背部镶嵌银片很低调，但是其实本不是做这么长的银片。而是因为在镶嵌银片的过程中，脆弱的大漆不断掉落，因此银片也只能越加越长。对于这样的老物件，了解材质的属性，细心的呵护就变的尤为重要。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/2-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/2-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/2-3.jpg
+              content_type: image/jpeg
+      - name: 手绣鱼藻纹
+        description: 这柄团扇的扇面是手绣鱼藻纹，扇框同样是民国时期的大漆老扇框。扇柄上本有很多零散的瑕疵，我设计了如意灵芝纹錾刻银片来修补其损伤，很多人非常喜欢。把损伤的物件通过一些设计修补好，不仅对于物件来说是恢复其所用所美，对于我们也是一种很喜欢的挑战。这样的作品，如果设计得当，常常比一些全新的作品效果更好，让我们也更满意。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/3-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/3-2.jpg
+              content_type: image/jpeg
+      - name: 缂丝蝴蝶
+        description: 这柄团扇的扇面是缂丝蝴蝶，扇柄是民国老红木扇柄。之前我做了一些零碎的银片镶嵌，于是请师傅来制作大玉兰花银片。从一个银块打成银片，制作凸凹，最后在上面雕刻花纹。当时请师傅做的时候，师傅还从来没有做过这样的大件，我心里还很忐忑，后来师傅做的非常到位，很受大家欢迎。在希望扇子能逐渐为更多人所知所用的同时，我们也去结合不同的传统工艺，创造一些新的方式来表现美。镶嵌大银片就是我们创新的做法之一。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/4-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/4-2.jpg
+              content_type: image/jpeg
+      - name: 仿清代宫廷团扇
+        description: 这是一柄仿清代宫廷团扇：扇面的缂丝技艺精湛，扇面顶部扣头用纯金手工錾刻而成，苏绣扇档，扇柄使用清代珍贵的菠萝漆柄，手撵真丝线的边条，颜色和牡丹花的颜色变化一致，扇坠配了一枚老银香炉双面挂件，真丝回龙须流苏。形制非难事，细节费尽心思。这是一把仿清代宫廷团扇，因用材讲究，做工精细，价格也较为高昂。但我看到一些人用一些普通的材质，和不够到位的做工来制作这把宫廷团扇时，我是不太赞同的。我认为应该尊重它本来的面貌和品质。任何东西都应该尽量协调，所有的东西都应该是高度统一的，而不是为了降低成本而忽略这些本该有的特性，同时，也不是为了显的昂贵而夸大这些特性，美和协调是我们的最高准则。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/5-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/5-2.jpg
+              content_type: image/jpeg
+      - name: 仿老团框
+        description: 这柄团扇框子仿的之前收的一把老团框，扇柄红木，全包边的十六棱扇框，异面（即扇面部分扇柄有弧度），扇面为缂丝机手拨的海水纹真丝料，坠子配红珊瑚双喜，缠头回龙须流苏。有一把双面镶嵌了老银鎏金花片，字为“康”、“宁”。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/6.jpg
+              content_type: image/jpeg
+      - name: 大漆老扇框
+        description: 当时收到这个清代的大漆老扇框时，这片缂丝已经做好了，但我还没去乡下师傅那取回这个片子。框子收来后，觉得扇框和这片缂丝特别合适，我就麻烦师傅跑到镇里帮我快递寄来缂丝。我一般夜里忙的比较晚，早上通常也在睡觉，快递师傅来往的久了，也不在早上为我派件。那次，我专门嘱咐快递师傅尽早派件。收到快件的那天早上，还很困，回到屋子后本想起床后再做，但是翻来覆去睡不着，满心都在想着如何将它做出来，于是立刻爬起，当天晚上就把这柄团扇做好了，真的是迫不及待将它做出来。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/7.jpg
+              content_type: image/jpeg
+      - name: 清代民国的老牙柄
+        description: 一根清代民国的老牙柄，本已无法使用，用非传统的方法重新配了扇框，裱了两面豆沙紫的手工织锦料，前后镶嵌一对老银鎏金如意花片，配了老的翡翠平安扣扇坠，真丝回龙须。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/8-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/8-2.jpg
+              content_type: image/jpeg
+      - name: 黑色捻金线素缂丝
+        description: 黑色捻金线素缂丝扇面，红酸枝扇柄，招风式，十六棱全包边手织万字纹宋锦。镶嵌的梅花形扇档主材是全品清代蝶恋花点翠，银镀金镶嵌微型珍珠和小碧玺。扇坠用蜜蜡和清代吉庆老银做的多宝串，真丝回龙须流苏。素面的团扇，之前从来没有见过，也许很多制作者觉得这类团扇并不符合传统的制作方式。但我觉得这样的设计理念和现代人的追求很契合，简单又不失特色，黑色的扇面中金色的线，漫天星辰的感觉，很多人喜欢。简单的扇面外，我为这把团扇设计了一个较为复杂的扇档：扇档中间做了点翠，外面用银镶嵌了宝石，我们虽然用了现代工艺去做扇档，但是表现的是中国传统的审美。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/9-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/9-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/9-3.jpg
+              content_type: image/jpeg
+      - name: 吴罗扇面
+        description: 这是一个四根经线绞起来的吴罗扇面。在以前，这种料子作为衣服，或是故宫的纱窗。在当今这个机器织布时代，这种料子因其制作复杂，价格昂贵，使用范围窄，变的不再实用了，做的师傅也因此越来越少。在苏州还有些制作罗的师傅，寻找合适的使用契合点也成为了他们正在努力解决的问题。选择这样的料子做团扇，也是希望自己能出一些新的尝试，也贡献自己一份小小的力量。
+        country: 中国
+        city: 苏州
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/10-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/10-2.jpg
+              content_type: image/jpeg
+      - name: 清代云鹤纹绫子
+        description: 这是最近刚刚完成的团扇，扇柄材质是小叶紫檀，花瓶型把手主体前后镶嵌清代和田白玉。扇面是清代云鹤纹绫子，海棠型全手烘扇框，包边是手织万字纹宋锦。配了珊瑚喜字扇坠，回龙须流苏。
+        country: 中国
+        city: 苏州
+        date_y: 2016
+        photos:
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/11-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/lijingsuzhou/2016-02-07-fan/11-2.jpg
+              content_type: image/jpeg

@@ -1,0 +1,140 @@
+nickname: 囍爷
+description: 玩物不会丧志，但要保持「玩儿」的心态。
+avatar:
+  data:
+    file: seeds/xiyejiaxing/xiyeicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 千层底布鞋博物馆
+    description: 千层底有着悠久的历史和极高的传统文化价值，一针一线纳起来的千层底，不仅穿着舒适，更能让穿它的人感受一心一意的呵护和感动。囍爷千层底，精心设计，亲手制作，坚守着千层底应有的品质，又融入时尚，为忙碌的人们送去真诚的问候，让他们在真正的传统手艺中返璞归真，回归自然。我从小挚爱传统文化，大学毕业前一个偶然的机会回老家，在奶奶家的老柜子下面发现一双千层底布鞋，一针一线纳上去的辛劳让我油然敬佩。我决定放手一试，开始研究制作布鞋的工序，设计鞋样，找寻适合布料，设计鞋面花色，在不断摸索中改进。
+    items:
+      - name: 牡丹
+        description: 不知道从什么时候开始流行这么一句话“中国的，才是世界的”，在我的印象中，能打上传统标签的图案不多，大牡丹算是一个典型。这一款花色是我们第一个确定下来并且投入制作的，我相信做传统，做中国制造，一定要有这一朵娇艳的大牡丹。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/1.jpg
+              content_type: image/jpeg
+      - name: 梅花
+        description: “宝剑锋从磨砺出，梅花香自苦寒来”，傲寒独自的梅花一直是我个人的喜爱。毕竟这一路上也是荆棘重重，所以精神气是我比较注重的一块。我希望自己，希望布鞋，甚至希望自己规划的这一幅蓝图可以冲破阻碍，坚守原则。哪怕未来会遇见更多的困难，更多的不被理解，都可以坚持得走下去。其实我们的梦想很简单，也很宏伟。我希望我的布鞋可以打上“made in china”的标签，并且被世人口口相传。Made in china不再是一种山寨，而是中国人的骄傲！
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/2.jpg
+              content_type: image/jpeg
+      - name: 荷花
+        description: 荷花款布鞋的设计比较大胆。其在很多地方风俗中，荷花即是莲花，莲花鞋又是死去的先人入葬时穿的鞋。所以忌讳的人会相当忌讳。而我们设计的时候采取左脚荷花，右脚花蕾的ab款式，虽是荷花，但是意义上有重大的改变。很多大人们会说这种设计让买鞋的人连老一辈的家门都不敢进了，但是我们依旧推出了市场。“打破常规，走自己的路。”这又有什么不对呢？
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/3.jpg
+              content_type: image/jpeg
+      - name: 乌镇
+        description: 说出来很多人都不相信，一个南方人竟然在折腾北方的布鞋。正因为我路遇无数场江南烟雨，才把这柔情浪漫的眼光用在了布鞋上。我在嘉兴读大学，而说起嘉兴，很多人都知道乌镇。在江南无数的小桥流水里，乌镇算是一个神奇般的存在。既有古镇的韵味，也有古镇的柔情。这一款取名叫“乌镇”，为我江南的水乡风情送去一份礼物吧。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/4.jpg
+              content_type: image/jpeg
+      - name: 扬州碎花
+        description: 三月初去过一趟扬州。烟花三月下扬州，所以赶了这么一趟潮流。这款花色是我在路经扬州的一个面料市场发掘的，卖布料的大姐跟我说，三月的扬州是清秀的，或许她的风采不再是几百年前乾隆帝几次下江南时那样旖旎，但是这座古城却是南方山水里最清秀迷人的。我不知道扬州是否有这样的碎花，但是扬州的气味是清澈的，我还记得，就如同我看到这块布时的感受一样。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/5.jpg
+              content_type: image/jpeg
+      - name: 网面提花蝴蝶
+        description: 今年的四月份接到一笔订单，是客户拿来欧根纱的布料向我定制了三百双布鞋。料子真心好，看得心里痒痒的。在那以后，我多次寻人想找欧根纱的布料做布鞋。七月初一个偶然的机会寻到这么一匹欧根纱的面料，欣喜若狂，随即投入制作。可是却发现，这款布料质地软，一层不足以撑起整个鞋面，于是开始尝试做两层。由于增加了一层布料，所以整个的手工过程变得异常困难，十双布鞋做出只有两双左右可以成为优质品面向客户。这是迄今为止最难得的一款布鞋。我给她取名“蝴蝶”，由蛹化蝶，几经磨难。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/6.jpg
+              content_type: image/jpeg
+      - name: 辟邪挂件
+        description: 这是做布鞋过程当中的一个小创意，做成mini版的挂坠。我们给她赋予了“辟邪”的含义。一只小物件有很多种选择，你可以将她变成挂坠，可以变成钥匙扣，也可以加上配珠进行把玩。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/7.jpg
+              content_type: image/jpeg
+      - name: 樱花
+        description: 去年冬天的时候开始尝试棉鞋，因为我本身也是一个年轻人，所以在鞋样的方面采用传统花色＋偏现代样式的一个结合。鞋带的颜色也突破了一个传统，采用比较鲜艳的色调。因为冬天给人的感觉是灰蒙蒙的阴冷的，所以我希望这一些色彩的改变会给冬季带来一点新鲜元素。自己有一台比较老的佳能550D单反，虽然技术不好，但是也每天都琢磨着拍。不会ps，所以对光线什么的实在无力招架。当时我每天拍照都是开着几个“小太阳”打光线，恨不得把自己给烤焦。想想那个时候也是蛮有趣的。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/8.jpg
+              content_type: image/jpeg
+      - name: 灰底樱花，正红，小樱花
+        description: 后来开始挑选布料，花色。最初也不懂，在淘宝上买布，不知道门幅是多大，买回来才傻眼。也不知道什么面料可以做布鞋，什么面料不适合做布鞋，总之是一通乱买。我记得当时买了十几块布，但是后来可以做布鞋的仅有这三种。慢慢我明白，其实做布鞋型最好的是帆布，麻布，质地较硬，塑性好。棉布比较难做，但又是布鞋面料不可或缺的一种，她质地比较柔软，做鞋面的时候难下针，而且鞋面容易褶皱。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/9.jpg
+              content_type: image/jpeg
+      - name: 天空灰
+        description: 这双布鞋是我的第一双成品布鞋。你可以看出她有很多不足。最初的时候特别单纯，以为做布鞋就是很容易的事情，一块布，剪个鞋样，对着底子缝上去就可以了。结果出来的鞋子鞋面褶皱，稍微压一下整个鞋面就无法撑立起来。鞋子的后跟一块也没有根据脚型设计，跟传统的布鞋一样有一个通病：不兜脚。易掉跟。这一双布鞋做出来后，我由最初的兴奋变为冷静，好像就是一瞬间，那种激动没有持续太久，我便发现了她的问题，辗转反侧后，我做了一个大胆的选择：改变花色，改变包边条颜色，用色彩打破常规！那时候的我对于技艺尚没有研究，第一步的改变是基于了花色。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/10.jpg
+              content_type: image/jpeg
+      - name: 老红布
+        description: 人生中动手做的第一双布鞋。机器的底子，坍塌的鞋面，好笑的是最初不知道布鞋也要里衬，以为一块布即是所有。鞋底从中间穿针，扎得血都流在鞋垫上。这一双鞋我一直留着，虽然其貌不扬，虽然缺点很多，但是这是我的一个起点。所有的故事都是从此开始。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/11.jpg
+              content_type: image/jpeg
+      - name: 狮子座
+        description: 应着8月出了自己最喜欢的面料，也是送给自己一周年的礼物。以此命名“狮子座”。
+        date_y: 2105
+        date_m: 8
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/12.jpg
+              content_type: image/jpeg
+      - name: 浅牛仔
+        description: 我们发现在圈子里有这么一群小众男性，他们有宗教信仰，喜欢布鞋，喜欢简单，喜欢浅色调。所以这是为他们做的量身定制。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/13.jpg
+              content_type: image/jpeg
+      - name: 孔雀
+        description: 这款布料最初是一个朋友推荐给我，说希望可以为姥姥姥爷做这样的情侣款。我说那就批量吧，适合老人家，简单不做作，优雅不浮夸。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/14.jpg
+              content_type: image/jpeg
+      - name: 菊花
+        description: 对丝绒面料的热爱让我不断尝试去破除其做布鞋易脱线的难题。很幸运，菊花的出现让一切变得更好。因为喜欢，所以努力。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/15.jpg
+              content_type: image/jpeg
+      - name: 蓝海
+        description: 夏天的新款，给你们一个薄荷般凉爽的夏天。
+        country: 中国
+        city: 嘉兴
+        photos:
+          - data:
+              file: seeds/xiyejiaxing/2015-08-21-shoes/16.jpg
+              content_type: image/jpeg

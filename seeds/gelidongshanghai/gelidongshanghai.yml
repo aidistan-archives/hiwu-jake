@@ -1,0 +1,162 @@
+nickname: 格里董
+description: 过自己喜欢的生活，感受自己喜爱的城市！
+avatar:
+  data:
+    file: seeds/gelidongshanghai/gelidongicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 相片袋博物馆
+    description: 作为土生土长且喜好怀旧的上海人，这些年来除了常进行一些探索上海的城市发现活动外，我也会刻意地去寻找一些关于这所城市过去的物品和记忆。各种藏品中，有一个我个人很喜欢的主题——上海各家照相馆的相片袋。相片袋是照相馆用来存放照片或底片的袋子。在当年照相机还属于奢侈品的年代，人们拍照只能上照相馆，因此许多人对相片袋并不陌生。但随着生活方式的变化，照相馆的数量和去拍照的人不断减少，相片袋逐渐淡出了人们的视野。它们的实用性消失了，不过却留下了一些城市的记忆。
+    items:
+      - name: 第一只相片袋
+        description: 差不多5年前，我正执着收集上海主题的老照片，四处淘宝。某个星期天在翻一堆旧照片时，忽然发现夹在当中的一只纸袋。不经意地看了一眼，喜爱设计的我便被上面的美术字体所吸引了。照相馆的所在地就在家附近，觉得更有意思。就这样出于好玩，我顺带着买下了我收藏的第一只相片袋：公私合营 匯兿照相舘。
+        date_y: 2010
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/1.jpg
+              content_type: image/jpeg
+      - name: 寳德美術照相舘
+        description: 这是我收藏中一只早期的相片袋，大约是清末民初的，是由同样喜爱收藏上海物件的好友从英国购回后转送给我的。袋子正面所使用的是当年比较典型的排版。不但有店名、地址和电话的文字信息，同时还特别嵌入了店铺门面照片以供辨识。服务项目的细节都是英文表示，可能因为当时顾客很多都是外国人。这只袋子当年漂洋过海去了欧洲，近百年之后又坐着飞机回到了“故乡”，想想也是真的有缘！
+        country: 英国
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/2.jpg
+              content_type: image/jpeg
+      - name: 迎芳照相舘
+        description: 这是从网上以很低的价格购得的。曾经常见的单色印刷，图案是手绘的女子形象。图中的女子低头看着手中的老式相机，背景是类似钢笔画的风景。她的发式和服装是典型的民国初期的式样，电话是最早期的四位号码。相片袋使用的字体中规中矩，没有英文介绍，虽然开设于英租界，但客人可能都以华人为主吧？如此的早期偏中式的相片袋，至今为止只见过这一只。
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/3.jpg
+              content_type: image/jpeg
+      - name: 綠寳照相室
+        description: 汉字的设计、剪影式样的人物配以几何形的色块和线条，正是1930年代Artdeco风格的典型特征，也就是人们常提到的老上海的摩登范。相片上的“八仙橋青年會”和“華格臬路”是老早法租界的特有地名，这也在一定程度上说明了它的年代。这是旧货摊上的战利品。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/4.jpg
+              content_type: image/jpeg
+      - name: 就是我美術照相
+        description: 据说这个“就是我照相舘”曾经十分有名，当年名满沪上的“越剧皇后”筱丹桂在这里拍过结婚照。这是我收藏的第一只单色印刷的人物图案相片袋。人物的细节描画十分精细。我曾经对照过筱丹桂的照片，觉得袋上烫发女子的面容与其本人十分相似。不知这是否就是按照这位越剧名伶肖像而画的？
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/5.jpg
+              content_type: image/jpeg
+      - name: 美華晝夜摄影社
+        description: 除了上海的相片袋，我也会收集一些有特色的外地袋子。这个袋子也是在网上找到的，价格有些小贵。在经过几番思考后，带有古典主义味道的设计和手写的俄文使我下了决心。和其他众多的上海相片袋相比，这是带有些“异域风情“的一只。
+        country: 中国
+        city: 哈尔滨
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/6.jpg
+              content_type: image/jpeg
+      - name: 雅麗光
+        description: 又一只从网上找到的外地相片袋。双色印刷、摩登风格的美术设计配上米老鼠显得相当特别。广州也曾是一座十分开放新潮的城市，我收藏的不少有特色的外地相片袋就是来自广州。
+        country: 中国
+        city: 广州
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/7.jpg
+              content_type: image/jpeg
+      - name: 大都會照相
+        description: 这是我“一见钟情”的一只袋子。 “大都會照相”五个美术字，足以使我毫不犹豫地下决心无论多贵都要买下来。曾见过不少“大都會”的字体设计，这绝对是其中最特别的。设计师使这五个手绘字发生了巧妙的变形，变得很俏皮也很洋气。如此的字体即使放在现在，也绝对能称得上好设计！
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/8.jpg
+              content_type: image/jpeg
+      - name: 有德照相室
+        description: 油光锃亮的分头，配上西装、领结和口袋巾打扮，俨然当时一个典型的西式绅士造型，但把这些元素放在这个漫画人物上却显得有些滑稽。如此的画风是民国时连环画和漫画中比较常见的一种人物造型风格。大量文字广告中插入这样一个漫画造型，整体感觉顿时变得轻松生动了。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/9.jpg
+              content_type: image/jpeg
+      - name: 古龍照相舘
+        description: 比起上面诸多洋气的设计，这只袋子的图案是很中式的“云中龙”。不过更特别的是之后盖在上面“飞机大炮”图案的印章。“加緊支援前線、争取早日勝利”是抗美援朝时期的主要宣传口号。这个带有政治宣传作用的章与原本的设计无论从色彩、字体还是风格上都形成了鲜明的对比，为相片袋增色了不少。这样的袋子是可遇而不可求的。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/10.jpg
+              content_type: image/jpeg
+      - name: 公私合营匯兿照相舘
+        description: 1956年开始，大多数照相舘都改为了“公私合营”制。相片袋也已出现了基本统一的式样，不过仍有少数大照相舘依然自行设计。下面的就是“匯兿”的原创设计，除了“公私合营”四字以外都是使用设计过的美术字。几处特意加长的笔画，使整个画面的平衡感把握得很到位。不过之后没多久这样洋气花哨的设计就“被消失”了…
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/11.jpg
+              content_type: image/jpeg
+      - name: 公私合营大新照相馆
+        description: 这是从50年代至文革开始前较为普遍统一的相片袋设计。相片袋尺寸大小各异，但排版基本都是如此：名字和地址一换就可以供任何照相馆使用。不过相袋上方小幅的主题图案，倒是有着一些变化，常见的有“工农兵”、“多民族团结”、“科学发展”或者“天安门”等具有政治宣传意义的图案。这是较少见的“大跃进”图案。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/12.jpg
+              content_type: image/jpeg
+      - name: 红艺冲印放大
+        description: 红色的“敬祝毛主席万寿无疆”和“毛主席语录”很好的说明了这只袋子的年代。和之前的相片袋不同，那时所有的相片袋基本都不再使用任何美术字、图案等装饰。随之而来的就是各类革命话语和强劲有力的店名，例如“万代红”、“代代红”、“革命”、“燎原”等，不过它们基本都只存在于那个红色年代。说动这家“红艺”知道的人可能不多，它后来改成的“科艺”却是闻名上海。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/13.jpg
+              content_type: image/jpeg
+      - name: 上海市彩扩中心
+        description: 今年5月份的一个雨天，为我留东西的旧货摊来电话说是有二十来个相片袋，我便冒着大雨去看。结果只挑出了两个，这是其中的一个。手写美术字和简单的色块镂空处理，很有80年代的感觉，蓝白灰不再是社会的主流了，更多明快的色彩逐渐出现。这类年代感强烈的设计常会出现在我儿时的记忆之中，因此看到这只袋子会倍感亲切。
+        date_y: 2015
+        date_m: 5
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/14.jpg
+              content_type: image/jpeg
+      - name: 美倫照相舘
+        description: 我家的附近曾有一家老照相馆。在几十年间更改了数次店名，每一次的更名与它所处年代的大环境都是紧密相连的。这是1940年代的相片袋。中文采用正楷字体，英文标注齐全，很典型的民国时期的式样。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/15.jpg
+              content_type: image/jpeg
+      - name: 公私合营美倫照相
+        description: 当时的字体是简洁大方的手绘美术字，大都市的摩登味十足。虽然依然很洋气，但是原来的外文标识早在几年前已被“完全摘除”了。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/16.jpg
+              content_type: image/jpeg
+      - name: 红雷照相舘
+        description: 文化大革命时期，“美倫照相舘”改名成了“红雷照相舘”。店名从前者的略带诗意变成后者的强劲有力，字体风格也是充满了革命的力量感。红色的字体配上毛主席语录，正应和了当年“全国山河一片红”大时代的审美。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/17.jpg
+              content_type: image/jpeg
+      - name: 红蕾照相馆
+        description: 文革结束后，“语录”随之消失了。照相舘随着时代的进程，变成了“红蕾”。不但店名，字体也变得柔和，还带着一定的装饰性。“红蕾“是一个很具80年代初特征的名字，“蕾”的本意是指含苞未开化的花朵。不知改成这个名字是否是带着处于百废待兴时代中的人们对于明天的美好期许呢？
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/18.jpg
+              content_type: image/jpeg
+      - name: 美伦照相馆
+        description: 1980年代中期，照相馆最终改回了原名“美伦照相馆”。不过相片袋上“美伦”不再是几十年前的正楷或者美术字，而是采用当时最为普遍的手书字体，很典型的一种80年代的审美。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/gelidongshanghai/2015-11-21-photobag/19.jpg
+              content_type: image/jpeg

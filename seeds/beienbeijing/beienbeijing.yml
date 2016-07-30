@@ -1,0 +1,111 @@
+nickname: 贝恩
+description: 始作俑者
+avatar:
+  data:
+    file: seeds/beienbeijing/beienicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 反派博物馆
+    description: 我是贝恩，如您所想，这并不是我的真名，我只是一个猛男而已。我看到很多人在这里投稿，于是我也想为自己做一个博物馆。有的人喜欢写日记，用来记录自己的故事，我比较懒，就只能靠收藏这些东西来作为自己的精神信仰。想想自己这二十多年，这些物件伴随着我的成长，也影响着我的成长，他们都集热血与暴力为一体，下面你們就自己感受吧。Welcome to my world! 嚯哈哈哈哈~
+    items:
+      - name: 姥爷给我打造的铁剑
+        description: 小时候父母在北京，我在山东家里和姥姥，姥爷一起生活。那时家人怕我娘炮，就给我一些刀枪剑戟的东西玩，他们认为，这样孩子不容易受到妖魔鬼怪的侵害，这把铁剑就是姥爷给我打造的。这把剑现在舞起来刚刚好，但是刀柄并没有按照人体工程学进行制作（乡下人哪有那么多讲究），所以用户体验特别差劲，小时候举起来都费劲，更别说耍一套什么辟邪剑法了…
+        date_y: 1998
+        country: 中国
+        city: 山东
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/1.jpg
+              content_type: image/jpeg
+      - name: 一只猴子
+        description: 那时，父母每年只有过节才回老家看我一次，那个时候我超喜欢孙悟空，每天都在街头捡粉笔画孙悟空，整个村子所有墙上都是我画的，当然高度都是一米以下～老妈看我那么喜欢，于是就给我买了一只猴子。那个时候在村子里没有做工这么好的娃娃，所以大家都很羡慕我～ 之后自己就开始给猴子做衣服饰品啥的，把它真的cos成了悟空。
+        date_y: 1999
+        country: 中国
+        city: 山东
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/2.jpg
+              content_type: image/jpeg
+      - name: 漫画创作
+        description: 小学的时候，我就开始了漫画创作，由于没有受过专业训练，画面十分粗糙，但是阻挡不了我创作的热情，那时候更像是一种发泄。四年级刚刚转回北京，和新的小伙伴相处并不融洽，有时候只能靠看一些暴力热血漫画来消遣时间。久而久之就有了自己创作漫画的想法。一画就画到了高中，除了画面带感了一些，内容也变的更加有趣。不再像小时候仅仅以暴力为主题，满满的把一些搞笑元素融合进来，恶搞了一段历史－三国。整整创作了一整套，现在把它们发在了我的公众号 本多君 里，算是童年成长的见证吧～
+        date_y: 2002
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/3-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/3-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/3-3.jpg
+              content_type: image/jpeg
+      - name: 李小龙版双截棍
+        description: 高中的时候喜欢李小龙，开始玩命地练习双截棍。当时再加上自己底子比较好，从小就舞枪弄棒的，所以就一直练了下来，那会相当暴力，经常把同学下课就扔到了走廊的大垃圾桶里，那会淘宝还不普及，想买双截棍就得自己满城转悠，各种找，终于才买到李小龙版的。很激动，在高中元旦晚会上还表演来着，现在看看都是回忆。
+        date_y: 2006
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/4.jpg
+              content_type: image/jpeg
+      - name: 青龙偃月刀
+        description: 我从很小时就开始看三国，尽管书就看过一遍，但是电视剧游戏却接触的很多，出于对强者的追捧，比较喜欢关羽这个角色，对于他的武器也是情有独钟。小时候是自己拿纸壳做，后来是铁棍和铁片，到了大学终于自由了，就去体育大学旁边的兵器铺买了一把青龙偃月刀，两米一的长度，分量也是很重。由于这种东西北京管的比较严，我和我上铺的小伙伴生生的从体育大学扛着走回了清河校区！在路上回头率那叫一个高，之后学校每天晚上快熄灯的时候，总会有一个人在学校操场上面耍大刀…这里有个题外话，我们学校装修的时候，刀被几个农民工给扛走了！！特别可惜（qi），现在在创研所的那把是我新买的，比之前的更重，更霸气～～
+        date_y: 2009
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/5.jpg
+              content_type: image/jpeg
+      - name: 贝恩的衣服
+        description: 从上大学时，我迷上了蝙蝠侠，正好那时《蝙蝠侠：黑暗骑士崛起》的热映，把我的激情推到了顶峰，里面的反派贝恩给我留下深刻印象，通过武力将蝙蝠侠击败，面对主角光环都毫无惧色，我最喜欢那种纯力量性但又不失智慧的角色，于是那会开始疯狂追捧－各大网络都改名为－贝恩。有一次在三里屯的巴尔曼店里看到了贝恩的这件衣服，十分激动，一问价格确是好几万，我就操了…于是就把它拍了下来，在淘宝上各种询问定做相关的店铺。功夫不负有心人，终于在最后我按照照片的样子把贝恩的衣服打版出来，找了东北一家作坊，花了两个月的时间把它做了出来。仅仅花了800多块钱，其中的麻烦与辛苦就不多说了...每到冬天，这件衣服都会成为我出镜率极高的衣服...
+        date_y: 2010
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/6.jpg
+              content_type: image/jpeg
+      - name: 大反派贝恩的面罩
+        description: 这是《蝙蝠侠：黑暗骑士归来》里面大反派贝恩的面罩，橡胶做的，大学的时候买进来。那会为了装逼居然还剃了光头，元旦的时候带着在学校里面走，对同学们的世界观进行着冲击…可能大家会想，这傻逼谁呀～哈哈哈哈哈，世人笑我太疯癫，我笑他人看不穿～
+        date_y: 2011
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/7.jpg
+              content_type: image/jpeg
+      - name: 武士刀
+        description: 这把武士刀可是有些来头。我们家祖籍山东的海边，当年侵略战争的时候，日军登陆与撤退都在这里，所以当地的武装缴获了不少东西，所以从小时候这把刀就一直放在家里，应该是一把日军指挥刀，现在已经挺破的了，不过很小的时候就开始拿他舞弄，跟着电视剧上面学，一直把它带到北京，前两天我还有把它清理了一遍，上了刀油。
+        country: 中国
+        city: 山东
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/8-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/8-2.jpg
+              content_type: image/jpeg
+      - name: NECA施瓦辛格终结者T800全套模型
+        description: 施瓦辛格是我从小的偶像，现在看到这些neca施瓦辛格终结者T800全套模型已经能够回想起小时候痴迷的种种回忆！！记得那时小时候在亲戚家，那会还用VCD，表舅每次都给我放电影看，有次正好看到终结者1，当施瓦辛格伴随着球形闪电降临的那一刻，我整个人都颤抖了！雄壮的肌肉与健美的身材，面无表情的冷峻眼神，从此就一直在追，最喜欢看他找小混混要衣服那段，“you forget to say please”“I will be back”，随口还是能说一些台词～还有买一些海报呀，模型啥的，因为HT大学的时候还买不起，所以就买NECA的聊以自慰，一共是五款，最近出了一款老年版，我也早已经预定好了。
+        date_y: 2011
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/9.jpg
+              content_type: image/jpeg
+      - name: 弓箭
+        description: 大学的时候买了一把弓箭，想想动机很有意思，大三那年，想考清华的研究生，于是经常去蹭课，每次都是骑着我的自行车一大早赶过去，当时买自行车花了1800元，其中锁300元…真是为我立下了很多汗马功劳！有一次一大早想要骑车去听课，突然发现锁眼被撬了，还好300元的锁确实物真价实，任凭他们怎么撬都没有撬开，还把撬锁工具扭断了，我心里除了庆幸，还有愤怒！于是出于不理智就从网上买了弓和箭，准备当晚给他们些颜色瞧瞧，当时就在楼道练习箭法，弄的人心惶惶.想想也是很有意思的…
+        date_y: 2012
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/10-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/beienbeijing/2015-10-21-villain/10-2.jpg
+              content_type: image/jpeg

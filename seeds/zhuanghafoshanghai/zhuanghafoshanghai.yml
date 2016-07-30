@@ -1,0 +1,133 @@
+nickname: 庄哈佛
+description: 修图养性
+avatar:
+  data:
+    file: seeds/zhuanghafoshanghai/zhuanghafoicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 旧物时光博物馆
+    description: “世界比想像的要小，喷气飞机能在24小时内带你去地球上的任何一个角落。”我喜欢旅行，见未知的人，拍不尽的景，集有趣的玩意儿，体会各地的生活。凡是走过的地方，总是要在旅途中留下点印记。地方走的多了，背回来的物件也多了。这些四处淘来的旧物，映照了旧时光，丰富了内心。如果用“人生就此变得不同”来形容，怕是一点都不为过。
+    items:
+      - name: 木偶娃娃
+        description: 那是第一次出亚洲的旅行，选择了捷克，布拉格这个城市的感觉让我眼前一亮，就像走进电影里一般。那天我在布拉格周边的一个小镇子乱窜，当时整个小镇因为抵御外敌，造的像迷宫一样，那时没有GPS之类的，我也迷路了，不经意的就走到一个小店，看到了这个木偶娃娃。可能是这种很调皮，很随意，很轻松的样子一下子打动了我。我觉得用这种绳索做手脚的方式即简单又有趣，你可以通过弯它做出不一样的造型。差不多这也是我第一个不是旅行纪念品的收藏吧，我很喜欢，对我也很有意义。
+        date_y: 2004
+        country: 捷克
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/1.jpg
+              content_type: image/jpeg
+      - name: 天平秤
+        description: 逛意大利当地的周末市场还能看到用这样的天平秤。可能记忆里还依稀有小时候去国营商店买瓜子、糖果的印象，那时就是用砝码的秤。虽然这货和国内的长相不太一样，但是觉得好亲切。
+        date_y: 2005
+        country: 意大利
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/2.jpg
+              content_type: image/jpeg
+      - name: 意式浓缩咖啡壶
+        description: 这几个意式浓缩咖啡壶都是一个店里淘来的，看来店主也是花费了一番心思集了这么造型各异的几款。拧开壶，甚至咖啡渣还都未完全去除干净，我也没再清理，就让它们继续留存原来主人的使用痕迹。
+        date_y: 2005
+        country: 意大利
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/3.jpg
+              content_type: image/jpeg
+      - name: 法式咖啡壶
+        description: 法式咖啡壶是法国南部淘的，茶和咖啡我都喜欢，每天都少不了，不过却也没深究，但对喝茶和咖啡的各式器具十分着迷。
+        date_y: 2007
+        country: 法国
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/4.jpg
+              content_type: image/jpeg
+      - name: 香水瓶
+        description: 香水瓶是在法国南部玩时在一个小镇上买的，很精致，香水嘛，又很法兰西的浪漫。后面那个花插是在上海街头不经意觅到，是以前医院里的一种漏斗，买来倒置随意插了几根树枝也蛮有禅意。
+        date_y: 2007
+        country: 法国
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/5.jpg
+              content_type: image/jpeg
+      - name: 打字机
+        description: 打字机是在美国波特兰的vintage店里淘的。初中那时有打字课，每个学生每周都会提着沉重的英雄牌打字机上课，非常享受满教室塔塔塔的打字声，对这种精巧的机械装置极其欣赏。这台olivetti打字机的工业设计优雅简洁，在那个年代有一台在桌面不亚于现在搁一台mac book air，逼格满满。
+        date_y: 2008
+        country: 美国
+        city: 波特兰
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/6.jpg
+              content_type: image/jpeg
+      - name: 奇奇怪怪的小瓶子
+        description: 在日本旅游时，有个地方叫日光，逛了几处久负盛名的古迹，泡了温泉，就在小镇上闲走，走进了一家旧货店，全是零零散散的小物件。一直喜欢瓶瓶罐罐，平时吃的果酱、橄榄油什么的，如果瓶子好看也会洗洗干净留下。看到这堆奇奇怪怪的小瓶子 就毫不犹豫收下了。
+        date_y: 2013
+        country: 日本
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/7.jpg
+              content_type: image/jpeg
+      - name: 陶瓷开关
+        description: 这是个陶瓷开关 ，也是在这个旧货店买的，都是已经没什么用处的小物件，只是看着有1、1/2、1/4这样的刻度，很不常见，金属和陶瓷的质感混搭得非常美感，也收了。
+        date_y: 2013
+        country: 日本
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/8.jpg
+              content_type: image/jpeg
+      - name: 花器
+        description: 这是在大阪附近的一个小旧货店，估计原先这带做纺织的挺多，店里有很多老的纺织部件，包括这个，其实我也不确定它特别的功用，把它和一堆纺锤、锭子什么的一起买了来，随手插个枯枝当花器吧。
+        date_y: 2013
+        country: 日本
+        city: 大阪
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/9.jpg
+              content_type: image/jpeg
+      - name: 折叠小台灯
+        description: 在美国vintage店里好多折叠小台灯，造型各异，折角的灯杆加上灯罩，一个个都像pixar那个动画台灯片头一样好奇地打量着人。。
+        date_y: 2013
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/10.jpg
+              content_type: image/jpeg
+      - name: 柠檬榨汁器
+        description: 有一阵子对铝制的老物件特别感兴趣，这个柠檬榨汁器 不用太费力就能榨出柠檬汁，和它肱二头肌很发达似的造型很匹配。
+        date_y: 2013
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/11.jpg
+              content_type: image/jpeg
+      - name: 木质哑铃
+        description: 这是木质哑铃，在西雅图那边的vintage店铺聚集区淘的，去到那里就像是刘姥姥掉进米缸，老鼠进了大观园。完全被造型打败。圆润饱满的曲线，到手后从来没像模像样举起过，基本都是抚摸玩赏。
+        date_y: 2014
+        country: 美国
+        city: 西雅图
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/12.jpg
+              content_type: image/jpeg
+      - name: 老电风扇
+        description: 老电风扇，以前逛东台路（上海的古董一条街）也能看到不少，都是以前租界、洋行时期留下的，但标价不菲。到了美国一看，那可是GE、西屋什么的老家，老风扇一堆一堆的，和上海的比起来简直就是废铜烂铁的价，有阵子淘了好几个，在aroom里摆了一排。
+        date_y: 2014
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/13.jpg
+              content_type: image/jpeg
+      - name: Mini的手摇式缝纫机
+        description: 小时候妈妈的缝纫机桌就是我的书桌，我很多的衣服还有家里枕套、被套，那时流行的电视机套什么都是妈妈自己缝纫，所以对这个还是有点感怀。这是台mini的手摇式缝纫机，圆润的曲线设计，觉得只是作为个摆设都很带感。这件好重，为此行李超重加了不少钱。有更大更重的很多好货，像什么五六十年代的点唱机、近一百年的收银机什么的，实在是不知道怎么样才能搞回来。
+        date_y: 2014
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/14.jpg
+              content_type: image/jpeg
+      - name: 几个台灯
+        description: 这几个台灯并不符合我一贯淘旧货的省美，略显浮夸。但喜欢这个类型的人不少，也就顺便拿下扛回来，放aroom里另觅有缘人吧。
+        date_y: 2014
+        country: 美国
+        photos:
+          - data:
+              file: seeds/zhuanghafoshanghai/2015-11-17-oldthings/15.jpg
+              content_type: image/jpeg

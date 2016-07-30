@@ -1,0 +1,115 @@
+nickname: 沐云子
+description: 难得葫芦
+avatar:
+  data:
+    file: seeds/muyunzitangshan/muyunziicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 难得葫芦博物馆
+    description: 葫芦者，福禄也，是中华民族最原始的吉祥物之一。古人认为它可以驱灾辟邪，祈求幸福，使子孙人丁兴旺。千百年来，葫芦一直作为一种吉祥物和观赏品，受人喜爱。烙画葫芦，相传起源于汉代，后失传，清朝遂又兴起。它是属于民间的一种艺术。也是国家级非物质文化遗产。小时候，我家里老种葫芦，从小我就喜欢葫芦，尤其是把玩一段时间以后，它会变色，越来越润，越来越漂亮。上大学一年级时，学校里有个作业，我就突发奇想地用葫芦做一个，后来就一发不可收拾，从大一到大四的所有作业，包括毕业设计也是，全部是拿葫芦为题材做的。现在，我已绘制葫芦六年时间，六年前的渣手机没存什么照片，而手艺人，往往最心痛的就是喜欢的作品都不能留在自己手里。我的博物馆里的葫芦大多是近几年而作，并且已不在身边，希望能通过这里寄托自己的执念，带着大家认识葫芦，了解葫芦，为你驱灾辟邪，祈求幸福~
+    items:
+      - name: 伯牙子期葫芦
+        description: 这是伯牙子期葫芦，伯牙演奏，子期倾听。这两个葫芦是主人比较喜欢的葫芦，所以我把这两个葫芦做成了一对。因为和这个朋友关系也不错，就选了八拜之交中的一拜 —— 知音之交（伯牙子期）。
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/1.jpg
+              content_type: image/jpeg
+      - name: 摇滚和回归
+        description: 这是给一个年轻时为了摇滚乐出去闯荡后回家过普通日子的中年人而做的葫芦。他那种沧桑的看年幼时的自己的感觉～后来给他配了一首暗藏八个老摇滚乐队名字的西江月词~主人非常兴奋，仿佛又像个抱着吉他的孩子，跟我聊起了我写的乐队的事~也算是对青春的一种怀念吧~,因为我也喜欢摇滚，可惜和那位大哥一样属于摇完就滚了的。
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/2.jpg
+              content_type: image/jpeg
+      - name: 李白邀明月
+        description: 这个比较有意思。葫芦长成之后外面有一层皮，得把这层皮打掉了才能光滑，要不带着皮会发毛长那种阴斑。这个是自己打的皮，比较辛苦，打完了以后还是有阴斑。一开始这个葫芦不想画画来着，就想自己玩，但是为了遮住这个阴斑，就开始想题材，一开始怎么也画不好，想画一只鹰来着，翘首的鹰，后来无意间也是，想到了举杯邀明月，就想把月亮隐在斑里面儿，但是没隐过去，就飘下来几根柳条，李白在这里惆怅的邀明月呢，当时也是在晚上，画完心里觉得挺爽~ 随性就配了一首打油诗~
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/3.jpg
+              content_type: image/jpeg
+      - name: 天然毛线球
+        description: 这有一个天然的毛线球，所以我就没画它，我把它当成一个毛线球让小猫看着它，或者说它是一个昆虫，一个小雏鸡，随自己的想象了。一般来说，这个疙瘩不配图案的话，看上去是一种不太好看的效果。我就在旁边画了一个猫，我觉得在事物里，最淘气的就是猫了，猫的眼睛带领读者，让读者觉得这是一个美的东西。
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/4.jpg
+              content_type: image/jpeg
+      - name: 荷花葫芦
+        description: 这是我去年获奖的一个葫芦。这个葫芦全是疙瘩，它的品种就是这样。我把疙瘩做成了虫子，荷花，荷叶什么的~在最早的时候，看到把这些疙瘩都做成荷叶，显得特别乱，然后我就把它改了一下。有荷花有荷叶，比较奇特的疙瘩就做成了虫子，这就是一只小蜘蛛，还有甲虫，蜻蜓什么的，一种生气盎然那种感觉吧。比较有意思~
+        date_y: 2014
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/5.jpg
+              content_type: image/jpeg
+      - name: 随形鼻烟壶
+        description: 这是两个随形做的鼻烟壶。这道菜真的能在寒冷的冬夜中给我春天要来了的感觉。土豆的做法是先把它蒸熟，然后挖空，里面放上鸡蛋，火腿，香葱，然后撒上芝士放在烤箱里烤，这种升级版的烤土豆也很有意思！一开始先做了这尊罗汉，做完了以后这个小鼻烟壶面积太小了，偶然间，想起了一首诗，然后就做了一只小老鼠来拜这只罗汉，希望得到一点知识。
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/6.jpg
+              content_type: image/jpeg
+      - name: 老子出关
+        description: 这是养蝈蝈的虫具，叫老子出关。因为他那只蝈蝈的名字比较霸气，嗯，就叫老子。这位主人是一个天津人，特别喜欢蝈蝈，就特意订做了一个蝈蝈罐，讲究的就是每一只蝈蝈，因为它的叫声不一样，习性不一样，所以每一只到手的蝈蝈都有一栋自己的房子，这个房子相当于人类里的高档别墅了就~  这是范制葫芦，就是模具使葫芦依照人的意愿生长成形。
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/7.jpg
+              content_type: image/jpeg
+      - name: 茶叶罐
+        description: 这是一个茶叶罐，他本来是一个装蝈蝈的虫具，我把两头去了用中间的部分做了一个小茶叶罐...这个主人比较诙谐，而且胃不好。这个罐子回去可能装茶叶，可能装小花生粒，胃难受的吃一点。济公也有一个宝葫芦，而且他把他身上搓出来的泥叫汗垢丸，治天下百病，所以就给他做了一尊济公。
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/8.jpg
+              content_type: image/jpeg
+      - name: 罗汉花瓶
+        description: 这是一对罗汉的花瓶。一个朋友不知道做什么图案，无意聊起来小时候集卡片，小食品什么的事，就最后用老者的口气回忆童年的场景为题做了一对罗汉的花瓶，希望代表年轻的鲜花能够一直盛开在心里～
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/9.jpg
+              content_type: image/jpeg
+      - name: 传统鼻烟壶
+        description: 这是一个传统意义的鼻烟壶，过去宫廷皇子贝勒用的那种器型。 cool！他比较喜欢小动物，我就比较淘气的做了一只猫，一只鼠~
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/10.jpg
+              content_type: image/jpeg
+      - name: 将军罐
+        description: 说到将军，大部分想的就是雄狮啊，猛虎啊那种，或者是大将。我想到的是在鸟类里面，我认为能称得上将军的就是孔雀了，因为它首先拥有华贵的外表，其次就是它的性格，我特别喜欢那种飞翔起来的那种孔雀，特别有那种将军的风格~因为这个情节~我给他设计了四只孔雀，因为我比较喜欢双数，一对一对的比较有意思。一个瓶子上有两只孔雀，夫妻两只~
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/11.jpg
+              content_type: image/jpeg
+      - name: 大手串儿
+        description: 这是一只大手串儿，为一个信佛的人而作。因为他对十八罗汉情有独钟，就做了九颗珠子，每颗珠子有两尊罗汉，周围是云雾。正面是一个佛字，背面是悟，即悟佛。底下还有一个随型做了一个罗汉，没有照上。我自己很喜欢这个~现在信佛的人也比较多，不管是真的也好，假的也好，是有一种寄托吧。那种他们希望的东西可以实现。
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/12.jpg
+              content_type: image/jpeg
+      - name: 羲之爱鹅
+        description: 主人希望自己像王羲之一样写好书法，以他为偶像，做一组在案头时刻提醒自己的葫芦。我画了一只鹅，以鹅的口吻提醒他多练习。
+        country: 中国
+        city: 唐山
+        photos:
+          - data:
+              file: seeds/muyunzitangshan/2015-10-30-gourd/13.jpg
+              content_type: image/jpeg

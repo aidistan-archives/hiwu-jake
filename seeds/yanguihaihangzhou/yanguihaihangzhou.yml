@@ -1,0 +1,136 @@
+nickname: 闫贵海
+description: 
+avatar:
+  data:
+    file: seeds/yanguihaihangzhou/yanguihaiicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 丝绸烙画博物馆
+    description: 烙画，古称“火针刺绣”，它是用温度在300-800摄氏度的铁笔，利用碳化原理，采取勾、皴、染、点等技法，直接在胶合板、木板、竹子、葫芦等材料上作画，画面呈茶褐色，古朴典雅，表现出独特的东方艺术风格。我自幼喜爱绘画，作为土生土长的南阳人，我也爱上了家乡传承百年的烙画艺术。1993年，我开始从事烙画创作，两年后辞掉了行政事业单位的工作，去了月薪很低的南阳烙画厂并独创了丝绸烙画：以丝绸为原材料，用高温的铁笔在轻而薄的绸面上作画，使作品细腻而不呆板，古朴典雅而别具韵味，易于携带且不易损坏，表现出“火”与“绸”的独特艺术语言。2005年，因为觉得艺无止境，我携笔来到文化底蕴深厚的杭州，潜心研究，敢于探索，自己也从一个“匠人”成长成为一名工艺美术大师。
+    items:
+      - name: 傲霜
+        description: 我爱菊花，更爱画菊花。因为菊花“本性能耐寒，风霜其奈何”。女儿刚一出生，我就以“傲霜”给她命了名。我画了很多幅表现菊花题材的作品，有《傲霜》、《东篱清韵》、《傲骨凌霜》、《玉盘菊影》等。其中最喜欢的是这幅《傲霜》。当时从构思、创作到烙绘完成用了6个月时间，是相比花费时间很长的一幅。我采用圆形构图，花叶的烙绘技法为“柳叶皴”，背景是“雨点皴”。长线菊的造型乱而有序，静中有动，用“火针”在丝绸上描绘出“懒梳妆”、“贵妃醉酒”、“嫦娥奔月”等各种优美动人的姿态。在创作《傲霜》作品时，开始由于急于求成，使作品杂乱无章，层次不分明，导致第一幅烙绘失败。第二幅重新调整布局和整体黑白对比关系，从零开始。因为烙画是以单色表现物体，全靠明暗虚实对比表现，而且不能修改，只能胸有成竹一次成功。所以，创作时不但先要掌握深厚的美术功底，还要有扎实的烙绘基本功。同时我也感觉到只有努力的付出，才能有丰厚的收货。该作品获第六届中国工艺美术大师作品暨工艺美术精品博览会“百花杯”特等奖。
+        date_y: 2005
+        country: 中国
+        city: 南阳
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/1.jpg
+              content_type: image/jpeg
+      - name: 细雨
+        description: 这幅作品大概创作了2个月时间，采用中国传统工笔画中的“工笔重彩”技法，花叶用“水线”。三只麻雀在蒙蒙细雨中躲在花丛下神态各异。一般我创作作品的灵感都是触景生情得来，这幅画也是看到的景物印在脑海里就希望用烙画的形式把他们表现出来。该作品获浙江省第四届工艺美术精品博览会特等奖。
+        date_y: 2007
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/2.jpg
+              content_type: image/jpeg
+      - name: 天河滴翠
+        description: 以圆月在水中的倒影表现出“天河”之意趣，暗香的荷花及栖息的鹭鸶衬托出万籁俱寂之景象。这一幅是我自己比较满意的，也是“工笔重彩”的技法，现在在杭州还能偶尔看到鹭鸶，在西溪湿地也有，这里气候还是很适宜的。我用了差不多2个月完成了它。该作品获浙江省第二届工艺美术精品博览会金奖。
+        date_y: 2009
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/3.jpg
+              content_type: image/jpeg
+      - name: 暮归
+        description: 夕阳西下，群鸟归巢。整幅作品中我大面积用“雨点”皴法，以粗犷的手法表现农家小院土墙斑驳粗糙的质感，并试着用细腻的表现手法刻画小鸟的羽毛，让它活起来，充分来体现“暮”与“归”的主题，人与鸟之和谐。我作画的时候会根据内容，选择最适合的手法来表现。例如这幅画中土墙的部分，我用了中西结合的手法，类似于油画。烙土墙的时候需要找土墙的原型，现在真正的土墙都很少了，所以那时一有机会就会去农村，一遇到土墙就会仔细观察。平时外出采风的时候，也会长时间的去发掘，一切都是来源于生活取决于生活。这副作品花了2个月时间完成。
+        date_y: 2009
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/4.jpg
+              content_type: image/jpeg
+      - name: 和平之春
+        description: 这是九只和平鸽在和煦明媚的春天里自由安详的情景，牡丹在春天开放，所以我用大片的牡丹争奇斗艳的视觉效果来表达春意融融的感觉，也抒发我对祖国的热爱之情，也想借此赞美世界和平的这个主题。这是一幅长卷，从起稿到全部完成用了4个月时间。该作品获第十届中国工艺美术大师暨国际艺术精品博览会“百花杯”金奖。
+        date_y: 2009
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/5.jpg
+              content_type: image/jpeg
+      - name: 雪晨
+        description: 洁白如雪的马蹄莲画在晨雾中争芳斗艳，早鸟门在花丛中展翅翱翔，整幅作品展现“黑”与“白”的对比，“虚”与“实”的相生，“动”与“静”的和谐。这一幅的内容层次感比较难把控，我反复修改了很多次，用了近3个月时间。我认为很多东西是长时间积累的结果，生活中仔细观察，当有灵感的时候，就会把积累结合起来，然后创作出来。每创作一幅画不是偶然的，有的放矢来自生活。该作品获中国（杭州）工艺美术精品博览会金奖。
+        date_y: 2010
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/6.jpg
+              content_type: image/jpeg
+      - name: 五福临门
+        description: 虎的谐音喻为“福”，描绘五只虎即为“五福”。我用“丝毛”技法表现出栩栩如生的老虎形象。几只老虎在雪地里，雪地的部分是留白，在中国画里面留白是非常讲究的，也是十分复杂的一个表现手法，留白讲究无物胜有物，甚至比有东西更难把握。这幅作品是一幅长卷，我花了4个月时间完成。创作期间，一方面参考了一些大师作品中的老虎，另外也去过好几次动物园，为了把老虎的形体，眼神，特别是头部表现的更栩栩如生。
+        date_y: 2011
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/7.jpg
+              content_type: image/jpeg
+      - name: 百财图
+        description: 白菜的谐音是“百财”，我细致的刻画白菜的纹理和明暗变化，再烙出几只神态各异的蝈蝈把整幅画面的气氛活跃起来。这样就形成了“动”与“静”的和谐与对比。其他的蔬菜也是为了丰富画面，起到构图作用。我会在我的绘画中做一些尝试，比如中西方技法的相融。这一幅作品我用到了雨点皴法，画中的萝卜和辣椒是运用中国画的技法，并融入西化技巧。线是中国的特色，明暗关系是西方画的特点。这幅作品我花了30天完成。
+        date_y: 2011
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/8.jpg
+              content_type: image/jpeg
+      - name: 线描菊花
+        description: 这幅菊花主题的作品创作了2个多月，采用传统的中国画“白描”技法，以线造型，用“火针”在丝绸上描绘出了“懒梳妆”、“贵妃醉酒”、“嫦娥奔月”等线菊各种优美动人的的姿态。起稿到反复的修改，创作一朵菊花是相对复杂的，特别是菊花的线，每条线去什么方向，互相穿插，组织线条和构图。这幅作品我修改了几十次，是传统的工笔画的表现手法中难度大一些的。画这幅作品时我很享受整个过程，画的时候心情很舒畅，真的非常喜欢这种优美。该作品获第十五届中国工艺美术大师暨国际艺术精品博览会“百花杯”金奖；艾琳国际工艺精品奖银奖。
+        date_y: 2014
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/9.jpg
+              content_type: image/jpeg
+      - name: 西方作品临摹
+        description: 后来我也用烙画临摹了一些西方大师的作品。如毕加索的以下两幅《静物作品》《矢量》，体验一下西方的艺术作品，能进一步拓展自己的视野，吸收更多的艺术素养。用时15天。
+        date_y: 2015
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/10-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/10-1.jpg
+              content_type: image/jpeg
+      - name: 连年有余
+        description: 我用了两种皴法画这只葫芦，鱼头用雨点皴，鱼身部分用柳叶皴。这些皴法技巧也跟画的物体有关系，反复的尝试用什么表现更生动，效果最佳。大致用了50天。
+        date_y: 2015
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/11-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/11-1.jpg
+              content_type: image/jpeg
+      - name: 富贵图
+        description: 这只葫芦有40多公分高，我亲自选材，挑葫芦需要注意它的生长状态，要端正，上下比例要合适，底要平，皮质要细腻。牡丹代表端庄富贵，再画上一只鸟儿来活跃画面。寓意着富贵吉祥。我用了差不多1个月完成了它。
+        date_y: 2015
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/12-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/12-1.jpg
+              content_type: image/jpeg
+      - name: 春意融融
+        description: 春天开放的梨花在农家小院的白墙下显得格外耀眼夺目，九只归巢的斑鸠悠闲自在的栖息在明清建筑风格的院墙上。整幅画面黑白分明，虚实相间，体现出南方农家小院一角的意趣。我用了110天完成它。
+        date_y: 2015
+        country: 中国
+        city: 杭州
+        photos:
+          - data:
+              file: seeds/yanguihaihangzhou/2016-01-15-silkpainting/13.jpg
+              content_type: image/jpeg

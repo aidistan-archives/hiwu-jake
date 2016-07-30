@@ -1,0 +1,159 @@
+nickname: 捷强
+description: 经久考验，不辱使命。
+avatar:
+  data:
+    file: seeds/jieqiangbeijing/jieqiangicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 爷爷的革命博物馆
+    description: 沧海涓流，英雄万汇，国家乃忠魂铸就；民族福衍，百业和平，当铭祖辈捐躯人。适逢抗日战争胜利70周年纪念日，我的爷爷，一位参加过抗日战争、解放战争、为新中国的崛起奉献了一生的老战士却在不久前离开了我们。作为一名革命后代，我搜集整理了爷爷生前的物品和家里的老照片，向大家讲述一段尘封在岁月里的革命往事，向所有为了民族和国家做出伟大贡献的革命前辈们致敬！2015年5月14日下午四点左右，还在学校寝室午休的我突然被南京堂姐打来的电话惊醒：“爷爷走了，刚走的，爷爷实在是…”堂姐用哀伤的语调重复着这些话。而我还没有回过神来。爷爷就这样走了，留下一身挂满勋章奖章的军礼服和尘封70多年的时代记忆。
+    items:
+      - name: 1955年配发的55式军礼服
+        description: 就在爷爷离世前不久，辛苦的小姑翻箱倒柜把那件传说中很漂亮的军礼服帮我找到了，当我看到那还在闪耀金光的金绡绣军礼服时，我被震撼住了，作为一个懂点历史的军迷，我知道这是一件怎样不同寻常的衣服...55式校以上军官礼服是新中国历史上第一款开领礼服，在当时可谓是超前的设计，每一件礼服几乎都是纯手工缝制，尽管它是当年全面向苏联学习的产物，但是以今天人们的审美和对品质的追求来看，55式礼服也堪称精美的艺术品。领部绣有金绡绣松枝叶和嘉禾刺绣，肩章板面铜丝鎏金，四颗校官星纯铜镀银，面料为纯毛哔叽。这条裤子非常新，爷爷非常爱惜，几乎没有穿过。当年能穿上这样一件衣服的人都是久经考验，千锤百炼的革命军人。穿上这样一件衣服更是一种莫大的荣誉。遗憾的是军礼服的肩章只有一个了，帽子也没有找到，或许以后也找不到了。
+        date_y: 1955
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/1.jpg
+              content_type: image/jpeg
+      - name: 所获勋奖章和纪念章
+        description: 勋奖章是1955年根据中央命令对革命战争时期有功军人统一发放的，纪念章基本是解放战争时期和初期建国发放的，右图的两个内部为金色圆形的章为勋章，这两个勋章中，外部轮廓为八角形的是“三级独立自由勋章”，是国家为表彰抗日战争时期营连级立功人员设置的，另一个五角形的为“三级解放勋章“是表彰在解放战争中营以上立功人员设置的，这两个勋章都分为三个级别，而级别的授予一般是参考革命资历和贡献大小这两项。虽然勋章是分级的，但是无论哪一级的获得者都是建国大业的功臣。
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/2.jpg
+              content_type: image/jpeg
+      - name: 抗战时期爷爷与战友的照片
+        description: 右边的是爷爷。爷爷这时所在的部队隶属聂荣臻司令员领导的晋察冀军区，在抗日正面战场陷入僵持局面后，日军集中兵力长期围剿该区域，我军与日寇斗争十分残酷。爷爷经历了数不清的反扫荡,以及日军臭名昭著的“铁壁合围”（五一大扫荡）。因为他负责的电台工作极为重要，几乎每天夜里都要转移两三次宿营地,从没有睡过安稳觉。五一大扫荡期间突围出去的八路军正规军只有2万多人，如果算上民兵和地方武装的损失，八路军伤亡高达百分之八十！而被日伪军抓走和杀害的群众更是不计其数。这期间老人经历的艰险我们后人可想而知。
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/3.jpg
+              content_type: image/jpeg
+      - name: 解放战争爷爷与战友的照片
+        description: 解放战争进行到淮海战役时，爷爷任7纵队,2野17军通讯营长。在经历了渡江战役，大西南战役，贵州剿匪后，本来要被派往朝鲜战场,途中得病高烧昏迷，进了医院。右数第五人就是爷爷（笑的最灿烂那位同志别走，囧）
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/4.jpg
+              content_type: image/jpeg
+      - name: 在二野报务队培训学员的照片
+        description: 左数第一位举着右手的就是爷爷。
+        date_y: 1950
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/5.jpg
+              content_type: image/jpeg
+      - name: 解放战争时，奶奶的照片
+        description: 1950年4月14日，海军领导机关在北京成立，这是中央军委会领导和指挥的海军最高统帅机关，标志着海军正式成为人民解放军的一个军种。而就在这之后不久，爷爷和奶奶都从陆军部队转到了海军。并被二野抽调到海军司令部任职。
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/6.jpg
+              content_type: image/jpeg
+      - name: 奶奶的革命军人证明书照
+        description: 奶奶在海军司令部工作后由海军政治部开具的革命军人证明书。
+        date_y: 1951
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/7.jpg
+              content_type: image/jpeg
+      - name: 爷爷，奶奶，大姑和爸爸的合影
+        description: 1953年全家在北京出游的照片，每一个人都能感受到那会儿的阳光向上的生活。
+        date_y: 1953
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/8.jpg
+              content_type: image/jpeg
+      - name: 海军司令部发的大皮箱
+        description: 这是海军司令部配发的大皮箱，早期的海军锚图案，该皮箱非常罕见，这算是海军司令部的福利吧。
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/9.jpg
+              content_type: image/jpeg
+      - name: 海军司令部发的笔记本
+        description: 海军司令部军训部当时发的笔记本还都保留着。
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/10.jpg
+              content_type: image/jpeg
+      - name: 爷爷的帽子
+        description: 爷爷在哈尔滨戴过的冬帽。
+        country: 中国
+        city: 哈尔滨
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/11.jpg
+              content_type: image/jpeg
+      - name: 哈军工任命书
+        description: 这是后来另一封哈军工的任命书，刚去哈军工的那张还未找到。
+        date_y: 1960
+        country: 中国
+        city: 哈尔滨
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/12.jpg
+              content_type: image/jpeg
+      - name: 全军文化教育积极分子大会的出席证和纪念册
+        description: 这是爷爷在京出席全军文化教育积极分子大会的出席证和纪念册。
+        date_y: 1960
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/13.jpg
+              content_type: image/jpeg
+      - name: 爷爷同周恩来，朱德，邓小平的合影
+        description: 白色衣服（海军），最后一排最左边的就是爷爷。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/14.jpg
+              content_type: image/jpeg
+      - name: 海军工程系教务处军官合影
+        description: 前排左数第五位就是当时任副处长的爷爷。
+        date_y: 1961
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/15.jpg
+              content_type: image/jpeg
+      - name: 爷爷以及海军军官与苏联专家合影
+        description: 前排左数第二位是爷爷。
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/16.jpg
+              content_type: image/jpeg
+      - name: 勋章证书
+        description: 爷爷1964年以中校军衔转业。父亲曾经问过爷爷为什么晋升的慢?“可能是学历低吧”。组织上曾经派他去抗大学习，但看到先去的一干部被康生整成神经病，爷爷就不去了，档案是三年私塾。关于爷爷军衔的事，我查过一些资料，原因是多方面的。哈军工当时是大军区级单位，由于单位的保密性和苏联专家的级别问题，除院长和政治委员这样的军官按正常授衔，其余都低授，而文章开头出现的大校军衔其实是我父亲自己装上的星星，可能他也觉得爷爷吃亏了吧，不过仔细想想，这不就是当时爷爷和其他哈军工老革命的伟大之处么？“没有抱怨吃亏，一心一意奉献，”这正是帮助祖国度过困难时期的革命前辈们的可敬可爱之处。
+        date_y: 1955
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/17.jpg
+              content_type: image/jpeg
+      - name: 任命书
+        description: 这是当时林彪批示给爷爷的任命书。由于文革时期林彪倒台，这张任命书曾被撕去，但仍奇迹地保留了下来。
+        date_y: 1964
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/18.jpg
+              content_type: image/jpeg
+      - name: 我的爷爷
+        description: 我的爷爷叫陈德智，我在文章的最后提到他的名字，希望有人能记住这样一个人，即使我知道有很多人记不住，但是我相信我们的国家还有很多像爷爷这样的人。在70多年前那场足以影响世界的抗日战争中，有一群勇士挺身而出、身怀民族大义、拯救国家脱离苦难。转眼，他们已容颜苍老，步履蹒跚，不少已离开人世，但他们的革命精神永远常青，永远是祖国最强大的脊柱。这一点祖国不会忘记，人民不会忘记。
+        country: 中国
+        photos:
+          - data:
+              file: seeds/jieqiangbeijing/2015-09-02-grandfather/19.jpg
+              content_type: image/jpeg

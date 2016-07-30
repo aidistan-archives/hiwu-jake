@@ -1,0 +1,189 @@
+nickname: 糖三刀
+description: 白熊饲养员
+avatar:
+  data:
+    file: seeds/tangsandaoshanghai/tangsandaoicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 毛毡小人国博物馆
+    description: 每个女孩都梦想有一座童话王国，那里有漫天飞舞的小精灵，有遍地绽放的花朵，在那里，每一个娃娃都是会发光的天使，每一颗星星都是会发亮的糖果。我叫糖三刀，特别爱看精怪故事，童话故事，还有有趣的绘本，我用毛毡把脑海里单纯的美好变成现实，创造出一个真实可爱的童话世界。毛毡又叫做羊毛毡，毛茸茸的，质感和毛衣很像，给人温暖有爱的感觉。我从大二开始做毛毡，从起初的好奇着迷，到热情褪去，再到后来静下心来学习，慢慢的，喜欢毛毡，把毛毡当作自己的一部分，在毛毡里创造属于自己的童话世界。我的作品就等于我。
+    items:
+      - name: 小羊肖恩
+        description: 我喜欢动物，从小养过很多种类的动物喜欢它们毛茸茸的皮毛，温暖可爱。小羊肖恩是一个动画片里面的形象，肖恩是一只机智的黑脸羊。我很喜欢看那个动画片。做毛毡初学者挺多都会从绵羊开始，因为本来就是羊毛比较好表现，算是对技法的练习不过我也是很喜欢绵羊啦。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/1.jpg
+              content_type: image/jpeg
+      - name: 带珍珠耳环的少女
+        description: 这个原型是荷兰画家Vermeer的作品，属于不经意的美的那种，但越看越觉得背后有故事。后来许多艺术工作者围绕这幅画作产生了许多相关作品，比较知名的是一部画作同名电影，看完电影以后就更爱它了。女孩子青涩的样貌和眼神里的略有所思的状态是我想要表现的。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/2.jpg
+              content_type: image/jpeg
+      - name: 晚安
+        description: 比较少做的全身人物的尝试，比平时多花很多时间，过程很抓狂很想放弃，但最后还是耐心的完成了，虽然制作时候很纠结，却呈现出了安静的气氛。可能因为是深夜的作品，自然而然的做成睡着的状态了，这样的神情最显温柔。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/3.jpg
+              content_type: image/jpeg
+      - name: Leon and Mathilda
+        description: 看完一部电影，就会有点沉浸在电影的气氛里，脑子里会把主角的样子画下来，做下一个作品的时候会带上一些这样的感觉。《这个杀手不太冷》这部电影应该大家都不陌生了哈，这是我最喜欢的一部片，百看不腻。最初看的时候年纪虽然小，但已经对他们介乎亲情和爱情之间的情愫产生了一些共鸣，可能也是受它影响让我变成了叔控…    之前有好朋友针对主角制作了一对形象很鲜明的手作人像，我挑选了和她不同的服饰来制作了这一组，感觉还蛮符合我心里主角的样子的。在北京电影节的时候Leon再次在电影院播映了，一票难求堪比春运啊…那次我逼着男朋友和我一起戴着这对胸针去看了电影，即使看了几百次之后还是在结尾BGM响起的时候哭的稀里哗啦，隔壁的大婶捅了捅边上的同伴，估计觉得我挺傻，不过傻也没什么不好，哈哈。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/4.jpg
+              content_type: image/jpeg
+      - name: 小王子里的狐狸
+        description: 很热爱于看一些精怪故事，童话，神话故事，还有有趣的绘本，总之都是挺低龄的读物哈哈！很多形象的灵感都会来源于这里吧。《小王子》这本书是很棒的一个童话故事，故事里面有一只小狐狸，我看到那里的时候觉得它很孤单，然后某天就做了一只狐狸的样子，一开始它身上是空空的，朋友说它很看起来孤独，于是给了它一颗属于自己的小星球。如果偶尔感受到来自现实世界的恶意，那么就创造另一个温柔的世界，即使她不是真的。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/5.jpg
+              content_type: image/jpeg
+      - name: 小H的婚礼
+        description: 为朋友小H的婚礼做嗒，说是朋友其实也没有见过面啦。男生是画画的，女孩子是写书法的，两个人很相配.。男生想在求婚的时候送女生特别一些的东西。虽然只是照着照片来做，但做完有其他朋友说很像本人，后面看到他们发的求婚当天的照片，有许多漂亮的花束和气球。小H真是很浪漫又文艺呐～
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/6.jpg
+              content_type: image/jpeg
+      - name: 熊先生和兔子小姐
+        description: 都在害羞的两个小朋友。他们是一对，想做出情侣的感觉，单独做完之后觉得用链子连起来更好。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/7.jpg
+              content_type: image/jpeg
+      - name: 人鱼
+        description: 小美人鱼是个悲伤的故事，以前也特别喜欢画人鱼，感觉像这些现实不知是否存在的事物很有吸引力。之前做过一个人鱼的胸像，大家也很喜欢，然后最近的这次就做了一系列各种人鱼的样子，人鱼因为没人见过嘛 所以想怎么做就怎么做，而且人鱼也不一定长发飘飘 她们也可以梳自己喜欢的发型～也可以俏皮可以很逗比很呆萌。顺便提一下那个波霸是一位波霸朋友提出制作的～
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/8.jpg
+              content_type: image/jpeg
+      - name: 红鼻子的麋鹿
+        description: 小鹿大概是圣诞节时期做完的也是火车上，好像是深圳到北京。记得关于红色鼻子也是有个故事：麋鹿鲁道夫因为长着发光的红鼻子而被同伴嘲笑排挤，圣诞老人觉得它刚好可以帮忙就带着它一起去派发礼物，于是我们熟知的麋鹿形象就都是红鼻子了。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/9.jpg
+              content_type: image/jpeg
+      - name: 三个好朋友
+        description: "HarryPotter是贯穿整个童年和青少年时期的奏鸣曲。从小学到大学，从小说到电影，时间跨度非常久，对自己的影响自然深刻。记得小时候把所有魔咒记在一个好看的笔记本上，时不时念一遍。大学的时候上木工课，给自己打磨了一根魔杖，虽然自己这样挺傻的，但对中土世界，精灵啊魔兽之类的东西很自然的着迷…有时候真觉得有魔法存在，不过现在能用手作表现这些东西，对我来说也是魔法的一种，已经很满足了: )"
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/10.jpg
+              content_type: image/jpeg
+      - name: 婚礼的娃娃
+        description: 尝试着做的婚礼主题人偶，衣服是买了blythe娃娃的婚纱裙回来然后自己修改的，那时候技术不够好，现在看起来有挺多不足的，毡化的也不是很好，有机会再制作这样的玩偶应该会有不一样的效果吧。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/11.jpg
+              content_type: image/jpeg
+      - name: 学会用柔软对抗坚硬
+        description: 尝试使用毛毡和陶瓷结合的作品，希望用羊毛制作的铆钉，表现出尖锐的感觉，但当触摸它的时候，发现它是柔软的质感，可能会产生奇特的差异感。也没有特别想表达的，只是跟着感觉做了这些气氛有点微妙的东西。大学专业是陶瓷设计，开始做毛毡也是用来调节心情了，因为我学习陶瓷的时候觉得挺辛苦，全部是体力活，做毛毡就觉得轻松愉快，这两件事情就是替换着来做的。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/12.jpg
+              content_type: image/jpeg
+      - name: 穿泳装的姑娘们
+        description: 夏天来之前总想着这个夏天要游泳要去海边，但都没有实现呢，做了几个海滩边的小人，给他们起了奇怪的名字，但愿他们玩水玩的开心啊～
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/13.jpg
+              content_type: image/jpeg
+      - name: 妈妈的钥匙挂件
+        description: 妈妈的车钥匙经常在包里面翻找半天找不见，于是给她做了这个钥匙挂件，和车子一样的颜色。找起钥匙来能方便一些，不过可惜的是没过几天就脱落了，以后制作挂件的时候还要仔细考虑牢固方面的问题。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/14.jpg
+              content_type: image/jpeg
+      - name: 接电话的女孩
+        description: 特别提一下制作头发的毛是比较特别的自然原毛，特点是粗糙卷曲，毛拿到手里后觉得很适合做爆炸头类似的发型，然后就有了她。各个地方的毛差异性还是很大的，比如说英国的羊毛比较卷曲偏自然，适合做一些贴近自然形态的作品比如植物动物一类的,日本的毛是进口到日本再加工制作的，做出来东西看起来比较干净很适合做那种萌萌的小物件，也是比较符合日本女生气质的，然后澳洲的有很多品种，我们平时用的是美丽奴羊的毛,可塑性比较高，中国国产毛的话，就比较粗糙颜色对我来说相对鲜艳了一些,有些特定作品也是适合的比如仿真的动物毛发，国产毛就可以,就是比较难戳。价格差异也是有的，但反正同样花了自己宝贵的时间，不如选择适合表现作品的材料来制作。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/15.jpg
+              content_type: image/jpeg
+      - name: 吃早餐哦
+        description: 有一天起得很早，于是脑子里出现了很多吃的东西，就戳在了帽子上，其中一个小碗是在朋友那里买到的，自己很喜欢的一个碗，我在里面装满了草莓，总之整个帽子都是爱吃的东西（当然白熊不能吃嘿嘿）。我还做过一顶马戏团主题的红色帽子，一样是从我最爱的北极熊开始做，另外还做过一个甜点的紫色帽子，北欧传统图案的白色帽子。在不同的心情下做的，最后的帽子也完全不一样，但是回头率都很高，哈哈！
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/16.jpg
+              content_type: image/jpeg
+      - name: 白熊和拉面
+        description: 两个最喜欢的东西结合起来，就是白熊在吃拉面的样子，顺便说，当时是晚上，刚刚看完《爱吃拉面的小泉同学》，整个人饿到不行。也推荐大家去看哦。关于白熊的话如果对我有点了解都知道我很喜欢啦。首先是我喜欢动物，大型动物，白色，温柔安静的动物，白熊全部符合这些特点，他们在白色冰原上的画面简直美呆了！如果我能通过做更多白熊相关的作品，让大家一起来爱他们，可能他们就能受到像熊猫一样的待遇，也不会整天担心冰川融化或者爱斯基摩人的捕杀了吧（有点天真的想法）。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/17.jpg
+              content_type: image/jpeg
+      - name: 圣诞节的小伙伴
+        description: 这组是上一个冬天制作的，临近圣诞节，所以配色配饰也是挺活泼的感觉，那阵子天很晴，每个下午我在充满阳光的客厅里琢磨制作它们，现在看起来确实也是暖洋洋的。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/18.jpg
+              content_type: image/jpeg
+      - name: 花
+        description: 这是送给Judy小姐的礼物。Judy是荷兰的陶艺家，当时带我们去乡下捡了一些植物，来开发思维创作陶艺作品。这个花的原型是乡野间拾到的不知名的植物，觉得有趣就复刻了毛茸茸的版本出来，我想它现在已经在荷兰了。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/19.jpg
+              content_type: image/jpeg
+      - name: 闺蜜
+        description: 原型是一对好闺蜜，最后做出来的效果也挺不错，好姐妹相亲相爱的感觉。右边女孩怀抱的迷你小熊真的非常非常的小，做的时候太艰难啦，好在做完还能看出是个小熊。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/20-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/20-2.jpg
+              content_type: image/jpeg
+      - name: 大兔子
+        description: 是给堂姐做的结婚礼物，她属兔也挺喜欢兔子的吧，我们家乡大多数是独生子女，很少兄弟姐妹，姐姐对我来说也是同辈里最亲近的吧，希望她把它放在房间里，看到就开开心心的。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/21.jpg
+              content_type: image/jpeg
+      - name: 好姐妹
+        description: 原型是一个人和她的妹妹，非常仔细的姑娘，发型到着装都一丝不苟地描述出来，最后做出来的效果也挺不错，好姐妹相亲相爱的感觉。
+        country: 中国
+        city: 上海
+        photos:
+          - data:
+              file: seeds/tangsandaoshanghai/2015-09-07-felt/22.jpg
+              content_type: image/jpeg

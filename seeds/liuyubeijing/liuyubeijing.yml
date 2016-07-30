@@ -1,0 +1,145 @@
+nickname: 刘宇老师
+description: 一点点雕刻，一步步明晰，一圈圈轮回着混沌初开的美丽弧线。
+avatar:
+  data:
+    file: seeds/liuyubeijing/liuyuicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 料器博物馆
+    description: 料器是一种以低温铅釉（近似于瓷器表面的釉）为原料，在火中融化，用剪子，镊子等工具进行捏，拽，点，划，剁，剪等操作,纯手工制作而成的中国传统手工艺品，流光溢彩、变幻瑰丽，体现出精致细腻的东方美。料器分为两类：玻璃料器和琉璃料器，我们“料器邢”工作室烧制以古琉璃为一派的琉璃料器。料器已有600多年历史，经历过宫廷的辉煌和民间的衰落，成为颇具影响力的手工艺，已进入国家级非物质文化遗产名录。2003年，国家提出了传统手工艺保护的实施办法并成立了百工坊，当时很多手工艺都已失传，甚至到了“去世一位艺人，绝一门手艺”的地步，经考察发现只有我的母亲邢兰香大师一个人还在从事料器工艺，于是“料器邢”在百工坊成立。我从小在北京料器厂长大，受母亲的影响，特别喜欢料器，后来自然就以料器为业。从艺二十多年来，我学习了几乎所有技术，练就了多元纯熟的料器技艺。
+    items:
+      - name: 富贵花开
+        description: 作品造型取自于牡丹，牡丹素有“花中之王”的美誉，也正因牡丹代表着“富贵”，所以我将这个作品取名“富贵花开”。从开始研究到做出这个作品，我断断续续花费了6年时间。料器从开始学艺到学成，再到可以自主研发作品，每一步都需要长时间的积淀。普通的料器花是初学者第一个做的东西，因为不管是叶子做大做小，还是花做大了小都没事，花无正型嘛！做的时候就拿镊子夹，夹着夹着就明白料器的料性了。把花练熟了以后就开始做动物，由简到繁，这个过程一般需要3-5年，每一阶段的学习，都会淘汰很多人。学完之后，料器就基本靠自我修炼了。成功就是99%的汗水加1%的天赋，这句话用在料器这个行业特别合适，这1%就体现在学徒们在将所有技法学成之后，对整个技艺的理解和掌控。这是一道坎，很多人因为突破不了这个1%而改行，能突破的人在以后做起活儿来就会更得心应手。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/1.jpg
+              content_type: image/jpeg
+      - name: 无价的“废料”
+        description: 现在的原料，和老原料区别极大。料器厂倒闭以后，我们把那里库存的一些原料拿出来了一些，那真是好料，烧起来非常舒服，我非常地珍惜，真是舍不得用啊。这个骆驼被摔坏了简直太可惜了，制作材料里加了金属银。熬料的时候是要加金属的，我们过去料器厂做的料有些是要加黄金的，那就真加黄金，比如说需要70克，三个人一把钥匙，打开金库用天平称70克黄金，然后在三个人监护下用王水化成金水，等料熬得差不多的时候把金水撒进去，一搅合颜色就出来了，颜色非常纯正漂亮。现在这样的材料，没有地方找了，这个骆驼是我多年的珍藏，虽然是个残缺的工艺品，但依然在我心里有着举足轻重的地位，实话说，无论别人开多高的价钱，我也一定不会卖的。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/2.jpg
+              content_type: image/jpeg
+      - name: 保平安
+        description: 取自观音手中的宝瓶造型，寓意“保平安”。这个作品用到了料器工艺中的一个绝活——接环儿，就是把几个环儿接在一起，特别的难做。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/3.jpg
+              content_type: image/jpeg
+      - name: 玉猪龙
+        description: 正面为猪，侧面为龙，这个造型源于出土在内蒙赤峰的一个古老的造型，是中国最早的龙的图腾。“玉猪龙”这个作品既是我的得意之作，又是我的爱物，一直挂在脖子上，十分珍视。由于每位料器手工艺人的创作理念和对艺术理解不同，做活儿时也有自己的技术特点，互相学是学不来的，大概在我做料器7，8年后，我开始尝试按照自己的想法去创作，母亲给我的一些建议我就不会听了，但事后我意识到，这样我多走了太多弯路，然而一旦我突破自己，完成一件作品，连我母亲也模仿不了我，最终形成了有我个人味道的创作风格。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/4-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/4-2.jpg
+              content_type: image/jpeg
+      - name: 鹬蚌相争
+        description: 这个作品取自“鹬蚌相争，渔翁得利”。我们在制作料器时会选取一些古代的好的典故，这也是作品造型的灵感来源之一。我先做出这个蚌，将做好的蚌放在架台上一直用火烤着，不让它冷却，再烧制一个鹬，等做完鹬后，趁热把它们融在一起，这样就完成了作品­­­­——“鹬蚌相争”。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/5.jpg
+              content_type: image/jpeg
+      - name: 美人如玉
+        description: 这个造型是我的母亲——邢大师近期在一本杂志上看到的，老人今年满70了，虽然不用每天从事料器灯工制作，但依然思维敏捷，在生活中保持着对料器工艺品造型开发的高度敏感，她看什么东西都想着能不能用料器给做出来。母亲要在杂志上看到好的造型，她会把图片剪下来，研究一下符不符合料器工艺。我母亲呢，就是这么执着，她那种工作劲头不输给任何人，我觉得坚持不懈的精神是很可贵的，她一直在生活中找灵感，力求做出更新颖的作品。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/6.jpg
+              content_type: image/jpeg
+      - name: 六六大顺
+        description: 此作品源于清朝的一个玉雕造型，传说是慈禧60大寿时南方上供的一个玉雕作品。鹿，谐音陆，这个作品是由两个鹿头组成的平安扣，所以叫陆陆大顺。今天，数字6的大写依旧是陆。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/7.jpg
+              content_type: image/jpeg
+      - name: 万代福禄
+        description: 清朝料器的代表作之一，创造了料器拍卖史的最高价格记录。这个作品一个大葫芦上还长着多个小葫芦，葫芦寓意“福禄”，“万代葫芦”取意“千秋万代，福禄绵长”，绿色的藤蔓既有融进去的，也有抹上去的，也是我的得意之作。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/8.jpg
+              content_type: image/jpeg
+      - name: 百财聚来
+        description: 我们做这个作品到今天为止至少是第三代了，连上面几片叶子都是经过仔细推敲的，我们三片、四片、六片都试验过，最后还是觉得三片叶子最好看。做这个白菜不是一个简单的制作工艺，我至少学了三年我才学会，我记得自己刚开始在学这个白菜的时候，第一片叶子做出来觉得非常好看，但在做第二片叶子的时候，因为第一片叶子躲不开火，就感觉它在变形，但是也能凑合烧出来，做到第三片叶子的时候，第一片叶子“吧唧”就掉下来了，也不知道是什么原因，心里非常难受，所以当时也是做了一大堆的废品。有一次我烧大白菜，当时犯懒了，穿着短裤烧，突然半截白菜叶掉下来，从桌子上滚到了小腿上。因为料融化温度是在700多度，当时一下就粘在腿上了，我拿镊子打下去的，直接就带了一块肉下去，伤口那块儿的肉烂了1个半月。我们这行，不能带眼镜干活，其实我是近视眼，但是不能带近视镜干活，因为那样会影响造型能力，我就感觉不对了，做出来的作品就别扭了，第二不能带手套，那样会阻碍塑形，所以说有时候，就会带来一些小麻烦。白菜的制作加入了以前料器从来没有的工艺:同心（料棍与作品在一体时的同心），这是一种手艺上的突破和改变。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/9.jpg
+              content_type: image/jpeg
+      - name: 福瓜鼻烟壶
+        description: 这是一件制作起来难度极大的作品，制作这个作品用到了吹活技艺——将料放到吹筒上吹出空心，然后再塑形。壶身和壶盖分别是一大一小两个福瓜。构成壶身的大福瓜是空心的，小福瓜是实心的。我在大福瓜外用绿色的料抹上了叶子和藤蔓，既丰富了色彩，又使整个作品看上去更加的生动、逼真。福瓜是一个常见的手工艺题材，福瓜瓜形圆润饱满，色泽喜庆，寓意“幸福安康，福寿绵长”。可以说这个作品将料器技艺和鼻烟壶造型完美地结合在了一起，展现了博大精深的中国传统手工艺所具有的包容性。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/10-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/10-2.jpg
+              content_type: image/jpeg
+      - name: 事事如意
+        description: 自古以来，以柿子为造型的工艺美术作品一直寓意“事事如意”。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/11.jpg
+              content_type: image/jpeg
+      - name: 平安十二生肖
+        description: 我把十二生肖做在平安扣上，寓意平安十二生肖。我们以前做的十二生肖挂坠大都为写实风格，比如说把四条腿的马挂在脖子上，这样就显得滑稽，也不好看。所以我现在开发了这种放在平安扣上的十二生肖，效果还是非常好的。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-4.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-5.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-6.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-7.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-8.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-9.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-10.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-11.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/liuyubeijing/2015-08-27-glassware/12-12.jpg
+              content_type: image/jpeg

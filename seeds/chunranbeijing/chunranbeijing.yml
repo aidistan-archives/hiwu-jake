@@ -1,0 +1,85 @@
+nickname: 春然
+description: 插画师/首饰设计师
+avatar:
+  data:
+    file: seeds/chunranbeijing/chunranicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 手作首饰博物馆
+    description: 首饰，本身就是一种符号，一种象征，一种表达，也可以说是一个独立的艺术作品。手作作为一种实现方式，是创作者的一种选择，是对生活节奏、生活方式的追求。手作是不着急的，包容的，可以非常精致，也可以非常质朴，但是是有人情味的。我从小热爱动手制作，在我眼里，用自己的双手打造出来的东西更有人情味。出于这种单纯的兴趣，我选择首饰制作作为自己的专业，尝试过各种材料，工艺和题材，缓缓探索这个世界里不尽的未知和可能。
+    items:
+      - name: 给妈妈的福寿手镯
+        description: 也许至今妈妈也不知道什么是首饰设计，有些事情懒于解释，觉得她没有必要知道完整的答案，因此每次都敷衍了事。一个春节总觉得要送给母亲点什么，于是单拿出来一个月的时间，用最原始的方式一锤子一锤子德敲出来一对好重的手镯。然后再用很笨拙的方式在镯子里面分别錾刻了两个字‘福’‘寿’。我想这是给母亲最好的答案，无论我学什么，我都愿意用最笨最耗费时间的方式表达给妈妈。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/1.jpg
+              content_type: image/jpeg
+      - name: 童年的积木
+        description: 当人们具备一定的创作能力时，最逃不掉的题目便是童年。为了怀念童年时期因为母亲觉得我玩物丧志而丢掉的一套积木，我拿着一大块绿色的廉价玉石，跑到北京的南五环外，找到一家玉石加工的作坊，借用人家的机器磨了两整天，完成了多年对童年玩具的情感寄托。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/2.jpg
+              content_type: image/jpeg
+      - name: 被女朋友带走的胸针
+        description: 大学二年级我请求同学帮助我用啤酒瓶底磨一颗祖母绿刻面的宝石，一个星期后拿到，发现除了里面有几颗气泡以外真的很像祖母绿，于是做了一对落在枝头的燕子，嘴里衔着这枚宝石，燕子是黄铜的，时间久了上面有了铜绿，那时候女朋友有一条白色的连衣裙，衬衫领，毕业展览的时候我让她把这枚胸针戴在领子中间，很好看。大四毕业，女友出国了，她带着这件有宝石的燕子，飞走了。
+        date_y: 2009
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/3.jpg
+              content_type: image/jpeg
+      - name: 四片叶子里的一片
+        description: 我曾经用一片银板敲出来过一个碗，碗的四面分别镂空四面各异的银杏叶子。时间久了我需要把碗融化掉做新的作品，但觉得可惜于是锯下来一片留着，虽然不知道干嘛，但是有些事情真的要留个念想才会让人知道它存在过。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/4.jpg
+              content_type: image/jpeg
+      - name: 羽毛
+        description: 2012年我在北京宋庄实习，下午6点下班，走出工作室两条街道，视线里忽然有一个东西从天上飘下来，潜意识伸手去接，但没想到接个正好，一看是一根手心一半长度的羽毛，目测应该是小云雀的羽毛，它安静的躺在我的手心里面，当时觉得很神奇，就用化学试剂树脂把这片羽毛封了起来，至今保留。
+        date_y: 2012
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/5.jpg
+              content_type: image/jpeg
+      - name: 食指上的戒指
+        description: 这是我左手食指上面的一枚戒指，戴在手上已经快两年了，它替代它掩盖的那一块皮肤接触过太多的物体，柔软的，坚硬的。柔软的擦拭上面的污垢，坚硬的则留下擦不掉的痕迹。随着时间的推移它的外边已经完全不像图像里光滑，斑驳凹凸，已经全然不是正圆的形状。这件首饰真的像是我的一块皮肤，随着时间变化而变化，而这也成为这件首饰存在的另一个意义——陪伴。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/6.jpg
+              content_type: image/jpeg
+      - name: 燕子戒指
+        description: 有些动物或植物，好像与生俱来带有某种情感，比如燕子。寒来暑往，北方人总是期待燕子传达节气的开始和结束。也许是因为一载的往来，燕子也和故乡联系在一起，所以我想做几只燕子，不在房檐，不在天上，而是在我的手上。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/7.jpg
+              content_type: image/jpeg
+      - name: 一枚本命年胸针
+        description: 90年出生，学习金属工艺6年，这是在马年给自己最正式的一个礼物，只是为了祝福自己—顺利。
+        date_y: 2014
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/8.jpg
+              content_type: image/jpeg
+      - name: 没有麦芒的麦子
+        description: 我学会了一种手艺活，编制银丝，左右反复的这琢磨，觉得编出来的机理很像排列的麦子，如果银丝的末端留下来就会很巧妙的成为麦芒，于是开始执行我的想法，麦子编出来了，但是麦芒终究是麦芒，即使是银丝做的也会扎到佩戴它的人，为了它能够为人喜欢，麦芒变成了一排银球，只为好看。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/chunranbeijing/2015-08-10-jewelry/9.jpg
+              content_type: image/jpeg

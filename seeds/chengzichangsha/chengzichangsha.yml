@@ -1,0 +1,346 @@
+nickname: 橙子
+description: ME
+avatar:
+  data:
+    file: seeds/chengzichangsha/chengziicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 色彩拼贴博物馆
+    description: 我觉得情感是世界上最美妙的东西，亲情友情，爱情也是如此。两个陌生的人走在一起，成为更丰富的组合，在接触和融合的过程中，彼此用新的视角更深入和新鲜的体会在一起的喜怒哀乐，生活也会伴随出不一样的画面。三年前，拼贴画成了我表达自己情感的方式，不同的图案和元素，把他们拼贴在一起，组成新的图案，记录下当时的情感，用心感受，细心制作。
+    items:
+      - name: 为你疯狂
+        description: 美国粘贴画里的男女侧面，一个男孩和女孩隔开距离，女孩脸上的泪。画里藏着“will understand”。当时我希望所有无法通过语言表达的感情，都能被理解。左边的几何形旁边是在向上攀爬的脚，也是我心里对这份感情的吃力感。但仍然不想放弃。不同色块的尖锐组合也是我心里想要坚持的力量。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/1.jpg
+              content_type: image/jpeg
+      - name: 让我打开你的心
+        description: 上海安福路上配钥匙的爷爷做的广告牌是他拍下的，我们都觉得民间很多手写广告牌很好看。宇航员和女孩的亲吻本来是一张广告海报，我把他们的脸剪开来拼贴，想要表达虽然我们之间有着隔阂和距离，但仍希望自己的真心是一把钥匙，能够打开他的心房。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/2.jpg
+              content_type: image/jpeg
+      - name: Kiss me
+        description: 这一张里，我想用亲吻表达所有情感。树代表着我心中的他，粉色的果冻镜盒是我觉得轻松又可爱的小物品，恐龙与女孩亲吻的照片，小鹿与女孩亲吻的照片。充满的爱心，星星。都是我心里所期盼的亲昵。在爱人面前我会像小动物一样忍不住一直想亲吻和拥抱对方，身体和皮肤的体温，情感的挥发，都温暖至极，我一直相信亲吻和拥抱可以直接化解所有矛盾与阴暗。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/3.jpg
+              content_type: image/jpeg
+      - name: Travel with me
+        description: 午夜路边喝酒的女孩代表我的无助，一张模糊的男孩脸颊是他的画，代表着他。开阔的海洋与生长正欢的仙人掌，家人出游的照片，是我对于和他感情状况的向往，希望能够像植物一样充满生命力，其乐融融。草叶上绿色的爱心，颜料与笔头的形状，是我填充出的小细节，每一个形状都简单直接的表达着我心里对他的爱，以及想要修复这段感情的希望。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/4.jpg
+              content_type: image/jpeg
+      - name: 小可爱与拳击手
+        description: 他很喜欢看碟片，我也是，我收集了很多碟壳包装用来画画。《小可爱与拳击手》这部片说的是年龄相差悬殊的两个艺术家的爱情故事，女孩跟随拳击手来到美国，一辈子都贫苦拮据，相处之中也有很多波澜与反复，但他们坚持了下来，而那些也就是爱情美好又真实的样子。经历的相似，与感受的相似，让我更加被这部片子打动。所以用水笔和荧光笔简单的把他们的形象画在了碟壳上。小可爱与拳击手，同样代表着我和他。第一次看这部电影时我哭了，被这段感情所打动，再一次看时，我叫上了他，那时两人之间已经冷战到关系快破裂，我们都收敛着感情。直到日后，他才告诉我：“那天，其实我很感谢你带我一起看小可爱与拳击手。”在看的时候，与画这张碟壳的时候，我的心里始终都只有一句话“我愿意做你的小可爱，一直陪伴与照顾你。”而我也始终记得好友说的一句话“相互喜欢的人就应该免去一切杂念勇敢在一起。在一起爱着的人应该手拉手给彼此力量一直走下去。不制约不退缩。”希望自己的坚定与坚持能打破他的犹豫，拉着他的手一起勇敢继续。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/5-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/5-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/5-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/5-4.jpg
+              content_type: image/jpeg
+      - name: Learn to laugh
+        description: 他很严肃，也不太愿意交流，很多东西都放在心自行消化，我太希望他能够多笑笑，让生活有更多的轻松。他用手机软件画出了几个面容愁苦的老头，我把他们打印出来填满了爱心，其中也重新描绘了一些形状，比如右边绿色头发的老头额头上有一个胖胖的卷发胖子，而左边黄色头发的老头旁边则围绕着两名亲吻他的女郎。笑脸贴纸是花朵，小太阳。笑脸手表和女孩衣服上的“learn to laugh”都是希望能逗他开心的小细节。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/6.jpg
+              content_type: image/jpeg
+      - name: U can do it
+        description: 这张上面有宜家的窗帘布料，餐巾纸，废弃的蜡烛包装与各种各样的笑脸贴纸，日本浮世绘卡纸，儿童玩具。白雪公主吃了毒蘑菇后昏了过去，而王子正将她吻醒。修女鼓励着面露羞涩的小男孩，“你可以做到。”是写给他的话，想告诉他他能克服内向与恐惧，他也常常会对自己的事业有所犹豫，我同样想传达给他，他绝对有能力，在事业上突破各种不可能，只要有信念！
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/7-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/7-2.jpg
+              content_type: image/jpeg
+      - name: 织毛衣的哭泣Tutu
+        description: 这一张我没有用任何颜色，而是用黑白和写满的字母来说了一个故事。冷酷的男孩charlie，他的身边有很多女孩，左边的是sally和betty，男孩的眼里没有tutu，偶尔和她打照面，然后又游离去了其他人的身边，或是以冷淡的反应回应着tutu的爱，sally 和betty只是charlie抽着烟的玩伴，而tutu一直默默关心着charlie，把对他的爱织进了毛衣里，但却忍不住伤心的哭泣。左下角我写了一句话“流着泪，却依然织着一件爱的毛衣。”也是我想告诉他的，无论再伤心，我都想陪着他。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/8.jpg
+              content_type: image/jpeg
+      - name: 翻山越岭的骑象女孩
+        description: 穿越满是荆棘与刺的高山石林，女孩终于来到了过往的面前，华丽的小人，女孩，植物都是他的简笔画。充斥的网格是处处存在的障碍，但我不会放弃。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/9.jpg
+              content_type: image/jpeg
+      - name: 手心
+        description: 两只手都是他的小画。所有的语言都在这两只即将触碰和握紧的手里，闪闪发光。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/10.jpg
+              content_type: image/jpeg
+      - name: 蓝衣India
+        description: 穿蓝衣服的女孩是他非常喜欢的，第一次去他的工作室我就被墙上的这个女孩打动，而巧合的是我也无意和这个女孩成为了网友。我一直把这个叫做india的女孩也当成我们之间一个神奇的纽带。左上角是他拍下的毛衣配色，左下角是这个蓝衣女孩instagram里一张小画，跷跷板上的男孩女孩在互相指责，感情里充满了不解的问号，但是真的有谁对谁错吗？右边的雨伞与雨滴代表着我心里对于双方误解的难受。但是我也写了一句话“but I love you”，包容与陪伴，一切只因我爱你。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/11.jpg
+              content_type: image/jpeg
+      - name: 荷里活巨星
+        description: 他是个害羞的人，但却幽默又可爱，拿花盆害羞的挡住脸的人是他，荷里活巨星是他用手机软件写下的几个字，意思是好莱坞巨星，光身子的米老鼠是他品牌的广告招贴画，而右下角穿超人装的女孩是我们都喜欢的aa广告女郎。他的羞涩，幽默，一切品质都是我心里闪闪发光的星星，他也是我的好莱坞巨星，我希望自己是个超能力女郎，陪伴着他，给他更多的力量。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/12.jpg
+              content_type: image/jpeg
+      - name: Love is brave and cute
+        description: 羊是我和他的属相，左边男孩气的调皮女孩是他喜欢的类型，欢快的小羊在花丛和仙人掌林里奔跑，被怪物簇拥的可爱老头代表着他，绿色的爱心是初在一起时他画给我的小画。这幅画很费心，因为我用彩笔，钢笔仔细描着每一根线条每一个细节，植物的形状，花朵的颜色，身后的房屋与云朵，老头的鞋子….繁华锦簇和长势蓬勃的植物都是满满的生命力，细节处的“love”和“brave”。连起来的一句话是“brave is cute”， 都是希望他能用更多的勇气去面对爱。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/13-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/13-2.jpg
+              content_type: image/jpeg
+      - name: 棕色花丛
+        description: 这一张，我想画出不一样的花，与蝴蝶飞舞的场景。于是用了他衣服上的布料做为颜色的过渡。橡皮泥捏的玫瑰，绢布玫瑰，与贴纸玫瑰组合成了一片玫瑰花丛，便利贴被我剪成了片形和柱形叶子的形状，其中还夹杂着亮片缎带，蝴蝶的剪纸，和平时我用做道具的绢布蝴蝶。叶片上小小的英文字母是他服装品牌的名字。
+        country: 中国
+        city: 上海
+        date_y: 2013
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/14-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/14-2.jpg
+              content_type: image/jpeg
+      - name: 山边海上
+        description: 这张是我用不同材料复原了他产品手册上的一张宣传照。两侧的颜料代表着山与水，是我用手指和纸片涂抹上去的。我收集了很多他衣服品牌的吊牌，用来做首饰，画画…画里用了他衣服吊牌上的布料，而本来使用做窗帘的串珠被我拼接成了圆形的镜子，亮片贴纸则拼成了一朵小花，在我心里这些斑斓的颜色都是心里对于感情的美丽期待。
+        country: 中国
+        city: 上海
+        date_y: 2013
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/15-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/15-2.jpg
+              content_type: image/jpeg
+      - name: 柑橘漩涡
+        description: 这张用了宜家的吸管，每一个圆圈即是游泳圈又是甜甜的软糖。画顶的水涡是我用不同颜料渐变组合起来的。中间绿衣服女孩穿的橙色圆形裙子和左上角长辫子女孩身下的一块蓝色，都是他曾经做的裙子款式。吸管是爱的海洋中的贝壳与海螺，蝴蝶飞舞在其中，画的时候甚至想像闻到了清甜的柑橘味，都是甜蜜。
+        country: 中国
+        city: 上海
+        date_y: 2013
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/16-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/16-2.jpg
+              content_type: image/jpeg
+      - name: Have Fun
+        description: 女孩是他产品手册的宣传照，小的圆弧碎片里是代表着他的树和他的品牌名字，右上角夫妻的手势里代表着亲昵与温暖，指尖的动作是恋人间的触碰，这些包含的都是我对和他之间感情的表达。我还是用进了很多笑脸的贴纸，仍然是希望能给容易紧张的他注入更多的轻松与欢乐。
+        country: 中国
+        city: 上海
+        date_y: 2013
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/17-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/17-2.jpg
+              content_type: image/jpeg
+      - name: 风中少女
+        description: 这张仍然是用画复原他lookbook里的照片，圆形的颜料都是我用手涂抹上去的，两颗荧亮的石头是我在花鸟市场买到的雨石。剔透的水蓝是这张画的色调，法国宫廷男孩的雕像是他发给我的，旁边的女孩则是instagram上的照片，他们靠在近水的石头上，男孩轻柔诉说逗笑了女孩。可爱又温暖。女孩在风里靠海行走，是在走向爱。
+        country: 中国
+        city: 上海
+        date_y: 2013
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/18-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/18-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/18-3.jpg
+              content_type: image/jpeg
+      - name: Hello，stranger
+        description: 左下角肉粉色的粘土玩具叫做“noass”，是他做的。我听着他奇怪又童趣的小点子，看着他买好粘土和塑料植物还有不同的小动物，一点点把不同部分组合起来捏出这个多脚玩具，再给它上了非常鲜嫩的肉粉色，每次看他做设计和说点子时天马行空的认真劲儿就觉得特别可爱，右边则是我用拼贴组合出的no ass，“no ass has a warm heart”，以及no as背上的“sohot”也是我调皮的小点子，肉粉色给人的感觉健康而热辣，而我也觉得，虽然看上去奇怪可能让人害怕，但严肃背后却有着非常温暖而动人的心，这是他打动我的原因，也是我心目中的他，温情，好玩，怪趣，童真，也调皮。一直记得偷心里的那句台词“hello，stranger”，他对我来说一直陌生又熟悉，stranger里带着探索的亲密，也是种帮助我想更加深入的走进他的心。这张里我用手涂抹了肉粉色丙烯颜料，用了正红色碳粉棒和蜡笔，爱心处的红色指甲油，旁边的绿色水彩笔和荧光笔组合以及一些土黄色的过渡，也是不按理出牌组合画材的开心创意。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/20.jpg
+              content_type: image/jpeg
+      - name: look at u
+        description: 我们有一个共同爱好，就是欣赏漂亮女孩，最初认识时我们就会互发好看的女孩照片给对方，我们爱看的女孩类型非常相同，左上角的这张是他在初识我时就提出和我长得很像的女孩，中间和右上也是我从他喜欢看的女孩照片里挑选出我所喜欢的，而左下角的爆炸头男孩则代表着他。我觉得人在爱里眼神也会随之变化，有充满爱意温柔的凝视，赌气时生气却又不忍怪责的注视，小动物一般无助又爱怜的垂视，这三张女孩的照片则分别代表着这些目光，背景线条里是我最爱吃的橙子，我层叠粘贴出彩色爱心，这张不想用太重的颜料，所以全部用彩色荧光笔和水笔完成，画中下角的眼神轮廓则是用轻柔的彩铅描绘的，男孩肩上的手代表着我的手，右下角是他的画，看不清的轮廓里也代表着他。靠近感受彼此身上的温度并且注视着对方，是爱情中太美妙的部分。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/21.jpg
+              content_type: image/jpeg
+      - name: 甜夢
+        description: 这一张我想呈现出一片少女的粉嫩，睡着的女孩是看到过的一张很喜欢的照片，这张沉睡的雕像让我觉得静谧又安详，想着心爱的人入梦是我觉得非常美好的事情。火龙果的口感清甜又有点涩口，是我心中和他之间感情的味道，不浓烈但是一丝丝挂在心里，右下角是他的裤脚和鞋子，他喜欢收集各种不同的鞋子，这双婴儿蓝的布鞋也是我心中代表他的颜色。女孩和雕像都在沉沉睡去，我用粉色和银色交织画出了流线，代表着浩瀚星河，女孩的梦里仍然是他身上的颜色和形状，以及幻想着和他一起吃水果，开心的交谈。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/22-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/22-2.jpg
+              content_type: image/jpeg
+      - name: 水晶球中的树
+        description: 左上角两只在暮光里吃草的小马是他发给我的，水晶球里代表着未知的感情走向，右下角的树林是他的小画，我写下了“my trees，my eyes。”想表达的是通过他的眼睛，想更多的去了解他的视角和心中所想。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/23.jpg
+              content_type: image/jpeg
+      - name: 欢乐葡萄
+        description: 这张里我用了笑脸的橡皮，三角形积木，我觉得很多药盒的包装纸特别可爱，于是收集了很多，橡皮下的葡萄贴纸是药盒上的花纹，而右下角是药盒上的标识，图中的小花是我裁剪出来的，图案是他用过的印花布料，笑脸橡皮脸下奔跑的女孩是复原了他的一张lookbook照片。葡萄也是我们爱吃的水果，代表着丰盛，小马和呼啦圈小孩则是调皮，开心和活力，爆炸火焰形状的价格标识则是代表着希望他赚钱发大财啦，哈哈。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/24.jpg
+              content_type: image/jpeg
+      - name: Smile Party
+        description: 这张里，我用了假的玩具眼珠安在娃娃的眼睛上，女孩正过着一场生日party，穿着他设计的衣服的女孩在空中玩闹着，左下角是海绵质的蛋糕贴纸，各种颜色的笑脸漂浮在空中，打开心门的钥匙又一次出现了，这是我所期望的生日礼物：能够走进他的内心。我用闪光贴纸，剪纸，以及硬卡纸剪出了不一样的色块置于其中。希望营造出调皮又轻松的可爱气氛。传达进他心里。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/25.jpg
+              content_type: image/jpeg
+      - name: 劈劈情操
+        description: 他总是会很可爱的关心到一些流行俗语后的社会现象，劈情操是某段时间上海很流行的词汇，代表大家一起喝咖啡喝酒聊天等社交活动。他的可爱还在于他常常用手机软件给一些照片添加新的成分，幽默又逗趣，左下角山头的男女之间被他用荧光线做了链接，而劈情操的几个字也是用软件写的，看上去电子感十足又绚丽而接地气，我在看他画的小画时发现这个双头人的轮廓组合是一颗爱心，于是也裁剪下来贴在山中并把他填补的荧光线再拉长组合成双重爱心，背景的线条同样是同各色画笔描出来的，想用竖直的线形和爱心的圆弧搭配在一起，表达的是我们之间充满爱心的链接，和互懂对方调皮怪异所在的互通。人生难得一知己，无论作为恋人还是 普通朋友，这都是我感到幸运的珍惜点。
+        country: 中国
+        city: 上海
+        date_y: 2012
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/26.jpg
+              content_type: image/jpeg
+      - name: 运动彩虹馆
+        description: 这张里有代表不同锻炼姿势的人体小图形，是我在翻看初中体育书时发现的小图形，当时就觉得非常简单有趣，于是我用画笔把它们用不同颜色复原了下来。在这幅画里我用了假珍珠和丝带来组合，倒立的哺乳的妈妈和小婴儿是一张可爱的拼贴，我很调皮的放入了一个真正的婴儿奶嘴。想提醒他能够开心的多多参与各种运动保持健康，像小马驹一样吸取有趣的乳汁更加茁壮。
+        country: 中国
+        city: 上海
+        date_y: 2013
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/27-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/27-2.jpg
+              content_type: image/jpeg
+      - name: 仙鹤牡丹山
+        description: 这张里想用不同的材料来画出山水，我们都热爱自然环境中开阔又摄人的美。而我们也都对市面上常见的材料怎样混用而感到兴奋好奇。所以我专门去批发市场上买了立体山水贴纸，然后又去买了日本浮世绘花草的艺术纸，把它们组合在一起，想用不同的材料来画出山水。牡丹，高山，显赫与繁花似锦都是一种吉祥的预示，祝福他的事业能越来越顺畅。也希望我们能一同走更多的崇山峻岭花间树丛去体会自然之美。
+        country: 中国
+        city: 上海
+        date_y: 2013
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/28-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/28-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/28-3.jpg
+              content_type: image/jpeg
+      - name: 与植物对话
+        description: 这是还原他lookbook里的一张宣传照，他的工作室入口有几大盆植物，在还没在一起时，我们每天聊微信，我特别喜欢植物，也告诉他我相信身边放绿色植物会让自己心情更舒畅，有一个夏天，他在和我聊完后买了新的竹子栽种于工作室门口，又有一个夏天，他拍下了工作室院子里的盆栽送给我当礼物，植物对我们来说都有着不同的意义。所以我用不同的水性笔非常细致的描出了衣物与植物颜色的细节，也用透明的小粒串珠做了粘贴，置于其中。想让颜色之中点缀点点莹亮，这对我来说也代表着一种纯真。
+        country: 中国
+        city: 上海
+        date_y: 2013
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/29.jpg
+              content_type: image/jpeg
+      - name: 假装饰品
+        description: 彩色小方格是我捡的废纸板，画里用了日本艺术纸来拼贴并加入了浮世绘的画法，彩色小格可以当首饰的挂件架，画中圆形的紫色小板看着是一轮月亮实际却可以做镜子。
+        country: 中国
+        city: 上海
+        date_y: 2014
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/31.jpg
+              content_type: image/jpeg
+      - name: 假装饰品
+        description: 我用了不同的纸材来打印拼贴材料，中间的年画娃娃是用硫磺纸打印的，看上去只是花形的摆设，实际上是一个针盒，可以随时拿取大头针。
+        country: 中国
+        city: 上海
+        date_y: 2014
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/32-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/32-2.jpg
+              content_type: image/jpeg
+      - name: 假家具
+        description: 这个架子叫做“家”，架子分三个区域，每个区域的颜色都是我询问过父母后，填涂组合了我们一家人各自最爱的颜色，和形状。这个架子不仅可以做置物的衣架，书架，同时还还可以做爬藤植物的菜架，而长形的管子则可以用来种植青苔，长管下可养一盆小植物，给青苔浇水后，水也会自动流到植物盆里，不会浪费。同时，它也代表着我们一家人之间互相关爱与滋养的关系。
+        country: 中国
+        city: 上海
+        date_y: 2014
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/33.jpg
+              content_type: image/jpeg
+      - name: 树卡
+        description: 我喜欢看树，不同的树在一年四季里都有太多丰富的颜色，不同树干和树叶的颜色，都多到无法预计。现代生活的节奏过快，我留意到连孩子们都丧失了很多和自然的链接，取而代之的是便捷的电子产品带来的娱乐。我觉得这太可惜了，于是整合了之前拍过的所有树干颜色，以及在网上和请朋友帮我搜集的各个地方的树。最初有很多问题，包括颜色的分类，树卡的排列设置和形状。最后做出了一个最常见的树干颜色的取样整合。正面是树形（更容易提起孩子的好奇心），插着不同颜色的色卡，反面是留出来的选卡区域，孩子们可以在观察树干颜色时选出相近的几个颜色放上去，同时配套的小放大镜是帮助孩子们观察树干图案和纹路的。我希望这个小玩具能够帮助孩子们重拾和培养起更多与自然的亲密。
+        country: 中国
+        city: 上海
+        date_y: 2014
+        photos:
+          - data:
+              file: seeds/chengzichangsha/2016-01-24-collage/34.jpg
+              content_type: image/jpeg

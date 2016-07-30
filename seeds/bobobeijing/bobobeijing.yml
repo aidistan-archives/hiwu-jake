@@ -1,0 +1,126 @@
+nickname: 波波
+description: 交互设计师/实寄封控/Instagram：Jazzbook
+avatar:
+  data:
+    file: seeds/bobobeijing/boboicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 邮品味博物馆
+    description: 长期以来，人们通过信件往来，互通信息，互致问候。有的信件甚至成为历史的见证。信封的印制也许是批量的，但每一封信件文字、邮戳，图案以及往来地却很少重复，这一点很特别也很有趣，留给人们足够大的想象空间。我喜欢邮品，已经收集了一千多封实寄封（信封、邮资封、首日实寄封和实寄明信片），这些来自世界各地的不同信封是他最广阔的天地，通过追忆往昔这些鲜活有质感和情感的纸品，阅读世间百态，回归内心最本质的东西。
+    items:
+      - name: 古典实寄封
+        description: 背面完整清晰蜜蜂火漆实寄封印这是我收到的第一封十九世纪火漆封，虽然是普票普封但书写和背面保存完整清晰的蜜蜂火漆印还是很难得。
+        date_y: 1878
+        country: 奥匈帝国
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/1-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/1-2.jpg
+              content_type: image/jpeg
+      - name: 古典实寄邮资封
+        description: 民维多利亚女王凹凸压印头像，完全被手写体梵文和Calcutta几个大红字彻底打败，毅然收下。
+        date_y: 1886
+        country: 英属印度
+        city: 加尔各达
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/2.jpg
+              content_type: image/jpeg
+      - name: 哈尔滨至纽约实寄封
+        description: 民国帆船10分票，一件销检查戳。最近比较关注国内封，妈出生在哈尔滨，看到这封时会有一些情节，又找了很多类似的，但只有这封的俄文字体和图案最细致特别，尽管有些残破也无法消磨它的美。
+        date_y: 1918
+        country: 中国
+        city: 哈尔滨
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/3.jpg
+              content_type: image/jpeg
+      - name: 大马士革至维也纳实寄封
+        description: 双头鹰封贴，整理书柜时看到这封两年前收的大马士革封，当时叙利亚还处在一片太平的时期，和曾经的伊拉克一样是中东比较繁荣的国家，想起那时收它只是因为感觉很特别，拿回来也没有放在心上，很久没有再看过，如今不禁感慨曾经繁荣的叙利亚也已是满目疮痍不寒而栗，也再没有看到类似的信封。
+        date_y: 1936
+        country: 叙利亚
+        city: 大马士革
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/4.jpg
+              content_type: image/jpeg
+      - name: 朱诺－白马首航实寄封
+        description: 贴夏威夷票的不多见，红－玫瑰红－紫的色彩搭配也很好看。
+        date_y: 1938
+        country: 美国
+        city: 朱诺
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/5.jpg
+              content_type: image/jpeg
+      - name: 旧金山恶魔岛鹈鹕副戳普票实寄封
+        description: 淘到一封恶魔岛的信觉得很少见，没想到原信还在，还是一名囚犯写给爱人的，而且文笔和书写都很不错，让人浮想连篇，难以忘怀，至今都觉得不可思议。这是一封未收到的信，开头醒目的Darling和结尾Loving You，便看出是写给他的爱人...（阅读信件内容请关注公共号 jazzbook )
+        date_y: 1941
+        country: 美国
+        city: 旧金山
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/6-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/6-2.jpg
+              content_type: image/jpeg
+      - name: 檀香山至上海首航封
+        description: 这是自己受过最不惜血本的一封，其实知道自己已经超出正常价值的很多倍仍然毅然决定拿下，因为有时候真正确定一件事情的时候却没有付诸实施，今后可能再也遇不到或需要更大的价值付出。并且对这封的喜爱也远远不是简单的价格可以衡量。即便在社会的价值中不会再高，但在我心中就是独一无二的存在。
+        date_y: 1947
+        country: 美国
+        city: 檀香山
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/7.jpg
+              content_type: image/jpeg
+      - name: 民国大连明信片封套
+        description: 一直喜欢研究和关注字体设计，也从西方的范围慢慢看了回来，意识到国内的汉字字体有非常大的研究价值，无论民国时期还是解放以后的每个年代都不断的孕育着有时代气息的文字字体。看到这枚封套时也被俏皮而活跃的画面深深吸引，尽管这封处于满洲时期的大连，多少有受到一些日本意识形态的影响但仍然保有旧时期中国大陆沿 海地区的风情。
+        country: 中国
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/8.jpg
+              content_type: image/jpeg
+      - name: 格陵兰到纽约航空首航封
+        description: 收集了许多SAS的首航封，有时候一个版会收很多种，由于是实寄所以邮票和邮戳都不一样，收信人也不一样，能够同时带有哥本哈根戳和格陵兰北极熊票的SAS实属少见，当时看到就惊讶不已，过了很久仍然爱不释手。
+        date_y: 1954
+        country: 丹麦
+        city: 格陵兰
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/9.jpg
+              content_type: image/jpeg
+      - name: 建筑师赖特纪念实寄封
+        description: 布法罗戳，赖特&古根海姆博物馆票。高中时候看到建筑的书籍就对赖特非常崇拜了喜爱，尽管大学学的室内设计没有学习正统建筑但很多学术方面的知识仍然很关注并受其影响很深。也因为如此看到这一封 时的激动心情不言而喻，尽管只是一封普封但在我心里仍然有很高的精神价值。
+        date_y: 1968
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/10.jpg
+              content_type: image/jpeg
+      - name: 米果鲸鱼封
+        description: 蓝色好看，鲸鱼是我的吉祥物！邮戳盖的也很好看。
+        date_y: 1970
+        country: 美国
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/11.jpg
+              content_type: image/jpeg
+      - name: 休斯顿骚年儿童画 手绘封
+        description: 看到这封小鸭子的手绘很是欣喜，感觉像是看到我自己小时候画的儿童画，尽管剪贴的背景纸张和笔触都很随意，但视觉感受非常深刻，给人真情流露的感觉，收信的人 一定会很难忘。
+        date_y: 1984
+        country: 美国
+        city: 休斯顿
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/12.jpg
+              content_type: image/jpeg
+      - name: 加国鲸鱼封
+        description: 几年前就开始很喜欢鲸鱼，也画了它作为自己的吉祥物和品牌logo，虽然和我这个内陆人的背景文化没有任何关系，但鲸鱼沉稳而自由的气质却久久的吸引我，也给同样喜欢它的朋友送去了一些。看到这封时也非常感慨，因为华丽的鲸鱼封虽然不少，但像这封一样简洁大气，色彩统一并彰显鲸鱼修长浪漫气质的邮票纪念封还是不多，对 设计师也是倍加欣赏。
+        date_y: 2000
+        country: 加拿大
+        photos:
+          - data:
+              file: seeds/bobobeijing/2015-09-01-letter/13.jpg
+              content_type: image/jpeg

@@ -1,0 +1,64 @@
+nickname: 鲁汉
+description: 寻根的出租车司机。
+avatar:
+  data:
+    file: seeds/luhanbeijing/luhanicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 根艺博物馆
+    description: 根艺取材于树木的根茎，经由艺术家的独特视角和灵感构思去掉繁枝末节，去伪存真，化腐朽为神奇。由于自然的特性，根艺有着独一无二，不可复制的特殊性。相比于木雕而言，根艺或许更有探索性和挑战的趣味。它不仅需要一手好活儿，更重要的是需要造物者的好眼力和想象思维。根艺创作强调尊重根材本身，讲究自然，不能有过多雕刻痕迹，不求过真，但求象形与神似，一件成功的作品需要花费匠人很多时间和心血，加之根材的取材不易更使得作品显得弥足珍贵。我是一名出租车司机，日出日落，载着各色客人游走于京城。我从30年前开始喜欢根艺，现在家里，摆放着各种形态不一的根雕作品，每一件都是我用心雕琢而成的，十分精致，每一件都有名称和故事。
+    items:
+      - name: 象牛
+        description: 从前面看，是一只拓荒牛，从侧面看，是一只大象，背部的弧线，以及疙疙瘩瘩的部分，则是牛的肌肉，我给它起了个名字：象牛。起初我是想做成一个拓荒牛的牛头，但为了尊重树根，尽量保证它最原始最自然的形态，同时留给观赏者最大的想象空间，我没有把鼻子的部分去掉。这个牛，给人一种很有力的感觉，正如拓荒牛一样有闯劲，也是想告诉人们，要有一种向前的精神。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/1.jpg
+              content_type: image/jpeg
+      - name: 雀之灵
+        description: 这件作品有“天成派”的风格，整块木头的形态都是自然形成的，基本上我没有大的修琢过，每一个弯曲的弧度，线条都是恰到好处的。加工不可能达到这种感觉。这块树根应该在底下埋藏有五，六十年的时间，碰到这类自然天成的根料是非常难得的。木头中间中空，木纹非常自然，在此基础上进行简单雕琢，形成完美形态，赋予它新的生命力。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/2.jpg
+              content_type: image/jpeg
+      - name: 精卫填海
+        description: 这件作品可能算不上完美，后面缺少了一些枝杈来表达羽毛的部分。但很好的是可以看到前面的部分，其中有一块石头和木头镶嵌，石头和木头长到一起，形成自然的状态，这种结合是根雕的一宝。虽然这只“精卫”没有把石头衔在嘴里，但是这样完美的形态结合也算是表达了“精卫填海”故事的寓意。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/3.jpg
+              content_type: image/jpeg
+      - name: 太平盛世
+        description: 做这件作品的时候我特别注意细节部分，有时候小的细节可以给作品带来更多的美和生动感。就像这个“打鼓的人”，他的胸前有一处很细的连接点，这一块一定要保留，它就像拴鼓的背带，背在身上一样。如果没有这个细节，击鼓的的动作看起来可能就不那么有动态之感，会显得呆板。手臂的修琢也需要细致，一上一下，相互呼应。鼓的大小和厚度可能都不是影响整个作品的关键，所以细节部分的取舍是需要思考的。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/4.jpg
+              content_type: image/jpeg
+      - name: 喜上眉梢
+        description: 这是我很喜欢的一件作品，有活灵活现的感觉。有个朋友说看到它，就感觉这只喜鹊在“喳喳”的叫。颜色结合得也恰到好处。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/5.jpg
+              content_type: image/jpeg
+      - name: 后羿射日
+        description: 这件作品取材于一个枯死的月季花根。后羿的肌肉感正好表现出来，我没有特意给“后羿”手里加上一个弓，是因为神似比形似更重要，有的时候根艺没必要去追求完美的、一致的形态，过度的追求形似反而可能产生相反的效果。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/6.jpg
+              content_type: image/jpeg
+      - name: 石
+        description: 这块木头该朽的地方已经朽掉，剩下了精华的部分，木头密度很大。可以说是一块浪木，石头和水流的冲击留下很明显的岁月的痕迹，它的形态就像一块太湖石，有太湖石“漏”“透”的感觉。木头非常硬，之间的镂空部分都是自然形成。我把边角一些不需要体现的部分去掉成就了这件作品。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/7.jpg
+              content_type: image/jpeg
+      - name: 艺：力与美
+        description: 这件作品没有太多枝杈与根须，却给人以力量与平衡美，倒立的人努力平衡自己那早已腐朽的身体，似乎他在用倒立的方式来感受这个倒立着的世界。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/8.jpg
+              content_type: image/jpeg
+      - name: 梅
+        description: 这件作品虽然不能完全算是根艺作品，通过加工摆放在室内倒也增添了几分雅气。当时在小区收垃圾的师傅那看到了这件根材，舍不得它被当成废料，便捡回家希望能做点什么，于是做了这座梅花树，其实不该插这么多梅花的，但是当时买了就一起放上去了，摆在家里红艳艳的，看着喜庆。
+        photos:
+          - data:
+              file: seeds/luhanbeijing/2015-08-14-rootmade/9.jpg
+              content_type: image/jpeg

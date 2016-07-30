@@ -1,0 +1,327 @@
+nickname: 猪小梁
+description: 动漫形象猪小梁的作者，系列涂鸦《猪眼看世界》的作者，动画人。
+avatar:
+  data:
+    file: seeds/zhuxiaoliangbeijing/zhuxiaoliangicon.jpg
+    content_type: image/jpeg
+galleries:
+  - name: 亲子手工博物馆
+    description: 每一位妈妈爸爸，在娃出生的时候，会重新开启自己的小世界，在这里和娃一同成长。“我们的小世界”，是我们今天的博物馆主题。开启小世界的是艾妈猪小梁和小艾（五岁）。
+    items:
+      - name: 我和小艾
+        description: 这个是17年前的我。大学暑假回家，发现一个新开的泥塑店，就进去做了一个小壶，做完之后有余料，老板说你还可以捏点什么。想想那就捏自己吧，于是把那天的打扮给捏进去了。这是2014年的小艾。小艾在翻箱倒柜时，看到了这个“妈妈”，于是要求捏一个她，要和妈妈在一起（那时我才刚刚开始接触轻粘土，手工很粗糙）。那时小艾头发短一些，还留着波波头，穿着小狗衫～
+        date_y: 1998
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/1-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/1-2.jpg
+              content_type: image/jpeg
+      - name: 我和小艾的恐龙
+        description: 我喜欢恐龙。我最早的网名叫“恐龟龟”，就是漫画《阿拉蕾》里阿拉蕾的一个玩伴，背着乌龟壳的恐龙——恐龟。我觉得恐龙很萌，没有那种害怕的感觉，包括《侏罗纪公园》里面也觉得恐龙呆萌呆萌的，很喜欢。这三只大恐龙是之后在这家泥塑店捏的，直到十几年后，妈妈在清理我的东西时（特别感谢妈妈对我的东西的珍视），在一个大箱子里发现了历经岁月的他们，碰碰撞撞缺失不少，唏嘘间我把他们带回北京。也许是我们家里有很多和恐龙有关的东西。那天去幼儿园接小艾回家，小艾的老师珍惜的从抽屉里拿出这只泡泡颗粒做的小恐龙，大大的夸奖了小艾一番。我把他们放在了一起，看看未来是不是还有更多的恐龙出现。
+        date_y: 1999
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/2-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/2-2.jpg
+              content_type: image/jpeg
+      - name: 小白和小黑
+        description: 十二年前我养了一只小猫，叫小白！那时去小区的商店买灯泡，看到一窝小猫蹲在货架上，太可爱啦，忍不住学着喵喵叫了几声，老板看我激动，就问我要不要养，当然要养啦~~~~  就这样小白来到我们身边。小白从出生就是短尾巴，“Z Z Z”形的，虽然不能像其它小猫一样用尾巴缠着你，但是它还是会用小小的短尾巴蹭蹭你，那种感觉真好玩。这三只小白是在另一家陶泥店做的。招财小白身上的花纹，是用毛笔画的，这么多年没有再认真看过，现在看来发现当时画的很仔细。另外两个造型就是小白睡觉的样子。这些小白外形很粗糙，但是手捏着就能到感觉小白的喵喵叫，回想起它调皮的样子。虽然小艾没见小白，但是小艾在看到小白的照片后，就要求我给她讲小白的故事。之后小艾画了只小白，并缠着我用轻黏土捏一只画里的小白。后来我们又一起做了一本关于小白的书，小艾提出来给小白搭个伴儿，于是就有了 “小黑”。
+        date_y: 1999
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/3-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/3-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/3-3.jpg
+              content_type: image/jpeg
+      - name: 手绘葫芦
+        description: 这是在菜地里捡来的葫芦，晾干了之后就想做点什么吧。有一天，在上面画了一只恐龙，嗯，就是我喜欢的恐龙。画了一只男恐龙后，葫芦没有画满，我就想着恐龙得做点啥，那就追着我喜欢吃的糖葫芦吧，一只拿着糖葫芦的小猪加上了；小猪又追着小鸭子的气球跑，然后小鸭子追着美女恐龙妈妈跑，最后美女恐龙看到帅帅的男恐龙紧追不舍，这样一个循环的小故事，直接画到葫芦上去了。从花鸟市场上买回来了一堆小葫芦，小艾从里面拿出一个，一边念叨着：“这是一个小娃娃。”一边给葫芦描了眼睛，嘴巴笑眯眯的，“还要穿衣服。”画上衣服和围兜，最后要求我给小葫芦娃上色，完了就美美的放在桌子上了。葫芦娃诞生啦！
+        date_y: 2014
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/4-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/4-2.jpg
+              content_type: image/jpeg
+      - name: 葫芦膀爷
+        description: 夏天，带着小艾逛街，有位老爷爷过马路，光着膀子，拿着葵扇。小艾就问：“妈妈，为什么那个爷爷不穿衣服？光溜溜，羞羞！”我跟她解释：“那是膀爷啦，因为天气太热啦~  爷爷会出很多汗很不舒服，光着膀子多舒服呀，再拿个扇子扇风，穿个大裤衩就更凉快啦！”这个葫芦膀爷，就这么来啦。小艾给葫芦画了膀爷的脸，我给加的大裤衩，大碗茶杯和葵扇。完工时，小艾说要给膀爷一块毛巾，就捏了一块，贴在大裤衩上了。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/5.jpg
+              content_type: image/jpeg
+      - name: 我们的画
+        description: 小艾开始画画时，我就把小艾的作品收集起来，从2010年到2015年，慢慢看她一点点从无形的画笔印记，到出现了有意识的绘画形状，形态和场景，满满的成长记忆。 这只小猪叫 “猪小梁”，是我创作的漫画形象，从2006年一直到现在，厚厚的一沓手稿，也是记录“猪小梁”成长的日记。
+        date_y: 2006
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/6.jpg
+              content_type: image/jpeg
+      - name: 爸爸辛苦啦
+        description: 之前和小艾一起看很多立体书，感觉它们的结构很奇妙，在平面的绘本里，能展现出非常惊奇的立体画面。有一天，小艾也想给爸爸做一张立体贺卡，我只能硬着头皮在网上找资料，翻动家里的立体书研究里面的结构，和小艾一起动手绘制卡片，终于在爸爸回家之前，完成了我们的第一张手工立体贺卡， “爸爸辛苦啦！”。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/7.jpg
+              content_type: image/jpeg
+      - name: 大象一家
+        description: 在我和小艾的亲子时间里，我们一起做了这套大象。我觉得小朋友在心里总是有一个家的概念，首先要有一个妈妈，然后要有小宝贝，然后再有爸爸（为什么爸爸会最后出现，我也搞不懂）。这次是先做了象爸爸，然后是象妈妈，象宝宝，组成了一家。很简单的手工，但是看着它们挤在一起很温馨。
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/8.jpg
+              content_type: image/jpeg
+      - name: 圣斗士盔甲
+        description: 2013年，小艾幼儿园开万圣狂欢节。那时候小艾很迷盔甲，缠着我要，我的童年记忆里是有一套盔甲的，那就是《圣斗士》里的黄金圣衣。Do it！起初找资料时，我感觉比较容易制作，开工以后发现是一个大工程，圣衣要像衣服一样穿在身上，每一块都要拼接，而且要能活动，费脑！做之前画了一个草图，用纸板当布来裁剪，拼接；头盔的大小修改了好几次，花纹的细节一一做了处理！当小艾穿上做好的黄金圣衣美滋滋的显摆时，“一家”概念又萌生了，“妈妈，也给爸爸做一件吧，你也要，我们一家穿！”崩溃，此时离万圣节只有两周了，于是打鸡血的赶制，兴许是做小艾的天枰座圣衣打下的好底子，后来小艾爸爸的白羊座圣衣和我的狮子座圣衣也都做出来了，金光闪闪的，全家套上成就感满满。万圣节当天，当我们酷酷的一家出现在幼儿园的操场时，全场沸腾，手机相机狂拍，当明星就是这样的感觉吧！
+        date_y: 2013
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/9-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/9-2.jpg
+              content_type: image/jpeg
+      - name: 五颜六色的翅膀
+        description: 小艾在去年11月初有说要一个翅膀，能飞的，禁不住磨叽，动手用纸板和泡沫纸给她做了一个五颜六色的翅膀，做好的第二天，小艾背着去上学，遇到带着娃娃的奶奶：“快看，姐姐变大鸟了！”，遇到保安叔叔：“呦，大雁来了！”，来到幼儿园：“哎呀，小艾你知道今天是感恩节呀，扮着火鸡就来啦~”一切惊喜皆意外，小小的手工让小艾幸福了一天，很不错！
+        date_y: 2014
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/10-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/10-2.jpg
+              content_type: image/jpeg
+      - name: 我们的小世界
+        description: 当我还在幼儿园做小朋友的时候，幼儿园的老师给我们办了一个游园会，有图书馆，有饭店，还有可以一起开动的公共汽车。这些都深深的烙在我的记忆里，时时想起，那年是一九八零年。时光飞逝，2015年5份，我把这个体验重新复原了，在公园里举办了一场“我们的小世界”纸箱派对活动。图书馆里有带着馆长帽的馆长，饭店里的大厨很彪悍，邮局派出像小燕子一样翻飞，在活动场地愉快送信的邮差，超市里大声招呼大家购买的收银员，有恐龙出没的城堡，四处游荡招揽客人的火车，带着客人乱串的出租车，满当当堆着鱼的渔场和渔船，还有精彩剧目演出的剧场，给商店开张表演的舞龙，满满的一大场地。这是老师送给我的珍贵礼物，我把它送给了小艾，送给了参加的小伙伴，这个一定会在他们成长经历中带来启发，一生难忘。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/11-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/11-2.jpg
+              content_type: image/jpeg
+      - name: 小艾的成长墙
+        description: 在我们家，有一个小艾的成长墙，当小艾刚刚会站的时候，我让小艾靠站在厨房的空白瓷砖墙边，给她画了一道杠，记录下小艾的高度和日期，以后隔段时间我们就会重复这个小小的活动。渐渐的，会说话的小艾会在量完身高的时候，要求画上当时她喜欢的小动物，兔子呀，小牛呀，小猫呀什么的；再后来，家里来的小朋友也加入了这个活动，每次来我们家都要求加入自己的身高，亲朋好友也热心手绘，还有小朋友也画过自己的拿手绝活，陆陆续续的添加了一大面墙。“我妈妈在上面画画，好看吧！”小艾大声骄傲的说。
+        date_y: 2011
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-09-21-handmade/12.jpg
+              content_type: image/jpeg
+  - name: 葫芦娃博物馆
+    description: 葫芦，“福禄”—— 一种承载了美好寓意的物件，时常出现在我们的家里；小黄人，巴巴爸爸，乔巴，海绵宝宝...各种可爱讨巧的动漫人物，如果它们遇到一起会发生什么样的结果？，我在初中时开始从无厘头的《阿拉蕾》接触到动漫，一颗动漫的种子在心里萌发，等到大学毕业的时候，直接转行到了动漫业，做动画，画漫画，玩得不亦乐乎。做动漫的人一般比较喜欢做手工。有一天，她手里有了一只葫芦和一块粘土，于是就有了动漫葫芦娃的诞生。
+    items:
+      - name: 桥本和伙计
+        description: 有一天，我想尝试做一组定格漫画，正没合适的材料，看到旁边放着的小葫芦和粘土，于是用粘土在葫芦上捏出了角色效果，拍了一组分镜照片。这真是一次意外的收获，这不就是葫芦娃嘛！我开始认真的做更多葫芦娃，感受葫芦和粘土结合的魅力。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/1-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/1-2.jpg
+              content_type: image/jpeg
+      - name: 寿星
+        description: 刚开始时，各种细节都捏不好。葫芦娃还是手绘的脸，虽然不满意，但没有找到突破口。这个寿星的袖子和小桃子都特意的琢磨一番，还有桃子上粉红色的尖，捏这些细节让自己对粘土有了进一步了解。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/2.jpg
+              content_type: image/jpeg
+      - name: 阿拉蕾
+        description: 十二年前我养了一只小猫，叫小白！那时去小区的商店买灯泡，看到一窝小猫蹲在货架上，太可爱啦，忍不住学着喵喵叫了几声，老板看我激动，就问我要不要养，当然要养啦~~~~  就这样小白来到我们身边。小白从出生就是短尾巴，“Z Z Z”形的，虽然不能像其它小猫一样用尾巴缠着你，但是它还是会用小小的短尾巴蹭蹭你，那种感觉真好玩。这三只小白是在另一家陶泥店做的。招财小白身上的花纹，是用毛笔画的，这么多年没有再认真看过，现在看来发现当时画的很仔细。另外两个造型就是小白睡觉的样子。这些小白外形很粗糙，但是手捏着就能到感觉小白的喵喵叫，回想起它调皮的样子。虽然小艾没见小白，但是小艾在看到小白的照片后，就要求我给她讲小白的故事。之后小艾画了只小白，并缠着我用轻黏土捏一只画里的小白。后来我们又一起做了一本关于小白的书，小艾提出来给小白搭个伴儿，于是就有了 “小黑”。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/3.jpg
+              content_type: image/jpeg
+      - name: 泡泡秀小丑
+        description: 捏小丑的时候，我尝试用粘土制作葫芦娃的脸部，粘土对小丑眼睛形状的塑造，让我体会到了更多的惊喜。小丑穿着一套明亮的衣服在宽敞的空间里表演，真是令人愉悦的体验。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/4-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/4-2.jpg
+              content_type: image/jpeg
+      - name: 阿拉伯猫
+        description: 这只阿拉伯猫，让我开始关注到除了服饰外更为细节的地方，发型。这样一条一条的发型，如何去搓细细的条，并把他们摆出图案来，还是非常考技术的。因为是阿拉伯人，最后还加了把小匕首。淘气的小艾画了一只猫脸，很俏皮。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/5-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/5-2.jpg
+              content_type: image/jpeg
+      - name: 兔爷大将军
+        description: 某天，有一个想法：我要看看我能捏葫芦娃到怎么细致的一个程度。随时拿来一个葫芦就一点一点的捏。本来我只是想捏一个大概的大将军，捏到一半时，小艾在上面画了一只兔子脸，我又在头上加了蓝色的长翎，发到朋友圈后有朋友就说，这不是兔爷吗？嗯，应该是心中兔爷的印象很深刻吧，以至于隐射到捏的葫芦身上。在做将军的时候，我先在葫芦身上给它穿了一件黄色的袍子，外面做了100多个绿豆大小的鳞片。本来想在它手上做一把刀，但是觉得刀太生硬了，于是就做了一只缠满花藤的花棒。因为是兔爷嘛，最后还做一个披风，这样才威风嘛！
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/6-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/6-2.jpg
+              content_type: image/jpeg
+      - name: 巴巴爸爸系列
+        description: 想到试试可以把葫芦都盖起来尝试一下效果，而小艾最喜欢的巴巴爸爸系列正好最好捏。开始做巴巴爸爸，觉得原型蛮简单的，捏进去后发现有很多东西要细细的捏制，巴巴妈妈头上的小花，小鸟（巴巴祖身上的小鸟只有半个一角硬币大），五官尤其他们的睫毛等等。从这以后，发现给葫芦打一个底，不仅粘性提高，而且看起来更加好看。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/7-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/7-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/7-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/7-4.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/7-5.jpg
+              content_type: image/jpeg
+      - name: 白兵人
+        description: 白兵人，是我对葫芦的制作的一个新的尝试：用粘土先在葫芦上，预先做好兵人的呼吸口和头盔的轮廓后，再用白粘土覆盖，最后加细节，眼睛，腰带，枪等等。完成以后，白兵人的轮廓分明，很有立体感，成就感满满的。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/8-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/8-2.jpg
+              content_type: image/jpeg
+      - name: 小黄人系列
+        description: 我很喜欢的小黄人，他们对主人的膜拜和执着让人感慨，每一只小黄人都有无限的动力去完成一件事情的精神头深深的吸引了我，于是就有了小黄人系列，从原始状态一直到现代装束，制作过程相当愉悦，看一堆小黄人挤在一起，仿佛听到他们热闹的欢歌，尽情的挥洒他们的精力。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/9-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/9-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/9-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/9-4.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/9-5.jpg
+              content_type: image/jpeg
+      - name: 海绵宝宝系列
+        description: 海绵宝宝大电影里，有一首歌叫花生先生，海绵宝宝和派大星一起唱这首歌的时候，觉得他们特别的高兴。看了海绵宝宝以后，就觉得人生应该很简单，如果过单纯的生活的话，就很单纯的处理事情就好，不忘初心，保持善良。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/10-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/10-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/10-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/10-4.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/10-5.jpg
+              content_type: image/jpeg
+      - name: 圣诞老人系列
+        description: 圣诞节前，我打算做一套圣诞主题的葫芦娃。于是研究了一下圣诞老人和驯鹿的故事，给每个有名字的驯鹿设定的他们的性格，一边捏，一边想像他们一伙在一起的场景：漫天飘雪的冬天里，小朋友在家门前堆起了雪人，驯鹿们拉着圣诞老人，爬进了烟囱给小朋友送礼物。圣诞老人本来有八只驯鹿，但是有一年，圣诞老人去送礼物的时候遇到一场大雾（wumai）找不到烟囱了。正好红鼻子的鲁道夫出现了，那个红鼻子特别特别的亮，圣诞老人一眼就看到了他，于是鲁道夫在队伍前面带路，直到圣诞老人找到了烟囱。
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/11-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/11-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/11-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/11-4.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/11-5.jpg
+              content_type: image/jpeg
+      - name: 动物园系列
+        description: 这套动物灵感来自我去年做的一套六个纸箱车。朋友送了六个一样大的盒子，我将它们掏空，加上轮子，把手，还在盒子前面画了动物的脸谱，孩子们拎着盒子车跑步，满场是笑声。我以前在动物园实习过，中午的时候就跑去看河马摇耳朵，大象晃脑袋，恐龙也是最爱，他们都是胖胖的体型，又憨又萌！喜欢～ 捏这套动物的是凌晨的时候，在安静的地方做葫芦总是特别的有感觉，嘴巴怎么处理，色彩如何搭配什么的。最后我给每个动物都加了一份食物，火龙果，菠萝，苹果，西瓜，胡萝卜，吃肉的狮子独有一份羊腿，馋坏它们了，眼神都定定的盯着食物，很俏皮！这是我做过的最淋漓尽致的一套葫芦娃～
+        date_y: 2015
+        country: 中国
+        city: 北京
+        photos:
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/12-1.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/12-2.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/12-3.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/12-4.jpg
+              content_type: image/jpeg
+          - data:
+              file: seeds/zhuxiaoliangbeijing/2015-12-25-gourd/12-5.jpg
+              content_type: image/jpeg
